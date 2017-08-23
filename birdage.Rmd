@@ -1,0 +1,59 @@
+---
+title: "Bird Age"
+author: "Robin"
+date: "August 19, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(rvest)
+
+```
+
+## Bird Age
+
+I stumbled across a dataset of bird ages on a (USGS website)[https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm], and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc)
+
+
+```{r load data}
+birdage=read_csv("bird age.csv") %>% #this data is from https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm
+ separate(., "Minimum age at encounter", into=c("year","year2","month","month2"), sep=" ") %>%
+  filter(complete.cases(.)) %>% #I just chucked out one row because the bird age was less than a year, I'll figure out how to keep it later. Had to do this versus using the dates because the dates are screwed up (some say '99' for the day of the month)
+  mutate(age=as.numeric(year)+(as.numeric(month)/12)) #so that we can factor in partial years
+  
+birdnames=read_csv("birdnames.csv")   #this data is from http://fielddata.blogspot.com/p/field-notes-data-tips-download-page.html
+birdnameage=merge(birdage, birdnames, all=T) %>% #merge the two datasets together
+filter(., !is.na(select(., age)))
+
+gapnames=read_csv("gapnames.csv") #I manually found some on Wiki quickly, not sure theyre perfect to species
+gapnames=gapnames[!duplicated(gapnames$COMMONNAME),] #maybe if I get rid of duplicates?
+
+test=merge(birdnameage, gapnames, all =T) #I have no fucking clue why this isnt working ill fix this later
+
+```
+
+## Link Between Bird Age and Phylogenetic Order?
+
+I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.
+
+```{r histogram}
+ggplot(birdnameage, aes(age))+
+  geom_histogram()+
+  theme_bw()
+
+```
+
+
+
+
+```{r }
+ggplot(birdnameage, aes(Order, age))+
+  geom_jitter()+
+  geom_boxplot(aes(alpha=0.3),outlier.shape = NA)+
+  theme(axis.text = element_text(angle=90, hjust = 1, size=10),
+        legend.position = "none",
+        axis.title=element_text(size=14, face = "bold"))
+```
+

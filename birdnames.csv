@@ -1,0 +1,2181 @@
+SPEC,COMMONNAME,SCINAME,SPEC6,Order,Family,Subfamily
+ABTO,Abert's Towhee,Melozone aberti,MELABE,Passeriformes,Emberizidae,
+ACFL,Acadian Flycatcher,Empidonax virescens,EMPVIR,Passeriformes,Tyrannidae,Fluvicolinae
+ACWO,Acorn Woodpecker,Melanerpes formicivorus,MELFOR,Piciformes,Picidae,Picinae
+ADWA,Adelaide's Warbler,Setophaga adelaidae,SETADE,Passeriformes,Parulidae,
+AFCD,African Collared-Dove,Streptopelia roseogrisea,STRROS,Columbiformes,Columbidae,
+AFSI,African Silverbill,Lonchura cantans,LONCAN,Passeriformes,Estrildidae,
+AGHE,Agami Heron,Agamia agami,AGAAGA,Pelecaniformes,Ardeidae,
+AKEK,Akekee,Loxops caeruleirostris,LOXCAE,Passeriformes,Fringillidae,Drepanidinae
+AKEP,Akepa,Loxops coccineus,LOXCOC,Passeriformes,Fringillidae,Drepanidinae
+AKIA,Akiapolaau,Hemignathus munroi,HEMMUN,Passeriformes,Fringillidae,Drepanidinae
+AKIK,Akikiki,Oreomystis bairdi,OREBAI,Passeriformes,Fringillidae,Drepanidinae
+AKOH,Akohekohe,Palmeria dolei,PALDOL,Passeriformes,Fringillidae,Drepanidinae
+ALFL,Alder Flycatcher,Empidonax alnorum,EMPALN,Passeriformes,Tyrannidae,Fluvicolinae
+ACGO,Aleutian Cackling Goose,Branta h. leucopareia,BRAHLE,Anseriformes,Anatidae,Anserinae
+ALTE,Aleutian Tern,Onychoprion aleuticus,ONYALE,Charadriiformes,Laridae,Sterninae
+ALHU,Allen's Hummingbird,Selasphorus sasin,SELSAS,Apodiformes,Trochilidae,Trochilinae
+ALSW,Alpine Swift,Apus melba,APUMEL,Apodiformes,Apodidae,Apodinae
+ALOR,Altamira Oriole,Icterus gularis,ICTGUL,Passeriformes,Icteridae,
+ALYE,Altamira Yellowthroat,Geothlypis flavovelata,GEOFLA,Passeriformes,Parulidae,
+AMAU,Amaui,Myadestes woahensis,MYAWOA,Passeriformes,Turdidae,
+AMKI,Amazon Kingfisher,Chloroceryle amazona,CHLAMA,Coraciiformes,Alcedinidae,Cerylinae
+AMAV,American Avocet,Recurvirostra americana,RECAME,Charadriiformes,Recurvirostridae,
+AMBI,American Bittern,Botaurus lentiginosus,BOTLEN,Pelecaniformes,Ardeidae,
+ABDU,American Black Duck,Anas rubripes,ANARUB,Anseriformes,Anatidae,Anatinae
+ABDH,American Black Duck X Mallard Hybrid,Anas rubripes x platy.,ANARUP,Anseriformes,Anatidae,Anatinae
+AMCO,American Coot,Fulica americana,FULAME,Gruiformes,Rallidae,
+AMCR,American Crow,Corvus brachyrhynchos,CORBRA,Passeriformes,Corvidae,
+AMDI,American Dipper,Cinclus mexicanus,CINMEX,Passeriformes,Cinclidae,
+AMFL,American Flamingo,Phoenicopterus ruber,PHORUB,Phoenicopteriformes,Phoenicopteridae,
+AMGP,American Golden-Plover,Pluvialis dominica,PLUDOM,Charadriiformes,Charadriidae,Charadriinae
+AMGO,American Goldfinch,Spinus tristis,SPITRI,Passeriformes,Fringillidae,Carduelinae
+AGWT,American Green-winged Teal,Anas c. carolinensis,ANACCA,Anseriformes,Anatidae,Anatinae
+AMKE,American Kestrel,Falco sparverius,FALSPA,Falconiformes,Falconidae,Falconinae
+AMOY,American Oystercatcher,Haematopus palliatus,HAEPAL,Charadriiformes,Haematopodidae,
+AMPI,American Pipit,Anthus rubescens,ANTRUB,Passeriformes,Motacillidae,
+APKI,American Pygmy Kingfisher,Chloroceryle aenea,CHLAEN,Coraciiformes,Alcedinidae,Cerylinae
+AMRE,American Redstart,Setophaga ruticilla,SETRUT,Passeriformes,Parulidae,
+AMRO,American Robin,Turdus migratorius,TURMIG,Passeriformes,Turdidae,
+ATTW,American Three-toed Woodpecker,Picoides dorsalis,PICDOR,Piciformes,Picidae,Picinae
+ATSP,American Tree Sparrow,Spizella arborea,SPIARB,Passeriformes,Emberizidae,
+AWPE,American White Pelican,Pelecanus erythrorhynchos,PELERY,Pelecaniformes,Pelecanidae,
+AMWI,American Wigeon,Anas americana,ANAAME,Anseriformes,Anatidae,Anatinae
+AMWO,American Woodcock,Scolopax minor,SCOMIN,Charadriiformes,Scolopacidae,Scolopacinae
+ATHU,Amethyst-throated Hummingbird,Lampornis amethystinus,LAMAME,Apodiformes,Trochilidae,Trochilinae
+ANMU,Ancient Murrelet,Synthliboramphus antiquus,SYNANT,Charadriiformes,Alcidae,
+ANHI,Anhinga,Anhinga anhinga,ANHANH,Suliformes,Anhingidae,
+ANIA,Anianiau,Magumma parva,MAGPAR,Passeriformes,Fringillidae,Drepanidinae
+ANHU,Anna's Hummingbird,Calypte anna,CALANN,Apodiformes,Trochilidae,Trochilinae
+ANCH,Antillean Crested Hummingbird,Orthorhyncus cristatus,ORTCRI,Apodiformes,Trochilidae,Trochilinae
+ANEU,Antillean Euphonia,Euphonia musica,EUPMUS,Passeriformes,Fringillidae,Euphoniinae
+ANMA,Antillean Mango,Anthracothorax dominicus,ANTDOM,Apodiformes,Trochilidae,Trochilinae
+ANNI,Antillean Nighthawk,Chordeiles gundlachii,CHOGUN,Caprimulgiformes,Caprimulgidae,Chordeilinae
+ANPS,Antillean Palm-Swift,Tachornis phoenicobia,TACPHO,Apodiformes,Apodidae,Apodinae
+ANPI,Antillean Piculet,Nesoctites micromegas,NESMIC,Piciformes,Picidae,Picumninae
+ANSI,Antillean Siskin,Spinus dominicensis,SPUDOM,Passeriformes,Fringillidae,Carduelinae
+APAP,Apapane,Himatione sanguinea,HIMSAN,Passeriformes,Fringillidae,Drepanidinae
+APFA,Aplomado Falcon,Falco femoralis,FALFEM,Falconiformes,Falconidae,Falconinae
+ARLO,Arctic Loon,Gavia arctica,GAVARC,Gaviiformes,Gaviidae,
+ARTE,Arctic Tern,Sterna paradisaea,STEPAD,Charadriiformes,Laridae,Sterninae
+ARWA,Arctic Warbler,Phylloscopus borealis,PHYBOR,Passeriformes,Phylloscopidae,
+ARWO,Arizona Woodpecker,Picoides arizonae,PICARI,Piciformes,Picidae,Picinae
+ARRW,Arrowhead Warbler,Setophaga pharetra,SETPHA,Passeriformes,Parulidae,
+ATFL,Ash-throated Flycatcher,Myiarchus cinerascens,MYICIN,Passeriformes,Tyrannidae,Tyranninae
+ASSP,Ashy Storm-Petrel,Oceanodroma homochroa,OCEHOM,Procellariiformes,Hydrobatidae,
+AFOW,Ashy-faced Owl,Tyto glaucops,TYTGLA,Strigiformes,Tytonidae,
+ATBT,Ashy-throated Bush-Tanager,Chlorospingus canigularis,CHLCAG,Passeriformes,Emberizidae,
+ABFL,Asian Brown Flycatcher,Muscicapa dauurica,MUSDAU,Passeriformes,Muscicapidae,
+ATGR,Atitlan Grebe,Podilymbus gigas,PODGIG,Podicipediformes,Podicipedidae,
+ATBR,Atlantic Brant,Branta b. bernicla,BRABBE,Anseriformes,Anatidae,Anserinae
+ATPU,Atlantic Puffin,Fratercula arctica,FRAARC,Charadriiformes,Alcidae,
+AUOR,Audubon's Oriole,Icterus graduacauda,ICTGRA,Passeriformes,Icteridae,
+AUSH,Audubon's Shearwater,Puffinus lherminieri,PUFLHE,Procellariiformes,Procellariidae,
+AUWA,Audubon's Warbler,Setophaga coronata auduboni,SETCAU,Passeriformes,Parulidae,
+AZTH,Aztec Thrush,Ridgwayia pinicola,RIDPIN,Passeriformes,Turdidae,
+AZGA,Azure Gallinule,Porphyrio flavirostris,PORFLR,Gruiformes,Rallidae,
+AZCH,Azure-crowned Hummingbird,Amazilia cyanocephala,AMACYC,Apodiformes,Trochilidae,Trochilinae
+AHJA,Azure-hooded Jay,Cyanolyca cucullata,CYACUC,Passeriformes,Corvidae,
+ARTA,Azure-rumped Tanager,Tangara cabanisi,TANCAB,Passeriformes,Thraupidae,
+BACS,Bachman's Sparrow,Peucaea aestivalis,PEUAES,Passeriformes,Emberizidae,
+BAWA,Bachman's Warbler,Vermivora bachmanii,VERBAC,Passeriformes,Parulidae,
+BAMO,Bahama Mockingbird,Mimus gundlachii,MIMGUN,Passeriformes,Mimidae,
+BAHO,Bahama Oriole,Icterus northropi,ICTNOR,Passeriformes,Icteridae,
+BAHS,Bahama Swallow,Tachycineta cyaneoviridis,TACCYA,Passeriformes,Hirundinidae,Hirundininae
+BAHW,Bahama Warbler,Setophaga flavescens,SETFLA,Passeriformes,Parulidae,
+BAWO,Bahama Woodstar,Calliphlox evelynae,CALEVE,Apodiformes,Trochilidae,Trochilinae
+BAYE,Bahama Yellowthroat,Geothlypis rostrata,GEOROS,Passeriformes,Parulidae,
+BATE,Baikal Teal,Anas formosa,ANAFOR,Anseriformes,Anatidae,Anatinae
+BASA,Baird's Sandpiper,Calidris bairdii,CALBAI,Charadriiformes,Scolopacidae,Scolopacinae
+BAIS,Baird's Sparrow,Ammodramus bairdii,AMMBAI,Passeriformes,Emberizidae,
+BATR,Baird's Trogon,Trogon bairdii,TROBAI,Trogoniformes,Trogonidae,Trogoninae
+BAEA,Bald Eagle,Haliaeetus leucocephalus,HALLEU,Accipitriformes,Accipitridae,Accipitrinae
+BASO,Balsas Screech-Owl,Megascops seductus,MEGSED,Strigiformes,Strigidae,
+BAOR,Baltimore Oriole,Icterus galbula,ICTGAL,Passeriformes,Icteridae,
+BANA,Bananaquit,Coereba flaveola,COEFLA,Passeriformes,,
+BABW,Band-backed Wren,Campylorhynchus zonatus,CAMZON,Passeriformes,Troglodytidae,
+BAQU,Banded Quail,Philortyx fasciatus,PHIFAS,Galliformes,Odontophoridae,
+BANW,Banded Wren,Thryophilus pleurostictus,THRPLE,Passeriformes,Troglodytidae,
+BSTP,Band-rumped Storm-Petrel,Oceanodroma castro,OCECAS,Procellariiformes,Hydrobatidae,
+BRSW,Band-rumped Swift,Chaetura spinicaudus,CHASPI,Apodiformes,Apodidae,Chaeturinae
+BTBA,Band-tailed Barbthroat,Threnetes ruckeri,THRRUC,Apodiformes,Trochilidae,Phaethornithinae
+BTPI,Band-tailed Pigeon,Patagioenas fasciata,PATFAS,Columbiformes,Columbidae,
+BANS,Bank Swallow,Riparia riparia,RIPRIP,Passeriformes,Hirundinidae,Hirundininae
+BABU,Barbados Bullfinch,Loxigilla barbadensis,LOXBAD,Passeriformes,Emberizidae,
+BARW,Barbuda Warbler,Setophaga subita,SETSUB,Passeriformes,Parulidae,
+BACA,Bare-crowned Antbird,Gymnocichla nudiceps,GYMNUD,Passeriformes,Thamnophilidae,
+BLOW,Bare-legged Owl,Gymnoglaux lawrencii,GYMLAW,Strigiformes,Strigidae,
+BNUM,Bare-necked Umbrellabird,Cephalopterus glabricollis,CEPGLA,Passeriformes,Cotingidae,
+BSSO,Bare-shanked Screech-Owl,Megascops clarkii,MEGCLA,Strigiformes,Strigidae,
+BTTH,Bare-throated Tiger-Heron,Tigrisoma mexicanum,TIGMEX,Pelecaniformes,Ardeidae,
+BANO,Barn Owl,Tyto alba,TYTALB,Strigiformes,Tytonidae,
+BARS,Barn Swallow,Hirundo rustica,HIRRUS,Passeriformes,Hirundinidae,Hirundininae
+BARG,Barnacle Goose,Branta leucopsis,BRALEU,Anseriformes,Anatidae,Anserinae
+BAAN,Barred Antshrike,Thamnophilus doliatus,THADOL,Passeriformes,Thamnophilidae,
+BABE,Barred Becard,Pachyramphus versicolor,PACVER,Passeriformes,Tityridae,
+BAFF,Barred Forest-Falcon,Micrastur ruficollis,MICRUF,Falconiformes,Falconidae,Micrasturinae
+BAHA,Barred Hawk,Morphnarchus princeps,MORPRI,Accipitriformes,Accipitridae,Accipitrinae
+BADO,Barred Owl,Strix varia,STRVAR,Strigiformes,Strigidae,
+BAPA,Barred Parakeet,Bolborhynchus lineola,BOLLIN,Psittaciformes,Psittacidae,Arinae
+BAPU,Barred Puffbird,Nystalus radiatus,NYSRAD,Piciformes,Bucconidae,
+BAGO,Barrow's Goldeneye,Bucephala islandica,BUCISL,Anseriformes,Anatidae,Anatinae
+BTGO,Bar-tailed Godwit,Limosa lapponica,LIMLAP,Charadriiformes,Scolopacidae,Scolopacinae
+BWOR,Bar-winged Oriole,Icterus maculialatus,ICTMAC,Passeriformes,Icteridae,
+BAFA,Bat Falcon,Falco rufigularis,FALRUF,Falconiformes,Falconidae,Falconinae
+BAYW,Bay Wren,Cantorchilus nigricapillus,CANNIG,Passeriformes,Troglodytidae,
+BBRC,Bay-breasted Cuckoo,Coccyzus rufigularis,COCRUF,Cuculiformes,Cuculidae,Cuculinae
+BBWA,Bay-breasted Warbler,Setophaga castanea,SETCAS,Passeriformes,Parulidae,
+BHTA,Bay-headed Tanager,Tangara gyrola,TANGYR,Passeriformes,Thraupidae,
+BESO,Bearded Screech-Owl,Megascops barbarus,MEGBAR,Strigiformes,Strigidae,
+BEWP,Bearded Wood-Partridge,Dendrortyx barbatus,DENBAR,Galliformes,Odontophoridae,
+BEAH,Beautiful Hummingbird,Calothorax pulcher,CALPUL,Apodiformes,Trochilidae,Trochilinae
+BETR,Beautiful Treerunner,Margarornis bellulus,MARBEL,Passeriformes,Furnariidae,Furnariinae
+BEEH,Bee Hummingbird,Mellisuga helenae,MELHEL,Apodiformes,Trochilidae,Trochilinae
+BEGU,Belcher's Gull,Larus belcheri,LARBEL,Charadriiformes,Laridae,Larinae
+BSSP,Belding's Savannah Sparrow,Passerculus s. beldingi,PASSBE,Passeriformes,Emberizidae,
+BEYE,Belding's Yellowthroat,Geothlypis beldingi,GEOBEL,Passeriformes,Parulidae,
+BEVI,Bell's Vireo,Vireo bellii,VIRBEL,Passeriformes,Vireonidae,
+BEFL,Belted Flycatcher,Xenotriccus callizonus,XENCAL,Passeriformes,Tyrannidae,Fluvicolinae
+BEKI,Belted Kingfisher,Megaceryle alcyon,MEGALC,Coraciiformes,Alcedinidae,Cerylinae
+BETH,Bendire's Thrasher,Toxostoma bendirei,TOXBEN,Passeriformes,Mimidae,
+BEPE,Bermuda Petrel,Pterodroma cahow,PTECAH,Procellariiformes,Procellariidae,
+BEHU,Berylline Hummingbird,Amazilia beryllina,AMABER,Apodiformes,Trochilidae,Trochilinae
+BESW,Bewick's Swan,Cygnus c. bewickii,CYGCBE,Anseriformes,Anatidae,Anserinae
+BEWR,Bewick's Wren,Thryomanes bewickii,THRBEW,Passeriformes,Troglodytidae,
+BITH,Bicknell's Thrush,Catharus bicknelli,CATBIC,Passeriformes,Turdidae,
+BIAN,Bicolored Antbird,Gymnopithys leucaspis,GYMLEU,Passeriformes,Thamnophilidae,
+BIHA,Bicolored Hawk,Accipiter bicolor,ACCBIC,Accipitriformes,Accipitridae,Accipitrinae
+BIOO,Bishop's Oo,Moho bishopi,MOHBIS,Passeriformes,Mohoidae,
+BLAN,Black Antshrike,Thamnophilus nigriceps,THANIG,Passeriformes,Thamnophilidae,
+BLBR,Black Brant,Branta b. nigricans,BRABNI,Anseriformes,Anatidae,Anserinae
+BLCA,Black Catbird,Melanoptila glabrirostris,MELGLA,Passeriformes,Mimidae,
+BLFR,Black Francolin,Francolinus francolinus,FRAFRA,Galliformes,Phasianidae,Phasianinae
+BLAG,Black Guan,Chamaepetes unicolor,CHAUNI,Galliformes,Cracidae,
+BLGU,Black Guillemot,Cepphus grylle,CEPGRY,Charadriiformes,Alcidae,
+BLHE,Black Hawk-Eagle,Spizaetus tyrannus,SPITYR,Accipitriformes,Accipitridae,Accipitrinae
+BLAK,Black Kite,Milvus migrans,MILMIG,Accipitriformes,Accipitridae,Accipitrinae
+BLMA,Black Mamo,Drepanis funerea,DREFUN,Passeriformes,Fringillidae,Drepanidinae
+BLNO,Black Noddy,Anous minutus,ANOMIN,Charadriiformes,Laridae,Sterninae
+BLOR,Black Oropendola,Psarocolius guatimozinus,PSAGUA,Passeriformes,Icteridae,
+BLOY,Black Oystercatcher,Haematopus bachmani,HAEBAC,Charadriiformes,Haematopodidae,
+BLPH,Black Phoebe,Sayornis nigricans,SAYNIG,Passeriformes,Tyrannidae,Fluvicolinae
+BLRA,Black Rail,Laterallus jamaicensis,LATJAM,Gruiformes,Rallidae,
+BLRF,Black Rosy-Finch,Leucosticte atrata,LEUATT,Passeriformes,Fringillidae,Carduelinae
+BLSC,Black Scoter,Melanitta americana,MELAME,Anseriformes,Anatidae,Anatinae
+BLSK,Black Skimmer,Rynchops niger,RYNNIG,Charadriiformes,Laridae,Rynchopinae
+BLSP,Black Storm-Petrel,Oceanodroma melania,OCEMEL,Procellariiformes,Hydrobatidae,
+BLSW,Black Swift,Cypseloides niger,CYPNIG,Apodiformes,Apodidae,Cypseloidinae
+BLTE,Black Tern,Chlidonias niger,CHLNIG,Charadriiformes,Laridae,Sterninae
+BLTH,Black Thrush,Turdus infuscatus,TURINF,Passeriformes,Turdidae,
+BLTU,Black Turnstone,Arenaria melanocephala,AREMEL,Charadriiformes,Scolopacidae,Scolopacinae
+BLVU,Black Vulture,Coragyps atratus,CORATR,Accipitriformes,Cathartidae,
+BAWB,Black-and-white Becard,Pachyramphus albogriseus,PACALB,Passeriformes,Tityridae,
+BAWH,Black-and-white Hawk-Eagle,Spizaetus melanoleucus,SPIMEL,Accipitriformes,Accipitridae,Accipitrinae
+BLWO,Black-and-white Owl,Ciccaba nigrolineata,CICNIG,Strigiformes,Strigidae,
+BAWW,Black-and-white Warbler,Mniotilta varia,MNIVAR,Passeriformes,Parulidae,
+BAYS,Black-and-yellow Silky-flycatcher,Phainoptila melanoxantha,PHAMEL,Passeriformes,Ptilogonatidae,
+BAYT,Black-and-yellow Tanager,Chrysothlypis chrysomelas,CHRCHR,Passeriformes,Thraupidae,
+BBOR,Black-backed Oriole,Icterus abeillei,ICTABE,Passeriformes,Icteridae,
+BBWO,Black-backed Woodpecker,Picoides arcticus,PICARC,Piciformes,Picidae,Picinae
+BBNW,Black-banded Woodcreeper,Dendrocolaptes picumnus,DENPIM,Passeriformes,Furnariidae,Dendrocolaptinae
+BLBH,Black-bellied Hummingbird,Eupherusa nigriventris,EUPNIG,Apodiformes,Trochilidae,Trochilinae
+BBPL,Black-bellied Plover,Pluvialis squatarola,PLUSQU,Charadriiformes,Charadriidae,Charadriinae
+BBSP,Black-bellied Storm-Petrel,Fregetta tropica,FRETRO,Procellariiformes,Hydrobatidae,
+BBWD,Black-bellied Whistling-Duck,Dendrocygna autumnalis,DENAUT,Anseriformes,Anatidae,Dendrocygninae
+BBEW,Black-bellied Wren,Pheugopedius fasciatoventris,PHEFAS,Passeriformes,Troglodytidae,
+BBCU,Black-billed Cuckoo,Coccyzus erythropthalmus,COCERY,Cuculiformes,Cuculidae,Cuculinae
+BLBF,Black-billed Flycatcher,Aphanotriccus audax,APHAUD,Passeriformes,Tyrannidae,Fluvicolinae
+BBMA,Black-billed Magpie,Pica hudsonia,PICHUD,Passeriformes,Corvidae,
+BBNT,Black-billed Nightingale-Thrush,Catharus gracilirostris,CATGRA,Passeriformes,Turdidae,
+BBPA,Black-billed Parrot,Amazona agilis,AMAAGI,Psittaciformes,Psittacidae,Arinae
+BBPU,Black-breasted Puffbird,Notharchus pectoralis,NOTPEC,Piciformes,Bucconidae,
+BBWQ,Black-breasted Wood-Quail,Odontophorus leucolaemus,ODOLEU,Galliformes,Odontophoridae,
+BBAL,Black-browed Albatross,Thalassarche melanophris,THAMEL,Procellariiformes,Diomedeidae,
+BLBW,Blackburnian Warbler,Setophaga fusca,SETFUS,Passeriformes,Parulidae,
+BCCH,Black-capped Chickadee,Poecile atricapillus,POEATR,Passeriformes,Paridae,
+BCDO,Black-capped Donacobius,Donacobius atricapilla,DONATR,Passeriformes,Donacobiidae,
+BCAF,Black-capped Flycatcher,Empidonax atriceps,EMPATR,Passeriformes,Tyrannidae,Fluvicolinae
+BCGN,Black-capped Gnatcatcher,Polioptila nigriceps,POLNIG,Passeriformes,Polioptilidae,
+BCPE,Black-capped Petrel,Pterodroma hasitata,PTEHAS,Procellariiformes,Procellariidae,
+BPYT,Black-capped Pygmy-Tyrant,Myiornis atricapillus,MYIATP,Passeriformes,Tyrannidae,Platyrinchinae
+BCSI,Black-capped Siskin,Spinus atriceps,SPIATC,Passeriformes,Fringillidae,Carduelinae
+BCSW,Black-capped Swallow,Notiochelidon pileata,NOTPIL,Passeriformes,Hirundinidae,Hirundininae
+BCVI,Black-capped Vireo,Vireo atricapilla,VIRATR,Passeriformes,Vireonidae,
+BCAT,Black-cheeked Ant-Tanager,Habia atrimaxillaris,HABATR,Passeriformes,Cardinalidae,
+BCWA,Black-cheeked Warbler,Basileuterus melanogenys,BASMEL,Passeriformes,Parulidae,
+BCWO,Black-cheeked Woodpecker,Melanerpes pucherani,MELPUC,Piciformes,Picidae,Picinae
+BCHJ,Black-chested Jay,Cyanocorax affinis,CYAAFF,Passeriformes,Corvidae,
+BCHS,Black-chested Sparrow,Peucaea humeralis,PEUHUM,Passeriformes,Emberizidae,
+BCHU,Black-chinned Hummingbird,Archilochus alexandri,ARCALE,Apodiformes,Trochilidae,Trochilinae
+BCSP,Black-chinned Sparrow,Spizella atrogularis,SPIATG,Passeriformes,Emberizidae,
+BCHA,Black-collared Hawk,Busarellus nigricollis,BUSNIG,Accipitriformes,Accipitridae,Accipitrinae
+BCOR,Black-cowled Oriole,Icterus prosthemelas,ICTPRO,Passeriformes,Icteridae,
+BCCO,Black-crested Coquette,Lophornis helenae,LOPHEL,Apodiformes,Trochilidae,Trochilinae
+BCTI,Black-crested Titmouse,Baeolophus atricristatus,BAEATR,Passeriformes,Paridae,
+BCNA,Black-crowned Antpitta,Pittasoma michleri,PITMIC,Passeriformes,Conopophagidae,
+BCNH,Black-crowned Night-Heron,Nycticorax nycticorax,NYCNYC,Pelecaniformes,Ardeidae,
+BPLT,Black-crowned Palm-Tanager,Phaenicophilus palmarum,PHAPAL,Passeriformes,Thraupidae,
+BCRT,Black-crowned Tityra,Tityra inquisitor,TITINQ,Passeriformes,Tityridae,
+BEWQ,Black-eared Wood-Quail,Odontophorus melanotis,ODOMEL,Galliformes,Odontophoridae,
+BFAN,Black-faced Antthrush,Formicarius analis,FORANA,Passeriformes,Formicariidae,
+BFGR,Black-faced Grassquit,Tiaris bicolor,TIABIC,Passeriformes,Emberizidae,
+BFAG,Black-faced Grosbeak,Caryothraustes poliogaster,CARPOL,Passeriformes,Cardinalidae,
+BFSO,Black-faced Solitaire,Myadestes melanops,MYAMEL,Passeriformes,Turdidae,
+BFAL,Black-footed Albatross,Phoebastria nigripes,PHONIG,Procellariiformes,Diomedeidae,
+BHEA,Black-headed Antthrush,Formicarius nigricapillus,FORNIG,Passeriformes,Formicariidae,
+BHBF,Black-headed Brush-Finch,Arremon atricapillus,ARRATR,Passeriformes,Emberizidae,
+BHGR,Black-headed Grosbeak,Pheucticus melanocephalus,PHEMEL,Passeriformes,Cardinalidae,
+BHGU,Black-headed Gull,Chroicocephalus ridibundus,CHRRID,Charadriiformes,Laridae,Larinae
+BHNT,Black-headed Nightingale-Thrush,Catharus mexicanus,CASMEX,Passeriformes,Turdidae,
+BHSA,Black-headed Saltator,Saltator atriceps,SALATR,Passeriformes,,
+BHSI,Black-headed Siskin,Spinus notatus,SPINOT,Passeriformes,Fringillidae,Carduelinae
+BHTF,Black-headed Tody-Flycatcher,Todirostrum nigriceps,TODNIG,Passeriformes,Tyrannidae,Platyrinchinae
+BHTR,Black-headed Trogon,Trogon melanocephalus,TROMEC,Trogoniformes,Trogonidae,Trogoninae
+BHOA,Black-hooded Antshrike,Thamnophilus bridgesi,THABRI,Passeriformes,Thamnophilidae,
+BLKI,Black-legged Kittiwake,Rissa tridactyla,RISTRI,Charadriiformes,Laridae,Larinae
+BMTO,Black-mandibled Toucan,Ramphastos ambiguus,RAMAMB,Piciformes,Ramphastidae,Ramphastinae
+BNST,Black-necked Stilt,Himantopus mexicanus,HIMMEX,Charadriiformes,Recurvirostridae,
+BLPW,Blackpoll Warbler,Setophaga striata,SETSTR,Passeriformes,Parulidae,
+BPYE,Black-polled Yellowthroat,Geothlypis speciosa,GEOSPE,Passeriformes,Parulidae,
+BRUW,Black-rumped Waxbill,Estrilda troglodytes,ESTTRO,Passeriformes,Estrildidae,
+BSTS,Black-striped Sparrow,Arremonops conirostris,ARRCON,Passeriformes,Emberizidae,
+BSWO,Black-striped Woodcreeper,Xiphorhynchus lachrymosus,XIPLAC,Passeriformes,Furnariidae,Dendrocolaptinae
+BTFL,Black-tailed Flycatcher,Myiobius atricaudus,MYIATD,Passeriformes,Tyrannidae,Fluvicolinae
+BTGN,Black-tailed Gnatcatcher,Polioptila melanura,POLMEL,Passeriformes,Polioptilidae,
+BTGD,Black-tailed Godwit,Limosa limosa,LIMLIM,Charadriiformes,Scolopacidae,Scolopacinae
+BTGU,Black-tailed Gull,Larus crassirostris,LARCRA,Charadriiformes,Laridae,Larinae
+BTAT,Black-tailed Trogon,Trogon melanurus,TROMER,Trogoniformes,Trogonidae,Trogoninae
+BTGG,Black-thighed Grosbeak,Pheucticus tibialis,PHETIB,Passeriformes,Cardinalidae,
+BTBW,Black-throated Blue Warbler,Setophaga caerulescens,SETCAE,Passeriformes,Parulidae,
+BTBO,Black-throated Bobwhite,Colinus nigrogularis,COLNIG,Galliformes,Odontophoridae,
+BTYW,Black-throated Gray Warbler,Setophaga nigrescens,SETNIG,Passeriformes,Parulidae,
+BTNW,Black-throated Green Warbler,Setophaga virens,SETVIR,Passeriformes,Parulidae,
+BTJA,Black-throated Jay,Cyanolyca pumilo,CYAPUM,Passeriformes,Corvidae,
+BTMJ,Black-throated Magpie-Jay,Calocitta colliei,CALCOL,Passeriformes,Corvidae,
+BTMA,Black-throated Mango,Anthracothorax nigricollis,ANTNIG,Apodiformes,Trochilidae,Trochilinae
+BTST,Black-throated Shrike-Tanager,Lanio aurantius,LANAUR,Passeriformes,Thraupidae,
+BTSP,Black-throated Sparrow,Amphispiza bilineata,AMPBIL,Passeriformes,Emberizidae,
+BTHT,Black-throated Trogon,Trogon rufus,TRORUS,Trogoniformes,Trogonidae,Trogoninae
+BTWR,Black-throated Wren,Pheugopedius atrogularis,PHEATR,Passeriformes,Troglodytidae,
+BTCO,Black-tipped Cotinga,Carpodectes hopkei,CARHOP,Passeriformes,Cotingidae,
+BVOR,Black-vented Oriole,Icterus wagleri,ICTWAG,Passeriformes,Icteridae,
+BVSH,Black-vented Shearwater,Puffinus opisthomelas,PUFOPI,Procellariiformes,Procellariidae,
+BWVI,Black-whiskered Vireo,Vireo altiloquus,VIRALT,Passeriformes,Vireonidae,
+BWPE,Black-winged Petrel,Pterodroma nigripennis,PTENIG,Procellariiformes,Procellariidae,
+BWST,Black-winged Stilt,Himantopus himantopus,HIMHIM,Charadriiformes,Recurvirostridae,
+BLBU,Blue Bunting,Cyanocompsa parellina,CYAPAR,Passeriformes,Cardinalidae,
+BLCO,Blue Cotinga,Cotinga nattererii,COTNAT,Passeriformes,Cotingidae,
+BLDA,Blue Dacnis,Dacnis cayana,DACCAY,Passeriformes,Thraupidae,
+BLGR,Blue Grosbeak,Passerina caerulea,PASCAE,Passeriformes,Cardinalidae,
+BLGD,Blue Ground-Dove,Claravis pretiosa,CLAPRE,Columbiformes,Columbidae,
+BLJA,Blue Jay,Cyanocitta cristata,CYACRI,Passeriformes,Corvidae,
+BLMO,Blue Mockingbird,Melanotis caerulescens,MELCAE,Passeriformes,Mimidae,
+BMVI,Blue Mountain Vireo,Vireo osburni,VIROSB,Passeriformes,Vireonidae,
+BLSE,Blue Seedeater,Amaurospiza concolor,AMSCON,Passeriformes,Cardinalidae,
+BAGT,Blue-and-gold Tanager,Bangsia arcaei,BANARC,Passeriformes,Thraupidae,
+BAWM,Blue-and-white Mockingbird,Melanotis hypoleucus,MELHYC,Passeriformes,Mimidae,
+BAWS,Blue-and-white Swallow,Pygochelidon cyanoleuca,PYGCYA,Passeriformes,Hirundinidae,Hirundininae
+BAYM,Blue-and-yellow Macaw,Ara ararauna,ARAARA,Psittaciformes,Psittacidae,Arinae
+BGRA,Blue-black Grassquit,Volatinia jacarina,VOLJAC,Passeriformes,Emberizidae,
+BGRO,Blue-black Grosbeak,Cyanocompsa cyanoides,CYACYD,Passeriformes,Cardinalidae,
+BCAH,Blue-capped Hummingbird,Eupherusa cyanophrys,EUPCYP,Apodiformes,Trochilidae,Trochilinae
+BCHH,Blue-chested Hummingbird,Amazilia amabilis,AMAAMB,Apodiformes,Trochilidae,Trochilinae
+BCRC,Blue-crowned Chlorophonia,Chlorophonia occipitalis,CHLOCC,Passeriformes,Fringillidae,Euphoniinae
+BCRM,Blue-crowned Manakin,Lepidothrix coronata,LEPCOR,Passeriformes,Pipridae,
+BCMO,Blue-crowned Motmot,Momotus momota,MOMMOM,Coraciiformes,Momotidae,
+BFBO,Blue-footed Booby,Sula nebouxii,SULNEB,Suliformes,Sulidae,
+BFPA,Blue-fronted Parrotlet,Touit dilectissimus,TOUDIL,Psittaciformes,Psittacidae,Arinae
+BGGN,Blue-gray Gnatcatcher,Polioptila caerulea,POLCAE,Passeriformes,Polioptilidae,
+BGNO,Blue-gray Noddy,Procelsterna cerulea,PROCER,Charadriiformes,Laridae,Sterninae
+BGTA,Blue-gray Tanager,Thraupis episcopus,THREPI,Passeriformes,Thraupidae,
+BHHU,Blue-headed Hummingbird,Cyanophaia bicolor,CYABIC,Apodiformes,Trochilidae,Trochilinae
+BHEP,Blue-headed Parrot,Pionus menstruus,PIOMEN,Psittaciformes,Psittacidae,Arinae
+BHQD,Blue-headed Quail-Dove,Starnoenas cyanocephala,STACYA,Columbiformes,Columbidae,
+BHVI,Blue-headed Vireo,Vireo solitarius,VIRSOL,Passeriformes,Vireonidae,
+BTLH,Blue-tailed Hummingbird,Amazilia cyanura,AMACYR,Apodiformes,Trochilidae,Trochilinae
+BLUE,Bluethroat,Luscinia svecica,LUSSVE,Passeriformes,Muscicapidae,
+BTRG,Blue-throated Goldentail,Hylocharis eliciae,HYLELI,Apodiformes,Trochilidae,Trochilinae
+BTHH,Blue-throated Hummingbird,Lampornis clemenciae,LAMCLE,Apodiformes,Trochilidae,Trochilinae
+BTMO,Blue-throated Motmot,Aspatha gularis,ASPGUL,Coraciiformes,Momotidae,
+BWTE,Blue-winged Teal,Anas discors,ANADIS,Anseriformes,Anatidae,Anatinae
+BWWA,Blue-winged Warbler,Vermivora cyanoptera,VERCYA,Passeriformes,Parulidae,
+BOBF,Boat-billed Flycatcher,Megarynchus pitangua,MEGPIT,Passeriformes,Tyrannidae,Tyranninae
+BBHE,Boat-billed Heron,Cochlearius cochlearius,COCCOH,Pelecaniformes,Ardeidae,
+BTGR,Boat-tailed Grackle,Quiscalus major,QUIMAJ,Passeriformes,Icteridae,
+BOBO,Bobolink,Dolichonyx oryzivorus,DOLORY,Passeriformes,Icteridae,
+BOWA,Bohemian Waxwing,Bombycilla garrulus,BOMGAR,Passeriformes,Bombycillidae,
+BOGU,Bonaparte's Gull,Chroicocephalus philadelphia,CHRPHI,Charadriiformes,Laridae,Larinae
+BOPE,Bonin Petrel,Pterodroma hypoleuca,PTEHYP,Procellariiformes,Procellariidae,
+BOCH,Boreal Chickadee,Poecile hudsonicus,POEHUD,Passeriformes,Paridae,
+BOOW,Boreal Owl,Aegolius funereus,AEGFUN,Strigiformes,Strigidae,
+BOSP,Botteri's Sparrow,Peucaea botterii,PEUBOT,Passeriformes,Emberizidae,
+BOWR,Boucard's Wren,Campylorhynchus jocosus,CAMJOC,Passeriformes,Troglodytidae,
+BREM,Brace's Emerald,Chlorostilbon bracei,CHLBRA,Apodiformes,Trochilidae,Trochilinae
+BRAM,Brambling,Fringilla montifringilla,FRIMON,Passeriformes,Fringillidae,Fringillinae
+BCOF,Bran-colored Flycatcher,Myiophobus fasciatus,MYIFAS,Passeriformes,Tyrannidae,Fluvicolinae
+BRAC,Brandt's Cormorant,Phalacrocorax penicillatus,PHAPEN,Suliformes,Phalacrocoracidae,
+BRAN,Brant,Branta bernicla,BRABER,Anseriformes,Anatidae,Anserinae
+BRIN,Brant Intergrade,Branta b. bern. x nigri.,BRABBN,Anseriformes,Anatidae,Anserinae
+BRBL,Brewer's Blackbird,Euphagus cyanocephalus,EUPCYC,Passeriformes,Icteridae,
+BRSP,Brewer's Sparrow,Spizella breweri,SPIBRE,Passeriformes,Emberizidae,
+BRWA,Brewster's Warbler,Vermivora chrysoptera x cyanoptera,VERCCY,Passeriformes,Parulidae,
+BRQD,Bridled Quail-Dove,Geotrygon mystacea,GEOMYS,Columbiformes,Columbidae,
+BRIS,Bridled Sparrow,Peucaea mystacalis,PEUMYS,Passeriformes,Emberizidae,
+BRTE,Bridled Tern,Onychoprion anaethetus,ONYANA,Charadriiformes,Laridae,Sterninae
+BRTI,Bridled Titmouse,Baeolophus wollweberi,BAEWOL,Passeriformes,Paridae,
+BRAT,Bright-rumped Attila,Attila spadiceus,ATTSPA,Passeriformes,Tyrannidae,Tyranninae
+BTCU,Bristle-thighed Curlew,Numenius tahitiensis,NUMTAH,Charadriiformes,Scolopacidae,Scolopacinae
+BBIH,Broad-billed Hummingbird,Cynanthus latirostris,CYNLAT,Apodiformes,Trochilidae,Trochilinae
+BBMO,Broad-billed Motmot,Electron platyrhynchum,ELEPLA,Coraciiformes,Momotidae,
+BBIS,Broad-billed Sandpiper,Limicola falcinellus,LIMFAL,Charadriiformes,Scolopacidae,Scolopacinae
+BBTO,Broad-billed Tody,Todus subulatus,TODSUB,Coraciiformes,Todidae,
+BTAH,Broad-tailed Hummingbird,Selasphorus platycercus,SELPLA,Apodiformes,Trochilidae,Trochilinae
+BWHA,Broad-winged Hawk,Buteo platypterus,BUTPLT,Accipitriformes,Accipitridae,Accipitrinae
+BRMA,Bronze Mannikin,Lonchura cucullata,LONCUC,Passeriformes,Estrildidae,
+BROC,Bronzed Cowbird,Molothrus aeneus,MOLAEN,Passeriformes,Icteridae,
+BOPT,Bronze-olive Pygmy-Tyrant,Pseudotriccus pelzelni,PSEPEL,Passeriformes,Tyrannidae,Elaeniinae
+BTPL,Bronze-tailed Plumeleteer,Chalybura urochrysia,CHAURO,Apodiformes,Trochilidae,Trochilinae
+BRHE,Bronzy Hermit,Glaucis aeneus,GLAAEN,Apodiformes,Trochilidae,Phaethornithinae
+BRBO,Brown Booby,Sula leucogaster,SULLEU,Suliformes,Sulidae,
+BRCR,Brown Creeper,Certhia americana,CERAME,Passeriformes,Certhiidae,Certhiinae
+BRHO,Brown Hawk-Owl,Ninox scutulata,NINSCU,Strigiformes,Strigidae,
+BRJA,Brown Jay,Psilorhinus morio,PSIMOR,Passeriformes,Corvidae,
+BRNO,Brown Noddy,Anous stolidus,ANOSTO,Charadriiformes,Laridae,Sterninae
+BRPE,Brown Pelican,Pelecanus occidentalis,PELOCC,Pelecaniformes,Pelecanidae,
+BROS,Brown Shrike,Lanius cristatus,LANCRI,Passeriformes,Laniidae,
+BRTH,Brown Thrasher,Toxostoma rufum,TOXRUF,Passeriformes,Mimidae,
+BRTR,Brown Trembler,Cinclocerthia ruficauda,CINRUF,Passeriformes,Mimidae,
+BRVI,Brown Violetear,Colibri delphinae,COLDEL,Apodiformes,Trochilidae,Trochilinae
+BBSO,Brown-backed Solitaire,Myadestes occidentalis,MYAOCC,Passeriformes,Turdidae,
+BBSC,Brown-billed Scythebill,Campylorhamphus pusillus,CAMPUS,Passeriformes,Furnariidae,Dendrocolaptinae
+BCRF,Brown-capped Rosy-Finch,Leucosticte australis,LEUAUS,Passeriformes,Fringillidae,Carduelinae
+BCTY,Brown-capped Tyrannulet,Ornithion brunneicapillus,ORNBRU,Passeriformes,Tyrannidae,Elaeniinae
+BCAV,Brown-capped Vireo,Vireo leucophrys,VIRLEU,Passeriformes,Vireonidae,
+BCMA,Brown-chested Martin,Progne tapera,PROTAP,Passeriformes,Hirundinidae,Hirundininae
+BCFL,Brown-crested Flycatcher,Myiarchus tyrannulus,MYITYR,Passeriformes,Tyrannidae,Tyranninae
+BHCO,Brown-headed Cowbird,Molothrus ater,MOLATE,Passeriformes,Icteridae,
+BHNU,Brown-headed Nuthatch,Sitta pusilla,SITPUS,Passeriformes,Sittidae,Sittinae
+BHOP,Brown-hooded Parrot,Pyrilia haematotis,PYRHAE,Psittaciformes,Psittacidae,Arinae
+BRTW,Brownish Twistwing,Cnipodectes subbrunneus,CNISUB,Passeriformes,Tyrannidae,Platyrinchinae
+BTPA,Brown-throated Parakeet,Aratinga pertinax,ARAPER,Psittaciformes,Psittacidae,Arinae
+BRYS,Bryan's Shearwater,Puffinus bryani,PUFBRY,Procellariiformes,Procellariidae,
+BUDG,Budgerigar,Melopsittacus undulatus,MELUND,Psittaciformes,Psittacidae,Platycercinae
+BBEH,Buff-bellied Hummingbird,Amazilia yucatanensis,AMAYUC,Apodiformes,Trochilidae,Trochilinae
+BBFL,Buff-breasted Flycatcher,Empidonax fulvifrons,EMPFUL,Passeriformes,Tyrannidae,Fluvicolinae
+BBSA,Buff-breasted Sandpiper,Tryngites subruficollis,TRYSUB,Charadriiformes,Scolopacidae,Scolopacinae
+BBRW,Buff-breasted Wren,Cantorchilus leucotis,CANLET,Passeriformes,Troglodytidae,
+BCNI,Buff-collared Nightjar,Antrostomus ridgwayi,ANTRID,Caprimulgiformes,Caprimulgidae,Caprimulginae
+BFFG,Buff-fronted Foliage-gleaner,Philydor rufum,PHIRUF,Passeriformes,Furnariidae,Furnariinae
+BFQD,Buff-fronted Quail-Dove,Geotrygon costaricensis,GEOCOS,Columbiformes,Columbidae,
+BUFF,Bufflehead,Bucephala albeola,BUCALB,Anseriformes,Anatidae,Anatinae
+BNIB,Buff-necked Ibis,Theristicus caudatus,THECAU,Pelecaniformes,Threskiornithidae,Threskiornithinae
+BURW,Buff-rumped Warbler,Myiothlypis fulvicauda,MYIFUL,Passeriformes,Parulidae,
+BTFG,Buff-throated Foliage-gleaner,Automolus ochrolaemus,AUTOCH,Passeriformes,Furnariidae,Furnariinae
+BTSA,Buff-throated Saltator,Saltator maximus,SALMAX,Passeriformes,,
+BUTU,Buffy Tuftedcheek,Pseudocolaptes lawrencii,PSELAW,Passeriformes,Furnariidae,Furnariinae
+BCWP,Buffy-crowned Wood-Partridge,Dendrortyx leucophrys,DENLEU,Galliformes,Odontophoridae,
+BULS,Buller's Shearwater,Puffinus bulleri,PUFBUL,Procellariiformes,Procellariidae,
+BUOR,Bullock's Oriole,Icterus bullockii,ICTBUL,Passeriformes,Icteridae,
+BBOH,Bullock's x Baltimore Oriole Hybrid,Icterus bullockii x galb.,ICTBUG,Passeriformes,Icteridae,
+BUPE,Bulwer's Petrel,Bulweria bulwerii,BULBUL,Procellariiformes,Procellariidae,
+BUHU,Bumblebee Hummingbird,Atthis heloisa,ATTHEL,Apodiformes,Trochilidae,Trochilinae
+BUOW,Burrowing Owl,Athene cunicularia,ATHCUN,Strigiformes,Strigidae,
+BUSH,Bushtit,Psaltriparus minimus,PSAMIN,Passeriformes,Aegithalidae,
+BCRJ,Bushy-crested Jay,Cyanocorax melanocyaneus,CYAMEL,Passeriformes,Corvidae,
+CACG,Cackling Goose,Branta hutchinsii,BRAHUT,Anseriformes,Anatidae,Anserinae
+CACW,Cactus Wren,Campylorhynchus brunneicapillus,CAMBRU,Passeriformes,Troglodytidae,
+CACO,California Condor,Gymnogyps californianus,GYMCAL,Accipitriformes,Cathartidae,
+CAGN,California Gnatcatcher,Polioptila californica,POLCAL,Passeriformes,Polioptilidae,
+CAGU,California Gull,Larus californicus,LARCAL,Charadriiformes,Laridae,Larinae
+CAQU,California Quail,Callipepla californica,CALCAL,Galliformes,Odontophoridae,
+CATH,California Thrasher,Toxostoma redivivum,TOXRED,Passeriformes,Mimidae,
+CALT,California Towhee,Melozone crissalis,MELCRI,Passeriformes,Emberizidae,
+CAHU,Calliope Hummingbird,Selasphorus calliope,SELCAL,Apodiformes,Trochilidae,Trochilinae
+CANG,Canada Goose,Branta canadensis,BRACAN,Anseriformes,Anatidae,Anserinae
+CAWA,Canada Warbler,Cardellina canadensis,CADCAN,Passeriformes,Parulidae,
+CAEM,Canivet's Emerald,Chlorostilbon canivetii,CHLCAV,Apodiformes,Trochilidae,Trochilinae
+CANV,Canvasback,Aythya valisineria,AYTVAL,Anseriformes,Anatidae,Anatinae
+CANT,Canyon Towhee,Melozone fusca,MEZFUS,Passeriformes,Emberizidae,
+CANW,Canyon Wren,Catherpes mexicanus,CAPMEX,Passeriformes,Troglodytidae,
+CMWA,Cape May Warbler,Setophaga tigrina,SETTIG,Passeriformes,Parulidae,
+CSSS,Cape Sable Seaside-Sparrow,Ammodramus m. mirabilis,AMMMMI,Passeriformes,Emberizidae,
+CVSH,Cape Verde Shearwater,Calonectris edwardsii,CALEDW,Procellariiformes,Procellariidae,
+CAHE,Capped Heron,Pilherodius pileatus,PILPIL,Pelecaniformes,Ardeidae,
+CAGR,Carib Grackle,Quiscalus lugubris,QUILUG,Passeriformes,Icteridae,
+CARC,Caribbean Coot,Fulica caribaea,FULCAR,Gruiformes,Rallidae,
+CADO,Caribbean Dove,Leptotila jamaicensis,LEPJAM,Columbiformes,Columbidae,
+CAEL,Caribbean Elaenia,Elaenia martinica,ELAMAR,Passeriformes,Tyrannidae,Elaeniinae
+CAMA,Caribbean Martin,Progne dominicensis,PRODOM,Passeriformes,Hirundinidae,Hirundininae
+CATA,Carmiol's Tanager,Chlorothraupis carmioli,CHLCAR,Passeriformes,Cardinalidae,
+CACH,Carolina Chickadee,Poecile carolinensis,POECAR,Passeriformes,Paridae,
+CAPA,Carolina Parakeet,Conuropsis carolinensis,CONCAL,Psittaciformes,Psittacidae,Arinae
+CARW,Carolina Wren,Thryothorus ludovicianus,THRLUD,Passeriformes,Troglodytidae,
+CBCC,Carolina X Black-c. Chickadee Hybrid,Poecile caroli. x atrica.,POECAA,Passeriformes,Paridae,
+CATE,Caspian Tern,Hydroprogne caspia,HYDCAS,Charadriiformes,Laridae,Sterninae
+CAAU,Cassin's Auklet,Ptychoramphus aleuticus,PTYALE,Charadriiformes,Alcidae,
+CAFI,Cassin's Finch,Haemorhous cassinii,HAECAS,Passeriformes,Fringillidae,Carduelinae
+CAKI,Cassin's Kingbird,Tyrannus vociferans,TYRVOC,Passeriformes,Tyrannidae,Tyranninae
+CASP,Cassin's Sparrow,Peucaea cassinii,PEUCAS,Passeriformes,Emberizidae,
+CAVI,Cassin's Vireo,Vireo cassinii,VIRCAS,Passeriformes,Vireonidae,
+CAEG,Cattle Egret,Bubulcus ibis,BUBIBI,Pelecaniformes,Ardeidae,
+CATY,Cattle Tyrant,Machetornis rixosa,MACRIX,Passeriformes,Tyrannidae,Fluvicolinae
+CASW,Cave Swallow,Petrochelidon fulva,PETFUL,Passeriformes,Hirundinidae,Hirundininae
+CEDW,Cedar Waxwing,Bombycilla cedrorum,BOMCED,Passeriformes,Bombycillidae,
+CAPO,Central American Pygmy-Owl,Glaucidium griseiceps,GLAGRI,Strigiformes,Strigidae,
+CERW,Cerulean Warbler,Setophaga cerulea,SETCER,Passeriformes,Parulidae,
+CHAS,Chapman's Swift,Chaetura chapmani,CHACHA,Apodiformes,Apodidae,Chaeturinae
+CHHU,Charming Hummingbird,Amazilia decora,AMADEC,Apodiformes,Trochilidae,Trochilinae
+CTAN,Checker-throated Antwren,Epinecrophylla fulviventris,EPIFUL,Passeriformes,Thamnophilidae,
+CHET,Cherrie's Tanager,Ramphocelus costaricensis,RAMCOS,Passeriformes,Thraupidae,
+CHMU,Chestnut Munia,Lonchura atricapilla,LONATR,Passeriformes,Estrildidae,
+CBAN,Chestnut-backed Antbird,Myrmeciza exsul,MYREXS,Passeriformes,Thamnophilidae,
+CBCH,Chestnut-backed Chickadee,Poecile rufescens,POERUF,Passeriformes,Paridae,
+CBCU,Chestnut-bellied Cuckoo,Coccyzus pluvialis,COCPLU,Cuculiformes,Cuculidae,Cuculinae
+CBSA,Chestnut-bellied Sandgrouse,Pterocles exustus,PTEEXU,Pteroclidiformes,Pteroclidae,
+CCBF,Chestnut-capped Brush-Finch,Arremon brunneinucha,ARRBRU,Passeriformes,Emberizidae,
+CCLO,Chestnut-collared Longspur,Calcarius ornatus,CALORN,Passeriformes,Calcariidae,
+CCSW,Chestnut-collared Swift,Streptoprocne rutila,STRRUT,Apodiformes,Apodidae,Cypseloidinae
+CCOW,Chestnut-colored Woodpecker,Celeus castaneus,CELCAS,Piciformes,Picidae,Picinae
+CFMA,Chestnut-fronted Macaw,Ara severus,ARASEV,Psittaciformes,Psittacidae,Arinae
+CHOR,Chestnut-headed Oropendola,Psarocolius wagleri,PSAWAG,Passeriformes,Icteridae,
+CSSV,Chestnut-sided Shrike-Vireo,Vireolanius melitophrys,VIRMEL,Passeriformes,Vireonidae,
+CSWA,Chestnut-sided Warbler,Setophaga pensylvanica,SETPEN,Passeriformes,Parulidae,
+CHRA,Chihuahuan Raven,Corvus cryptoleucus,CORCRY,Passeriformes,Corvidae,
+CHSW,Chimney Swift,Chaetura pelagica,CHAPEL,Apodiformes,Apodidae,Chaeturinae
+CHEG,Chinese Egret,Egretta eulophotes,EGREUL,Pelecaniformes,Ardeidae,
+CHPH,Chinese Pond-Heron,Ardeola bacchus,ARDBAC,Pelecaniformes,Ardeidae,
+CHIS,Chinese Sparrowhawk,Accipiter soloensis,ACCSOL,Accipitriformes,Accipitridae,Accipitrinae
+CHSP,Chipping Sparrow,Spizella passerina,SPIPAS,Passeriformes,Emberizidae,
+CHQD,Chiriqui Quail-Dove,Geotrygon chiriquensis,GEOCHI,Columbiformes,Columbidae,
+CHOT,Choco Tapaculo,Scytalopus chocoensis,SCYCHO,Passeriformes,Rhinocryptidae,
+CHTI,Choco Tinamou,Crypturellus kerriae,CRYKER,Tinamiformes,Tinamidae,
+CHSH,Christmas Shearwater,Puffinus nativitatis,PUFNAT,Procellariiformes,Procellariidae,
+CWWI,Chuck-will's-widow,Antrostomus carolinensis,ANTCAR,Caprimulgiformes,Caprimulgidae,Caprimulginae
+CHUK,Chukar,Alectoris chukar,ALECHU,Galliformes,Phasianidae,Phasianinae
+CIRB,Cinereous Becard,Pachyramphus rufus,PACRUF,Passeriformes,Tityridae,
+CIMB,Cinnamon Becard,Pachyramphus cinnamomeus,PACCIN,Passeriformes,Tityridae,
+CIHU,Cinnamon Hummingbird,Amazilia rutila,AMARUT,Apodiformes,Trochilidae,Trochilinae
+CITE,Cinnamon Teal,Anas cyanoptera,ANACYA,Anseriformes,Anatidae,Anatinae
+CIWO,Cinnamon Woodpecker,Celeus loricatus,CELLOR,Piciformes,Picidae,Picinae
+CBFL,Cinnamon-bellied Flowerpiercer,Diglossa baritula,DIGBAR,Passeriformes,Emberizidae,
+CTSP,Cinnamon-tailed Sparrow,Peucaea sumichrasti,PEUSUM,Passeriformes,Emberizidae,
+CITR,Citreoline Trogon,Trogon citreolus,TROCIT,Trogoniformes,Trogonidae,Trogoninae
+CIWA,Citrine Wagtail,Motacilla citreola,MOTCIT,Passeriformes,Motacillidae,
+CLRA,Clapper Rail,Rallus longirostris,RALLON,Gruiformes,Rallidae,
+CLWR,Clarion Wren,Troglodytes tanneri,TROTAN,Passeriformes,Troglodytidae,
+CLGR,Clark's Grebe,Aechmophorus clarkii,AECCLA,Podicipediformes,Podicipedidae,
+CLNU,Clark's Nutcracker,Nucifraga columbiana,NUCCOL,Passeriformes,Corvidae,
+CCSP,Clay-colored Sparrow,Spizella pallida,SPIPAL,Passeriformes,Emberizidae,
+CCTH,Clay-colored Thrush,Turdus grayi,TURGRA,Passeriformes,Turdidae,
+CLSW,Cliff Swallow,Petrochelidon pyrrhonota,PETPYR,Passeriformes,Hirundinidae,Hirundininae
+COCT,Cocoa Thrush,Turdus fumigatus,TURFUM,Passeriformes,Turdidae,
+COWO,Cocoa Woodcreeper,Xiphorhynchus susurrans,XIPSUS,Passeriformes,Furnariidae,Dendrocolaptinae
+COHE,Cocoi Heron,Ardea cocoi,ARDCOC,Pelecaniformes,Ardeidae,
+COCC,Cocos Cuckoo,Coccyzus ferrugineus,COCFER,Cuculiformes,Cuculidae,Cuculinae
+COFI,Cocos Finch,Pinaroloxias inornata,PININO,Passeriformes,Emberizidae,
+COCF,Cocos Flycatcher,Nesotriccus ridgwayi,NESRID,Passeriformes,Tyrannidae,Elaeniinae
+CPYO,Colima Pygmy-Owl,Glaucidium palmarum,GLAPAL,Strigiformes,Strigidae,
+COLW,Colima Warbler,Oreothlypis crissalis,ORECRI,Passeriformes,Parulidae,
+COAR,Collared Aracari,Pteroglossus torquatus,PTETOR,Piciformes,Ramphastidae,Ramphastinae
+COFF,Collared Forest-Falcon,Micrastur semitorquatus,MICSEM,Falconiformes,Falconidae,Micrasturinae
+COPL,Collared Plover,Charadrius collaris,CHACOL,Charadriiformes,Charadriidae,Charadriinae
+COPR,Collared Pratincole,Glareola pratincola,GLAPRA,Charadriiformes,Glareolidae,Glareolinae
+COLR,Collared Redstart,Myioborus torquatus,MYITOR,Passeriformes,Parulidae,
+COTO,Collared Towhee,Pipilo ocai,PIPOCA,Passeriformes,Emberizidae,
+COTR,Collared Trogon,Trogon collaris,TROCOL,Trogoniformes,Trogonidae,Trogoninae
+COLC,Colombian Crake,Neocrex colombiana,NEOCOL,Gruiformes,Rallidae,
+CODU,Comb Duck,Sarkidiornis melanotos,SARMEL,Anseriformes,Anatidae,Tadorninae
+COBH,Common Black-Hawk,Buteogallus anthracinus,BUTANT,Accipitriformes,Accipitridae,Accipitrinae
+COBT,Common Bush-Tanager,Chlorospingus ophthalmicus,CHLOPH,Passeriformes,Emberizidae,
+COCH,Common Chaffinch,Fringilla coelebs,FRICOE,Passeriformes,Fringillidae,Fringillinae
+COMC,Common Crane,Grus grus,GRUGRU,Gruiformes,Gruidae,Gruinae
+COCU,Common Cuckoo,Cuculus canorus,CUCCAN,Cuculiformes,Cuculidae,Cuculinae
+COEI,Common Eider,Somateria mollissima,SOMMOL,Anseriformes,Anatidae,Anatinae
+COGA,Common Gallinule,Gallinula galeata,GALGAT,Gruiformes,Rallidae,
+COGO,Common Goldeneye,Bucephala clangula,BUCCLA,Anseriformes,Anatidae,Anatinae
+COGR,Common Grackle,Quiscalus quiscula,QUIQUI,Passeriformes,Icteridae,
+COMG,Common Greenshank,Tringa nebularia,TRINEB,Charadriiformes,Scolopacidae,Scolopacinae
+COGD,Common Ground-Dove,Columbina passerina,COLPAS,Columbiformes,Columbidae,
+COHM,Common House-Martin,Delichon urbicum,DELURB,Passeriformes,Hirundinidae,Hirundininae
+COLO,Common Loon,Gavia immer,GAVIMM,Gaviiformes,Gaviidae,
+COME,Common Merganser,Mergus merganser,MERMER,Anseriformes,Anatidae,Anatinae
+COMU,Common Murre,Uria aalge,URIAAL,Charadriiformes,Alcidae,
+COMY,Common Myna,Acridotheres tristis,ACRTRI,Passeriformes,Sturnidae,
+CONI,Common Nighthawk,Chordeiles minor,CHOMIN,Caprimulgiformes,Caprimulgidae,Chordeilinae
+COPA,Common Pauraque,Nyctidromus albicollis,NYCALB,Caprimulgiformes,Caprimulgidae,Caprimulginae
+COMP,Common Pochard,Aythya ferina,AYTFER,Anseriformes,Anatidae,Anatinae
+COPO,Common Poorwill,Phalaenoptilus nuttallii,PHANUT,Caprimulgiformes,Caprimulgidae,Caprimulginae
+CPOT,Common Potoo,Nyctibius griseus,NYCGRI,Caprimulgiformes,Nyctibiidae,
+CORA,Common Raven,Corvus corax,CORCOR,Passeriformes,Corvidae,
+CORE,Common Redpoll,Acanthis flammea,ACAFLA,Passeriformes,Fringillidae,Carduelinae
+COMR,Common Redshank,Tringa totanus,TRITOT,Charadriiformes,Scolopacidae,Scolopacinae
+CRPL,Common Ringed Plover,Charadrius hiaticula,CHAHIA,Charadriiformes,Charadriidae,Charadriinae
+CORO,Common Rosefinch,Carpodacus erythrinus,CARERY,Passeriformes,Fringillidae,Carduelinae
+COSA,Common Sandpiper,Actitis hypoleucos,ACTHYP,Charadriiformes,Scolopacidae,Scolopacinae
+COSN,Common Snipe,Gallinago gallinago,GALGAN,Charadriiformes,Scolopacidae,Scolopacinae
+COSW,Common Swift,Apus apus,APUAPU,Apodiformes,Apodidae,Apodinae
+COTE,Common Tern,Sterna hirundo,STEHIR,Charadriiformes,Laridae,Sterninae
+COTF,Common Tody-Flycatcher,Todirostrum cinereum,TODCIN,Passeriformes,Tyrannidae,Platyrinchinae
+COMW,Common Waxbill,Estrilda astrild,ESTAST,Passeriformes,Estrildidae,
+COYE,Common Yellowthroat,Geothlypis trichas,GEOTRI,Passeriformes,Parulidae,
+CHRE,Common/Hoary Redpoll,Acanthis flamm./hornemanni,ACAFLH,Passeriformes,Fringillidae,Carduelinae
+CONW,Connecticut Warbler,Oporornis agilis,OPOAGI,Passeriformes,Parulidae,
+COPE,Cook's Petrel,Pterodroma cookii,PTECOO,Procellariiformes,Procellariidae,
+COHA,Cooper's Hawk,Accipiter cooperii,ACCCOO,Accipitriformes,Accipitridae,Accipitrinae
+CHEM,Coppery-headed Emerald,Elvira cupreiceps,ELVCUP,Apodiformes,Trochilidae,Trochilinae
+COFL,Cordilleran Flycatcher,Empidonax occidentalis,EMPOCC,Passeriformes,Tyrannidae,Fluvicolinae
+CORC,Corn Crake,Crex crex,CRECRE,Gruiformes,Rallidae,
+COSH,Cory's Shearwater,Calonectris diomedea,CALDIO,Procellariiformes,Procellariidae,
+CRBF,Costa Rican Brush-Finch,Arremon costaricensis,ARRCOS,Passeriformes,Emberizidae,
+CRPO,Costa Rican Pygmy-Owl,Glaucidium costaricanum,GLACOS,Strigiformes,Strigidae,
+CRSW,Costa Rican Swift,Chaetura fumosa,CHAFUM,Apodiformes,Apodidae,Chaeturinae
+COHU,Costa's Hummingbird,Calypte costae,CALCOS,Apodiformes,Trochilidae,Trochilinae
+COKI,Couch's Kingbird,Tyrannus couchii,TYRCOU,Passeriformes,Tyrannidae,Tyranninae
+COEM,Cozumel Emerald,Chlorostilbon forficatus,CHLFOR,Apodiformes,Trochilidae,Trochilinae
+COZT,Cozumel Thrasher,Toxostoma guttatum,TOXGUT,Passeriformes,Mimidae,
+COVI,Cozumel Vireo,Vireo bairdi,VIRBAI,Passeriformes,Vireonidae,
+CRHA,Crane Hawk,Geranospiza caerulescens,GERCAE,Accipitriformes,Accipitridae,Accipitrinae
+CRMU,Craveri's Murrelet,Synthliboramphus craveri,SYNCRA,Charadriiformes,Alcidae,
+CCWA,Crescent-chested Warbler,Oreothlypis superciliosa,ORESUP,Passeriformes,Parulidae,
+CRAU,Crested Auklet,Aethia cristatella,AETCRI,Charadriiformes,Alcidae,
+CRBO,Crested Bobwhite,Colinus cristatus,COLCRI,Galliformes,Odontophoridae,
+CRCA,Crested Caracara,Caracara cheriway,CARCHE,Falconiformes,Falconidae,Caracarinae
+CREA,Crested Eagle,Morphnus guianensis,MORGUI,Accipitriformes,Accipitridae,Accipitrinae
+CRGU,Crested Guan,Penelope purpurascens,PENPUR,Galliformes,Cracidae,
+CROR,Crested Oropendola,Psarocolius decumanus,PSADEC,Passeriformes,Icteridae,
+CROW,Crested Owl,Lophostrix cristata,LOPCRI,Strigiformes,Strigidae,
+CRQD,Crested Quail-Dove,Geotrygon versicolor,GEOVES,Columbiformes,Columbidae,
+CBTA,Crimson-backed Tanager,Ramphocelus dimidiatus,RAMDIM,Passeriformes,Thraupidae,
+CBWO,Crimson-bellied Woodpecker,Campephilus haematogaster,CAMHAE,Piciformes,Picidae,Picinae
+CCGR,Crimson-collared Grosbeak,Rhodothraupis celaeno,RHOCEL,Passeriformes,Cardinalidae,
+CCTA,Crimson-collared Tanager,Ramphocelus sanguinolentus,RAMSAN,Passeriformes,Thraupidae,
+CCRW,Crimson-crested Woodpecker,Campephilus melanoleucos,CAMMEL,Piciformes,Picidae,Picinae
+CFPA,Crimson-fronted Parakeet,Aratinga finschi,ARAFIN,Psittaciformes,Psittacidae,Arinae
+CRTH,Crissal Thrasher,Toxostoma crissale,TOXCRI,Passeriformes,Mimidae,
+CSFL,Crowned Slaty Flycatcher,Empidonomus aurantioatrocristatus,EMPAUR,Passeriformes,Tyrannidae,Tyranninae
+CUBL,Cuban Blackbird,Dives atroviolaceus,DIVATR,Passeriformes,Icteridae,
+CUBH,Cuban Black-Hawk,Buteogallus gundlachii,BUTGUN,Accipitriformes,Accipitridae,Accipitrinae
+CUBU,Cuban Bullfinch,Melopyrrha nigra,MELNIG,Passeriformes,Emberizidae,
+CUCR,Cuban Crow,Corvus nasicus,CORNAS,Passeriformes,Corvidae,
+CUEM,Cuban Emerald,Chlorostilbon ricordii,CHLRIC,Apodiformes,Trochilidae,Trochilinae
+CUGN,Cuban Gnatcatcher,Polioptila lembeyei,POLLEM,Passeriformes,Polioptilidae,
+CUGR,Cuban Grassquit,Tiaris canorus,TIACAN,Passeriformes,Emberizidae,
+CGWO,Cuban Green Woodpecker,Xiphidiopicus percussus,XIPPER,Piciformes,Picidae,Picinae
+CUBM,Cuban Macaw,Ara tricolor,ARATRI,Psittaciformes,Psittacidae,Arinae
+CUMA,Cuban Martin,Progne cryptoleuca,PROCRY,Passeriformes,Hirundinidae,Hirundininae
+CUOR,Cuban Oriole,Icterus melanopsis,ICTMEL,Passeriformes,Icteridae,
+CPAK,Cuban Parakeet,Aratinga euops,ARAEUO,Psittaciformes,Psittacidae,Arinae
+CPAT,Cuban Parrot,Amazona leucocephala,AMALEU,Psittaciformes,Psittacidae,Arinae
+CUPE,Cuban Pewee,Contopus caribaeus,CONCAB,Passeriformes,Tyrannidae,Fluvicolinae
+CUPO,Cuban Pygmy-Owl,Glaucidium siju,GLASIJ,Strigiformes,Strigidae,
+CUSO,Cuban Solitaire,Myadestes elisabeth,MYAELI,Passeriformes,Turdidae,
+CUTO,Cuban Tody,Todus multicolor,TODMUL,Coraciiformes,Todidae,
+CUTR,Cuban Trogon,Priotelus temnurus,PRITEM,Trogoniformes,Trogonidae,Trogoninae
+CUVI,Cuban Vireo,Vireo gundlachii,VIRGUN,Passeriformes,Vireonidae,
+CUSA,Curlew Sandpiper,Calidris ferruginea,CALFER,Charadriiformes,Scolopacidae,Scolopacinae
+CBTH,Curve-billed Thrasher,Toxostoma curvirostre,TOXCUR,Passeriformes,Mimidae,
+DAPE,Dark Pewee,Contopus lugubris,CONLUG,Passeriformes,Tyrannidae,Fluvicolinae
+DBCU,Dark-billed Cuckoo,Coccyzus melacoryphus,COCMEL,Cuculiformes,Cuculidae,Cuculinae
+DEJU,Dark-eyed Junco,Junco hyemalis,JUNHYE,Passeriformes,Emberizidae,
+DSFL,Dark-sided Flycatcher,Muscicapa sibirica,MUSSIB,Passeriformes,Muscicapidae,
+DICK,Dickcissel,Spiza americana,SPIAME,Passeriformes,Cardinalidae,
+DWAN,Dot-winged Antwren,Microrhopias quixensis,MICQUI,Passeriformes,Thamnophilidae,
+DBGR,Double-banded Graytail,Xenerpestes minlosi,XENMIL,Passeriformes,Furnariidae,Furnariinae
+DCCO,Double-crested Cormorant,Phalacrocorax auritus,PHAAUT,Suliformes,Phalacrocoracidae,
+DSTK,Double-striped Thick-knee,Burhinus bistriatus,BURBIS,Charadriiformes,Burhinidae,
+DTKI,Double-toothed Kite,Harpagus bidentatus,HARBID,Accipitriformes,Accipitridae,Accipitrinae
+DOVE,Dovekie,Alle alle,ALLALL,Charadriiformes,Alcidae,
+DOWO,Downy Woodpecker,Picoides pubescens,PICPUB,Piciformes,Picidae,Picinae
+DMAN,Dull-mantled Antbird,Myrmeciza laemosticta,MYRLAE,Passeriformes,Thamnophilidae,
+DUNL,Dunlin,Calidris alpina,CALALP,Charadriiformes,Scolopacidae,Scolopacinae
+DUAN,Dusky Antbird,Cercomacra tyrannina,CERTYR,Passeriformes,Thamnophilidae,
+DUFL,Dusky Flycatcher,Empidonax oberholseri,EMPOBE,Passeriformes,Tyrannidae,Fluvicolinae
+DUGR,Dusky Grouse,Dendragapus obscurus,DENOBS,Galliformes,Phasianidae,Tetraoninae
+DUHU,Dusky Hummingbird,Cynanthus sordidus,CYNSOR,Apodiformes,Trochilidae,Trochilinae
+DUNI,Dusky Nightjar,Antrostomus saturatus,ANTSAT,Caprimulgiformes,Caprimulgidae,Caprimulginae
+DUSS,Dusky Seaside-Sparrow,Ammodramus m. nigrescens,AMMMNI,Passeriformes,Emberizidae,
+DUTH,Dusky Thrush,Turdus naumanni,TURNAU,Passeriformes,Turdidae,
+DUWA,Dusky Warbler,Phylloscopus fuscatus,PHYFUS,Passeriformes,Phylloscopidae,
+DBJA,Dusky-backed Jacamar,Brachygalba salmoni,BRASAL,Piciformes,Galbulidae,
+DCFL,Dusky-capped Flycatcher,Myiarchus tuberculifer,MYITUB,Passeriformes,Tyrannidae,Tyranninae
+DFTA,Dusky-faced Tanager,Mitrospingus cassinii,MITCAS,Passeriformes,Thraupidae,
+DWJA,Dwarf Jay,Cyanolyca nana,CYANAN,Passeriformes,Corvidae,
+DWVI,Dwarf Vireo,Vireo nelsoni,VIRNEL,Passeriformes,Vireonidae,
+EADO,Eared Dove,Zenaida auriculata,ZENAUC,Columbiformes,Columbidae,
+EAGR,Eared Grebe,Podiceps nigricollis,PODNIG,Podicipediformes,Podicipedidae,
+EAPO,Eared Poorwill,Nyctiphrynus mcleodii,NYCMCL,Caprimulgiformes,Caprimulgidae,Caprimulginae
+EAQU,Eared Quetzal,Euptilotis neoxenus,EUPNEO,Trogoniformes,Trogonidae,Trogoninae
+EABL,Eastern Bluebird,Sialia sialis,SIASIA,Passeriformes,Turdidae,
+EACT,Eastern Chat-Tanager,Calyptophilus frugivorus,CALFRU,Passeriformes,Thraupidae,
+EAKI,Eastern Kingbird,Tyrannus tyrannus,TYRTYR,Passeriformes,Tyrannidae,Tyranninae
+EAME,Eastern Meadowlark,Sturnella magna,STUMAG,Passeriformes,Icteridae,
+EAPH,Eastern Phoebe,Sayornis phoebe,SAYPHO,Passeriformes,Tyrannidae,Fluvicolinae
+EASO,Eastern Screech-Owl,Megascops asio,MEGASI,Strigiformes,Strigidae,
+ESBD,Eastern Spot-billed Duck,Anas zonorhyncha,ANAZON,Anseriformes,Anatidae,Anatinae
+EATO,Eastern Towhee,Pipilo erythrophthalmus,PIPERP,Passeriformes,Emberizidae,
+EWPW,Eastern Whip-poor-will,Antrostomus vociferus,ANTVOC,Caprimulgiformes,Caprimulgidae,Caprimulginae
+EWCS,Eastern White-crowned Sparrow,Zonotrichia l. leucophrys,ZONLLE,Passeriformes,Emberizidae,
+EAWP,Eastern Wood-Pewee,Contopus virens,CONVIR,Passeriformes,Tyrannidae,Fluvicolinae
+EYWA,Eastern Yellow Wagtail,Motacilla tschutschensis,MOTTSC,Passeriformes,Motacillidae,
+ELEU,Elegant Euphonia,Euphonia elegantissima,EUPELE,Passeriformes,Fringillidae,Euphoniinae
+ELQU,Elegant Quail,Callipepla douglasii,CALDOU,Galliformes,Odontophoridae,
+ELTE,Elegant Tern,Thalasseus elegans,THAELE,Charadriiformes,Laridae,Sterninae
+ELTR,Elegant Trogon,Trogon elegans,TROELE,Trogoniformes,Trogonidae,Trogoninae
+ELOW,Elf Owl,Micrathene whitneyi,MICWHI,Strigiformes,Strigidae,
+EWWA,Elfin-woods Warbler,Setophaga angelae,SETANG,Passeriformes,Parulidae,
+EMTA,Emerald Tanager,Tangara florida,TANFLO,Passeriformes,Thraupidae,
+EMTO,Emerald Toucanet,Aulacorhynchus prasinus,AULPRA,Piciformes,Ramphastidae,Ramphastinae
+ECHU,Emerald-chinned Hummingbird,Abeillia abeillei,ABEABE,Apodiformes,Trochilidae,Trochilinae
+EMGO,Emperor Goose,Chen canagica,CHECAN,Anseriformes,Anatidae,Anserinae
+ERFR,Erckel's Francolin,Francolinus erckelii,FRAERC,Galliformes,Phasianidae,Phasianinae
+ESCU,Eskimo Curlew,Numenius borealis,NUMBOR,Charadriiformes,Scolopacidae,Scolopacinae
+EUFL,Euler's Flycatcher,Lathrotriccus euleri,LATEUL,Passeriformes,Tyrannidae,Fluvicolinae
+EUBL,Eurasian Blackbird,Turdus merula,TURMER,Passeriformes,Turdidae,
+EUBU,Eurasian Bullfinch,Pyrrhula pyrrhula,PYRPYH,Passeriformes,Fringillidae,Carduelinae
+EUCD,Eurasian Collared-Dove,Streptopelia decaocto,STRDEC,Columbiformes,Columbidae,
+EUCO,Eurasian Coot,Fulica atra,FULATR,Gruiformes,Rallidae,
+EUCU,Eurasian Curlew,Numenius arquata,NUMARQ,Charadriiformes,Scolopacidae,Scolopacinae
+EUDO,Eurasian Dotterel,Charadrius morinellus,CHAMOR,Charadriiformes,Charadriidae,Charadriinae
+EGWT,Eurasian Green-winged Teal,Anas c. crecca,ANACCR,Anseriformes,Anatidae,Anatinae
+EHOB,Eurasian Hobby,Falco subbuteo,FALSUB,Falconiformes,Falconidae,Falconinae
+EHOO,Eurasian Hoopoe,Upupa epops,UPUEPO,Upupiformes,Upupidae,
+EUJA,Eurasian Jackdaw,Corvus monedula,CORMON,Passeriformes,Corvidae,
+EUKE,Eurasian Kestrel,Falco tinnunculus,FALTIN,Falconiformes,Falconidae,Falconinae
+EUOY,Eurasian Oystercatcher,Haematopus ostralegus,HAEOST,Charadriiformes,Haematopodidae,
+EUSI,Eurasian Siskin,Spinus spinus,SPISPI,Passeriformes,Fringillidae,Carduelinae
+EURS,Eurasian Spoonbill,Platalea leucorodia,PLALEU,Pelecaniformes,Threskiornithidae,Plataleinae
+ETSP,Eurasian Tree Sparrow,Passer montanus,PASMON,Passeriformes,Passeridae,
+EUWI,Eurasian Wigeon,Anas penelope,ANAPEN,Anseriformes,Anatidae,Anatinae
+EUWO,Eurasian Woodcock,Scolopax rusticola,SCORUS,Charadriiformes,Scolopacidae,Scolopacinae
+EUWR,Eurasian Wryneck,Jynx torquilla,JYNTOR,Piciformes,Picidae,Jynginae
+EUGP,European Golden-Plover,Pluvialis apricaria,PLUAPR,Charadriiformes,Charadriidae,Charadriinae
+EUGO,European Goldfinch,Carduelis carduelis,CARCAU,Passeriformes,Fringillidae,Carduelinae
+EUST,European Starling,Sturnus vulgaris,STUVUL,Passeriformes,Sturnidae,
+EUSP,European Storm-Petrel,Hydrobates pelagicus,HYDPEL,Procellariiformes,Hydrobatidae,
+EUTD,European Turtle-Dove,Streptopelia turtur,STRTUR,Columbiformes,Columbidae,
+EVGR,Evening Grosbeak,Coccothraustes vespertinus,COCVES,Passeriformes,Fringillidae,Carduelinae
+EYTH,Eyebrowed Thrush,Turdus obscurus,TUROBC,Passeriformes,Turdidae,
+ERFL,Eye-ringed Flatbill,Rhynchocyclus brevirostris,RHYBRE,Passeriformes,Tyrannidae,Platyrinchinae
+FADU,Falcated Duck,Anas falcata,ANAFAL,Anseriformes,Anatidae,Anatinae
+FTWA,Fan-tailed Warbler,Basileuterus lachrymosus,BASLAC,Passeriformes,Parulidae,
+FECU,Far Eastern Curlew,Numenius madagascariensis,NUMMAD,Charadriiformes,Scolopacidae,Scolopacinae
+FAAN,Fasciated Antshrike,Cymbilaimus lineatus,CYMLIN,Passeriformes,Thamnophilidae,
+FTHE,Fasciated Tiger-Heron,Tigrisoma fasciatum,TIGFAS,Pelecaniformes,Ardeidae,
+FEFL,Fernandina's Flicker,Colaptes fernandinae,COLFER,Piciformes,Picidae,Picinae
+FEHA,Ferruginous Hawk,Buteo regalis,BUTREG,Accipitriformes,Accipitridae,Accipitrinae
+FEPO,Ferruginous Pygmy-Owl,Glaucidium brasilianum,GLABRA,Strigiformes,Strigidae,
+FISP,Field Sparrow,Spizella pusilla,SPIPUS,Passeriformes,Emberizidae,
+FIEL,Fieldfare,Turdus pilaris,TURPIL,Passeriformes,Turdidae,
+FBAR,Fiery-billed Aracari,Pteroglossus frantzii,PTEFRA,Piciformes,Ramphastidae,Ramphastinae
+FTHU,Fiery-throated Hummingbird,Panterpe insignis,PANINS,Apodiformes,Trochilidae,Trochilinae
+FICR,Fish Crow,Corvus ossifragus,COROSS,Passeriformes,Corvidae,
+FSSP,Five-striped Sparrow,Amphispiza quinquestriata,AMPQUI,Passeriformes,Emberizidae,
+FCTA,Flame-colored Tanager,Piranga bidentata,PIRBID,Passeriformes,Cardinalidae,
+FRTA,Flame-rumped Tanager,Ramphocelus flammigerus,RAMFLA,Passeriformes,Thraupidae,
+FTHW,Flame-throated Warbler,Oreothlypis gutturalis,OREGUT,Passeriformes,Parulidae,
+FLFL,Flammulated Flycatcher,Deltarhynchus flammulatus,DELFLA,Passeriformes,Tyrannidae,Tyranninae
+FLOW,Flammulated Owl,Otus flammeolus,OTUFLA,Strigiformes,Strigidae,
+FBVI,Flat-billed Vireo,Vireo nanus,VIRNAN,Passeriformes,Vireonidae,
+FFSH,Flesh-footed Shearwater,Puffinus carneipes,PUFCAR,Procellariiformes,Procellariidae,
+FGSP,Florida Grasshopper Sparrow,Ammodramus s. floridanus,AMMSFL,Passeriformes,Emberizidae,
+FLSJ,Florida Scrub-Jay,Aphelocoma coerulescens,APHCOE,Passeriformes,Corvidae,
+FOEL,Forest Elaenia,Myiopagis gaimardii,MYIGAI,Passeriformes,Tyrannidae,Elaeniinae
+FOTH,Forest Thrush,Turdus lherminieri,TURLHE,Passeriformes,Turdidae,
+FTFL,Fork-tailed Flycatcher,Tyrannus savana,TYRSAV,Passeriformes,Tyrannidae,Tyranninae
+FTSP,Fork-tailed Storm-Petrel,Oceanodroma furcata,OCEFUR,Procellariiformes,Hydrobatidae,
+FTSW,Fork-tailed Swift,Apus pacificus,APUPAC,Apodiformes,Apodidae,Apodinae
+FOTE,Forster's Tern,Sterna forsteri,STEFOR,Charadriiformes,Laridae,Sterninae
+FOSP,Fox Sparrow,Passerella iliaca,PASILI,Passeriformes,Emberizidae,
+FRGU,Franklin's Gull,Leucophaeus pipixcan,LEUPIP,Charadriiformes,Laridae,Larinae
+FUOW,Fulvous Owl,Strix fulvescens,STRFUL,Strigiformes,Strigidae,
+FUWD,Fulvous Whistling-Duck,Dendrocygna bicolor,DENBIC,Anseriformes,Anatidae,Dendrocygninae
+FVEU,Fulvous-vented Euphonia,Euphonia fulvicrissa,EUPFUL,Passeriformes,Fringillidae,Euphoniinae
+GADW,Gadwall,Anas strepera,ANASTR,Anseriformes,Anatidae,Anatinae
+GAPE,Galapagos Petrel,Pterodroma phaeopygia,PTEPHA,Procellariiformes,Procellariidae,
+GASH,Galapagos Shearwater,Puffinus subalaris,PUFSUB,Procellariiformes,Procellariidae,
+GAQU,Gambel's Quail,Callipepla gambelii,CALGAM,Galliformes,Odontophoridae,
+GWCS,Gambel's White-crowned Sparrow,Zonotrichia l. gambelii,ZONLGA,Passeriformes,Emberizidae,
+GAEM,Garden Emerald,Chlorostilbon assimilis,CHLASS,Apodiformes,Trochilidae,Trochilinae
+GARG,Garganey,Anas querquedula,ANAQUE,Anseriformes,Anatidae,Anatinae
+GATH,Garnet-throated Hummingbird,Lamprolaima rhami,LAMRHA,Apodiformes,Trochilidae,Trochilinae
+GATR,Gartered Trogon,Trogon caligatus,TROCAL,Trogoniformes,Trogonidae,Trogoninae
+GICO,Giant Cowbird,Molothrus oryzivorus,MOLORY,Passeriformes,Icteridae,
+GIKI,Giant Kingbird,Tyrannus cubensis,TYRCUB,Passeriformes,Tyrannidae,Tyranninae
+GIWR,Giant Wren,Campylorhynchus chiapensis,CAMCHI,Passeriformes,Troglodytidae,
+GIWO,Gila Woodpecker,Melanerpes uropygialis,MELURO,Piciformes,Picidae,Picinae
+GIFL,Gilded Flicker,Colaptes chrysoides,COLCHR,Piciformes,Picidae,Picinae
+GLGU,Glaucous Gull,Larus hyperboreus,LARHYP,Charadriiformes,Laridae,Larinae
+GWGU,Glaucous-winged Gull,Larus glaucescens,LARGLS,Charadriiformes,Laridae,Larinae
+GLIB,Glossy Ibis,Plegadis falcinellus,PLEFAL,Pelecaniformes,Threskiornithidae,Threskiornithinae
+GLTH,Glow-throated Hummingbird,Selasphorus ardens,SELARD,Apodiformes,Trochilidae,Trochilinae
+GOEA,Golden Eagle,Aquila chrysaetos,AQUCHR,Accipitriformes,Accipitridae,Accipitrinae
+GOSW,Golden Swallow,Tachycineta euchrysea,TACEUC,Passeriformes,Hirundinidae,Hirundininae
+GOVI,Golden Vireo,Vireo hypochryseus,VIRHYP,Passeriformes,Vireonidae,
+GBFL,Golden-bellied Flycatcher,Myiodynastes hemichrysus,MYIHEM,Passeriformes,Tyrannidae,Tyranninae
+GBCH,Golden-browed Chlorophonia,Chlorophonia callophrys,CHLCAL,Passeriformes,Fringillidae,Euphoniinae
+GBWA,Golden-browed Warbler,Basileuterus belli,BASBEL,Passeriformes,Parulidae,
+GCWA,Golden-cheeked Warbler,Setophaga chrysoparia,SETCHR,Passeriformes,Parulidae,
+GCHW,Golden-cheeked Woodpecker,Melanerpes chrysogenys,MELCHG,Piciformes,Picidae,Picinae
+GCMA,Golden-collared Manakin,Manacus vitellinus,MANVIT,Passeriformes,Pipridae,
+GCEM,Golden-crowned Emerald,Chlorostilbon auriceps,CHLAUR,Apodiformes,Trochilidae,Trochilinae
+GOCF,Golden-crowned Flycatcher,Myiodynastes chrysocephalus,MYICHR,Passeriformes,Tyrannidae,Tyranninae
+GCKI,Golden-crowned Kinglet,Regulus satrapa,REGSAT,Passeriformes,Regulidae,
+GCRS,Golden-crowned Spadebill,Platyrinchus coronatus,PLACOR,Passeriformes,Tyrannidae,Platyrinchinae
+GCSP,Golden-crowned Sparrow,Zonotrichia atricapilla,ZONATR,Passeriformes,Emberizidae,
+GCRW,Golden-crowned Warbler,Basileuterus culicivorus,BASCUL,Passeriformes,Parulidae,
+GFGR,Golden-fronted Greenlet,Hylophilus aurantiifrons,HYLAUR,Passeriformes,Vireonidae,
+GFWO,Golden-fronted Woodpecker,Melanerpes aurifrons,MELAUR,Piciformes,Picidae,Picinae
+GGWO,Golden-green Woodpecker,Piculus chrysochloros,PICCHR,Piciformes,Picidae,Picinae
+GHMA,Golden-headed Manakin,Pipra erythrocephala,PIPERC,Passeriformes,Pipridae,
+GHQU,Golden-headed Quetzal,Pharomachrus auriceps,PHAAUC,Trogoniformes,Trogonidae,Trogoninae
+GHOT,Golden-hooded Tanager,Tangara larvata,TANLAR,Passeriformes,Thraupidae,
+GNWO,Golden-naped Woodpecker,Melanerpes chrysauchen,MELCHC,Piciformes,Picidae,Picinae
+GOWO,Golden-olive Woodpecker,Colaptes rubiginosus,COLRUB,Piciformes,Picidae,Picinae
+GWWA,Golden-winged Warbler,Vermivora chrysoptera,VERCHR,Passeriformes,Parulidae,
+GRWA,Grace's Warbler,Setophaga graciae,SETGRA,Passeriformes,Parulidae,
+GCAT,Grand Cayman Thrush,Turdus ravidus,TURRAV,Passeriformes,Turdidae,
+GRSP,Grasshopper Sparrow,Ammodramus savannarum,AMMSAV,Passeriformes,Emberizidae,
+GRYF,Grassland Yellow-Finch,Sicalis luteola,SICLUT,Passeriformes,Emberizidae,
+GRBU,Gray Bunting,Emberiza variabilis,EMBVAR,Passeriformes,Emberizidae,
+GRCA,Gray Catbird,Dumetella carolinensis,DUMCAR,Passeriformes,Mimidae,
+GRAE,Gray Elaenia,Myiopagis caniceps,MYICAN,Passeriformes,Tyrannidae,Elaeniinae
+GRFL,Gray Flycatcher,Empidonax wrightii,EMPWRI,Passeriformes,Tyrannidae,Fluvicolinae
+GRAF,Gray Francolin,Francolinus pondicerianus,FRAPON,Galliformes,Phasianidae,Phasianinae
+GRGU,Gray Gull,Leucophaeus modestus,LEUMOD,Charadriiformes,Laridae,Larinae
+GRHA,Gray Hawk,Buteo plagiatus,BUTPLG,Accipitriformes,Accipitridae,Accipitrinae
+GRAH,Gray Heron,Ardea cinerea,ARDCIN,Pelecaniformes,Ardeidae,
+GRAJ,Gray Jay,Perisoreus canadensis,PERCAN,Passeriformes,Corvidae,
+GRAK,Gray Kingbird,Tyrannus dominicensis,TYRDOM,Passeriformes,Tyrannidae,Tyranninae
+GRNI,Gray Nightjar,Caprimulgus indicus,CAPIND,Caprimulgiformes,Caprimulgidae,Caprimulginae
+GRAP,Gray Partridge,Perdix perdix,PERPER,Galliformes,Phasianidae,Phasianinae
+GRSF,Gray Silky-flycatcher,Ptilogonys cinereus,PTICIN,Passeriformes,Ptilogonatidae,
+GRAT,Gray Thrasher,Toxostoma cinereum,TOXCIN,Passeriformes,Mimidae,
+GRTR,Gray Trembler,Cinclocerthia gutturalis,CINGUT,Passeriformes,Mimidae,
+GRVI,Gray Vireo,Vireo vicinior,VIRVIC,Passeriformes,Vireonidae,
+GRAW,Gray Wagtail,Motacilla cinerea,MOTCIN,Passeriformes,Motacillidae,
+GAGT,Gray-and-gold Tanager,Tangara palmeri,TANPAL,Passeriformes,Thraupidae,
+GBAT,Gray-backed Tern,Onychoprion lunatus,ONYLUN,Charadriiformes,Laridae,Sterninae
+GBWR,Gray-barred Wren,Campylorhynchus megalopterus,CAMMEG,Passeriformes,Troglodytidae,
+GBHA,Gray-bellied Hawk,Accipiter poliogaster,ACCPOL,Accipitriformes,Accipitridae,Accipitrinae
+GBCR,Gray-breasted Crake,Laterallus exilis,LATEXI,Gruiformes,Rallidae,
+GYBM,Gray-breasted Martin,Progne chalybea,PROCHA,Passeriformes,Hirundinidae,Hirundininae
+GBWO,Gray-breasted Woodpecker,Melanerpes hypopolius,MELHYI,Piciformes,Picidae,Picinae
+GBWW,Gray-breasted Wood-Wren,Henicorhina leucophrys,HENLEP,Passeriformes,Troglodytidae,
+GCAF,Gray-capped Flycatcher,Myiozetetes granadensis,MYIGRA,Passeriformes,Tyrannidae,Tyranninae
+GCNU,Gray-cheeked Nunlet,Nonnula frontalis,NONFRO,Piciformes,Bucconidae,
+GCTH,Gray-cheeked Thrush,Catharus minimus,CATMIN,Passeriformes,Turdidae,
+GCBT,Gray-cheeked/Bicknell's Thrush,Catharus minimus x bickn.,CATMIB,Passeriformes,Turdidae,
+GCDO,Gray-chested Dove,Leptotila cassini,LEPCAS,Columbiformes,Columbidae,
+GCBE,Gray-collared Becard,Pachyramphus major,PACMAJ,Passeriformes,Tityridae,
+GCPT,Gray-crowned Palm-Tanager,Phaenicophilus poliocephalus,PHAPOL,Passeriformes,Thraupidae,
+GCRF,Gray-crowned Rosy-Finch,Leucosticte tephrocotis,LEUTEP,Passeriformes,Fringillidae,Carduelinae
+GYCW,Gray-crowned Woodpecker,Colaptes auricularis,COLAUC,Piciformes,Picidae,Picinae
+GCYE,Gray-crowned Yellowthroat,Geothlypis poliocephala,GEOPOL,Passeriformes,Parulidae,
+GFQD,Gray-fronted Quail-Dove,Geotrygon caniceps,GEOCAN,Columbiformes,Columbidae,
+GHEC,Gray-headed Chachalaca,Ortalis cinereiceps,ORTCIN,Galliformes,Cracidae,
+GHCH,Gray-headed Chickadee,Poecile cinctus,POECIN,Passeriformes,Paridae,
+GHDO,Gray-headed Dove,Leptotila plumbeiceps,LEPPLU,Columbiformes,Columbidae,
+GHJU,Gray-headed Junco,Junco h. caniceps,JUNNCA,Passeriformes,Emberizidae,
+GHKI,Gray-headed Kite,Leptodon cayanensis,LEPCAY,Accipitriformes,Accipitridae,Accipitrinae
+GHPI,Gray-headed Piprites,Piprites griseiceps,PIPGRI,Passeriformes,Tyrannidae,
+GHET,Gray-headed Tanager,Eucometis penicillata,EUCPEN,Passeriformes,Thraupidae,
+GHGU,Gray-hooded Gull,Chroicocephalus cirrocephalus,CHRCIR,Charadriiformes,Laridae,Larinae
+GRAS,Grayish Saltator,Saltator coerulescens,SALCOE,Passeriformes,,
+GRGO,Graylag Goose,Anser anser,ANSANS,Anseriformes,Anatidae,Anserinae
+GLHA,Gray-lined Hawk,Buteo nitidus,BUTNIT,Accipitriformes,Accipitridae,Accipitrinae
+GNWR,Gray-necked Wood-Rail,Aramides cajaneus,ARACAJ,Gruiformes,Rallidae,
+GRSW,Gray-rumped Swift,Chaetura cinereiventris,CHACIN,Apodiformes,Apodidae,Chaeturinae
+GSFL,Gray-streaked Flycatcher,Muscicapa griseisticta,MUSGRI,Passeriformes,Muscicapidae,
+GTTA,Gray-tailed Tattler,Tringa brevipes,TRIBRE,Charadriiformes,Scolopacidae,Scolopacinae
+GTCH,Gray-throated Chat,Granatellus sallaei,GRASAL,Passeriformes,Cardinalidae,
+GTLE,Gray-throated Leaftosser,Sclerurus albigularis,SCLALB,Passeriformes,Furnariidae,Sclerurinae
+GANT,Great Antshrike,Taraba major,TARMAJ,Passeriformes,Thamnophilidae,
+GRAU,Great Auk,Pinguinus impennis,PINIMP,Charadriiformes,Alcidae,
+GBBG,Great Black-backed Gull,Larus marinus,LARMAR,Charadriiformes,Laridae,Larinae
+GRBH,Great Black-Hawk,Buteogallus urubitinga,BUTURU,Accipitriformes,Accipitridae,Accipitrinae
+GBHE,Great Blue Heron,Ardea herodias,ARDHER,Pelecaniformes,Ardeidae,
+GRCO,Great Cormorant,Phalacrocorax carbo,PHACAR,Suliformes,Phalacrocoracidae,
+GCFL,Great Crested Flycatcher,Myiarchus crinitus,MYICRI,Passeriformes,Tyrannidae,Tyranninae
+GCTE,Great Crested Tern,Thalasseus bergii,THABER,Charadriiformes,Laridae,Sterninae
+GRCU,Great Curassow,Crax rubra,CRARUB,Galliformes,Cracidae,
+GREG,Great Egret,Ardea alba,ARDALB,Pelecaniformes,Ardeidae,
+GREF,Great Frigatebird,Fregata minor,FREMIN,Suliformes,Fregatidae,
+GGOW,Great Gray Owl,Strix nebulosa,STRNEB,Strigiformes,Strigidae,
+GGMA,Great Green Macaw,Ara ambiguus,ARAAMB,Psittaciformes,Psittacidae,Arinae
+GHOW,Great Horned Owl,Bubo virginianus,BUBVIR,Strigiformes,Strigidae,
+GJAC,Great Jacamar,Jacamerops aureus,JACAUR,Piciformes,Galbulidae,
+GKIS,Great Kiskadee,Pitangus sulphuratus,PITSUL,Passeriformes,Tyrannidae,Tyranninae
+GRKN,Great Knot,Calidris tenuirostris,CALTEN,Charadriiformes,Scolopacidae,Scolopacinae
+GRLC,Great Lizard-Cuckoo,Coccyzus merlini,COCMER,Cuculiformes,Cuculidae,Cuculinae
+GRPO,Great Potoo,Nyctibius grandis,NYCGRA,Caprimulgiformes,Nyctibiidae,
+GRSH,Great Shearwater,Puffinus gravis,PUFGRA,Procellariiformes,Procellariidae,
+GRSK,Great Skua,Stercorarius skua,STESKU,Charadriiformes,Stercorariidae,
+GSWO,Great Spotted Woodpecker,Dendrocopos major,DENMAJ,Piciformes,Picidae,Picinae
+GSTS,Great Swallow-tailed Swift,Panyptila sanctihieronymi,PANSAN,Apodiformes,Apodidae,Apodinae
+GRTI,Great Tinamou,Tinamus major,TINMAJ,Tinamiformes,Tinamidae,
+GWHE,Great White Heron,Ardea h. occidentalis,ARDHOC,Pelecaniformes,Ardeidae,
+GAKI,Greater Akialoa,Hemignathus ellisianus,HEMELL,Passeriformes,Fringillidae,Drepanidinae
+GRAM,Greater Amakihi,Hemignathus sagittirostris,HEMSAG,Passeriformes,Fringillidae,Drepanidinae
+GRTA,Greater Ani,Crotophaga major,CROMAJ,Cuculiformes,Cuculidae,Crotophaginae
+GABU,Greater Antillean Bullfinch,Loxigilla violacea,LOXVIO,Passeriformes,Emberizidae,
+GAEL,Greater Antillean Elaenia,Elaenia fallax,ELAFAL,Passeriformes,Tyrannidae,Elaeniinae
+GAGR,Greater Antillean Grackle,Quiscalus niger,QUINIG,Passeriformes,Icteridae,
+GANI,Greater Antillean Nightjar,Antrostomus cubanensis,ANTCUB,Caprimulgiformes,Caprimulgidae,Caprimulginae
+GRKF,Greater Koa-Finch,Rhodacanthis palmeri,RHOPAL,Passeriformes,Fringillidae,Drepanidinae
+GNLA,Greater Necklaced Laughingthrush,Garrulax pectoralis,GARPEC,Passeriformes,Timaliidae,
+GRPE,Greater Pewee,Contopus pertinax,CONPER,Passeriformes,Tyrannidae,Fluvicolinae
+GRPC,Greater Prairie-Chicken,Tympanuchus cupido,TYMCUP,Galliformes,Phasianidae,Tetraoninae
+GRRO,Greater Roadrunner,Geococcyx californianus,GEOCAL,Cuculiformes,Cuculidae,Neomorphinae
+GRSG,Greater Sage-Grouse,Centrocercus urophasianus,CENURO,Galliformes,Phasianidae,Tetraoninae
+GSAP,Greater Sand-Plover,Charadrius leschenaultii,CHALES,Charadriiformes,Charadriidae,Charadriinae
+GRSC,Greater Scaup,Aythya marila,AYTMAR,Anseriformes,Anatidae,Anatinae
+GSGB,Greater Snow Goose Blue-morph,Chen c. atlantica,CHECAT,Anseriformes,Anatidae,Anserinae
+GSGI,Greater Snow Goose Intermediate-morph,Chen c. atlantica,CHECAT,Anseriformes,Anatidae,Anserinae
+GSGW,Greater Snow Goose White-morph,Chen c. atlantica,CHECAT,Anseriformes,Anatidae,Anserinae
+GWFG,Greater White-fronted Goose,Anser albifrons,ANSALB,Anseriformes,Anatidae,Anserinae
+GRYE,Greater Yellowlegs,Tringa melanoleuca,TRIMEL,Charadriiformes,Scolopacidae,Scolopacinae
+GTGR,Great-tailed Grackle,Quiscalus mexicanus,QUIMEX,Passeriformes,Icteridae,
+GWPE,Great-winged Petrel,Pterodroma macroptera,PTEMAC,Procellariiformes,Procellariidae,
+GREH,Green Hermit,Phaethornis guy,PHAGUY,Apodiformes,Trochilidae,Phaethornithinae
+GRHE,Green Heron,Butorides virescens,BUTVIR,Pelecaniformes,Ardeidae,
+GRHO,Green Honeycreeper,Chlorophanes spiza,CHLSPI,Passeriformes,Thraupidae,
+GRIB,Green Ibis,Mesembrinibis cayennensis,MESCAY,Pelecaniformes,Threskiornithidae,Threskiornithinae
+GREJ,Green Jay,Cyanocorax yncas,CYAYNC,Passeriformes,Corvidae,
+GKIN,Green Kingfisher,Chloroceryle americana,CHLAME,Coraciiformes,Alcedinidae,Cerylinae
+GMAK,Green Manakin,Chloropipo holochlora,CHLHOL,Passeriformes,Pipridae,
+GMAG,Green Mango,Anthracothorax viridis,ANTVIR,Apodiformes,Trochilidae,Trochilinae
+GREP,Green Parakeet,Aratinga holochlora,ARAHOL,Psittaciformes,Psittacidae,Arinae
+GRSA,Green Sandpiper,Tringa ochropus,TRIOCH,Charadriiformes,Scolopacidae,Scolopacinae
+GRSV,Green Shrike-Vireo,Vireolanius pulchellus,VIRPUL,Passeriformes,Vireonidae,
+GRET,Green Thorntail,Discosura conversii,DISCON,Apodiformes,Trochilidae,Trochilinae
+GREV,Green Violetear,Colibri thalassinus,COLTHA,Apodiformes,Trochilidae,Trochilinae
+GARK,Green-and-rufous Kingfisher,Chloroceryle inda,CHLIND,Coraciiformes,Alcedinidae,Cerylinae
+GBSP,Green-backed Sparrow,Arremonops chloronotus,ARRCHL,Passeriformes,Emberizidae,
+GNBM,Green-breasted Mango,Anthracothorax prevostii,ANTPRE,Apodiformes,Trochilidae,Trochilinae
+GBMG,Green-breasted Mountain-gem,Lampornis sybillae,LAMSYB,Apodiformes,Trochilidae,Trochilinae
+GCBR,Green-crowned Brilliant,Heliodoxa jacula,HELJAC,Apodiformes,Trochilidae,Trochilinae
+GNCW,Green-crowned Woodnymph,Thalurania fannyi,THAFAN,Apodiformes,Trochilidae,Trochilinae
+GFHU,Green-fronted Hummingbird,Amazilia viridifrons,AMAVIF,Apodiformes,Trochilidae,Trochilinae
+GFRL,Green-fronted Lancebill,Doryfera ludovicae,DORLUD,Apodiformes,Trochilidae,Trochilinae
+GREL,Greenish Elaenia,Myiopagis viridicata,MYIVIR,Passeriformes,Tyrannidae,Elaeniinae
+GRPU,Greenish Puffleg,Haplophaedia aureliae,HAPAUR,Apodiformes,Trochilidae,Trochilinae
+GNTA,Green-naped Tanager,Tangara fucosa,TANFUC,Passeriformes,Thraupidae,
+GRUP,Green-rumped Parrotlet,Forpus passerinus,FORPAS,Psittaciformes,Psittacidae,Arinae
+GSBF,Green-striped Brush-Finch,Arremon virenticeps,ARRVIR,Passeriformes,Emberizidae,
+GTTO,Green-tailed Towhee,Pipilo chlorurus,PIPCHL,Passeriformes,Emberizidae,
+GTWA,Green-tailed Warbler,Microligea palustris,MICPAL,Passeriformes,Parulidae,
+GTCA,Green-throated Carib,Eulampis holosericeus,EULHOL,Apodiformes,Trochilidae,Trochilinae
+GTMG,Green-throated Mountain-gem,Lampornis viridipallens,LAMVIR,Apodiformes,Trochilidae,Trochilinae
+GWTE,Green-winged Teal,Anas crecca,ANACRE,Anseriformes,Anatidae,Anatinae
+GRDO,Grenada Dove,Leptotila wellsi,LEPWEL,Columbiformes,Columbidae,
+GFLY,Grenada Flycatcher,Myiarchus nugator,MYINUG,Passeriformes,Tyrannidae,Tyranninae
+GBAN,Groove-billed Ani,Crotophaga sulcirostris,CROSUL,Cuculiformes,Cuculidae,Crotophaginae
+GUCA,Guadalupe Caracara,Caracara lutosa,CARLUT,Falconiformes,Falconidae,Caracarinae
+GAMU,Guadalupe Murrelet,Synthliboramphus hypoleucus,SYNHYP,Charadriiformes,Alcidae,
+GUSP,Guadalupe Storm-Petrel,Oceanodroma macrodactyla,OCEMAC,Procellariiformes,Hydrobatidae,
+GUWO,Guadeloupe Woodpecker,Melanerpes herminieri,MELHER,Piciformes,Picidae,Picinae
+GBTE,Gull-billed Tern,Gelochelidon nilotica,GELNIL,Charadriiformes,Laridae,Sterninae
+GUHA,Gundlach's Hawk,Accipiter gundlachi,ACCGUN,Accipitriformes,Accipitridae,Accipitrinae
+GUSG,Gunnison Sage-Grouse,Centrocercus minimus,CENMIN,Galliformes,Phasianidae,Tetraoninae
+GYRF,Gyrfalcon,Falco rusticolus,FALRUS,Falconiformes,Falconidae,Falconinae
+HAWO,Hairy Woodpecker,Picoides villosus,PICVIL,Piciformes,Picidae,Picinae
+HAFL,Hammond's Flycatcher,Empidonax hammondii,EMPHAM,Passeriformes,Tyrannidae,Fluvicolinae
+HDFL,Hammond's/Dusky Flycatcher,Empidonax hammondii/oberho.,EMPHAO,Passeriformes,Tyrannidae,Fluvicolinae
+HAWR,Happy Wren,Pheugopedius felix,PHEFEL,Passeriformes,Troglodytidae,
+HALH,Harlan's Hawk,Buteo j. harlani,BUTJHA,Accipitriformes,Accipitridae,
+HADU,Harlequin Duck,Histrionicus histrionicus,HISHIS,Anseriformes,Anatidae,Anatinae
+HAEA,Harpy Eagle,Harpia harpyja,HARHAR,Accipitriformes,Accipitridae,Accipitrinae
+HASH,Harris's Hawk,Parabuteo unicinctus,PARUNI,Accipitriformes,Accipitridae,Accipitrinae
+HASP,Harris's Sparrow,Zonotrichia querula,ZONQUE,Passeriformes,Emberizidae,
+HAAM,Hawaii Amakihi,Hemignathus virens,HEMVIR,Passeriformes,Fringillidae,Drepanidinae
+HCRE,Hawaii Creeper,Oreomystis mana,OREMAN,Passeriformes,Fringillidae,Drepanidinae
+HAEL,Hawaii Elepaio,Chasiempis sandwichensis,CHASAN,Passeriformes,Monarchidae,
+HAMA,Hawaii Mamo,Drepanis pacifica,DREPAC,Passeriformes,Fringillidae,Drepanidinae
+HAOO,Hawaii Oo,Moho nobilis,MOHNOB,Passeriformes,Mohoidae,
+HACO,Hawaiian Coot,Fulica alai,FULALA,Gruiformes,Rallidae,
+HCRO,Hawaiian Crow,Corvus hawaiiensis,CORHAW,Passeriformes,Corvidae,
+HAWD,Hawaiian Duck,Anas wyvilliana,ANAWYV,Anseriformes,Anatidae,Anatinae
+HAGA,Hawaiian Gallinule,Gallinula g. sandvicensis,GALGSA,Gruiformes,Rallidae,
+HAGO,Hawaiian Goose,Branta sandvicensis,BRASAN,Anseriformes,Anatidae,Anserinae
+HAWH,Hawaiian Hawk,Buteo solitarius,BUESOL,Accipitriformes,Accipitridae,Accipitrinae
+HAPE,Hawaiian Petrel,Pterodroma sandwichensis,PTESAN,Procellariiformes,Procellariidae,
+HARA,Hawaiian Rail,Porzana sandwichensis,PORSAN,Gruiformes,Rallidae,
+HAST,Hawaiian Stilt,Himantopus m. melanurus,HIMMME,Charadriiformes,Recurvirostridae,
+HAWF,Hawfinch,Coccothraustes coccothraustes,COCCOT,Passeriformes,Fringillidae,Carduelinae
+HEEG,Heermann's Gull,Larus heermanni,LARHEE,Charadriiformes,Laridae,Larinae
+HELG,Helmeted Guineafowl,Numida meleagris,NUMMEL,Galliformes,Numididae,
+HESP,Henslow's Sparrow,Ammodramus henslowii,AMMHEN,Passeriformes,Emberizidae,
+HETA,Hepatic Tanager,Piranga flava,PIRFLA,Passeriformes,Cardinalidae,
+HEPE,Herald Petrel,Pterodroma arminjoniana,PTEARM,Procellariiformes,Procellariidae,
+HETH,Hermit Thrush,Catharus guttatus,CATGUT,Passeriformes,Turdidae,
+HEWA,Hermit Warbler,Setophaga occidentalis,SETOCC,Passeriformes,Parulidae,
+HERG,Herring Gull,Larus argentatus,LARARG,Charadriiformes,Laridae,Larinae
+HIGU,Highland Guan,Penelopina nigra,PENNIG,Galliformes,Cracidae,
+HITI,Highland Tinamou,Nothocercus bonapartei,NOTBON,Tinamiformes,Tinamidae,
+HIMY,Hill Myna,Gracula religiosa,GRAREL,Passeriformes,Sturnidae,
+HISN,Himalayan Snowcock,Tetraogallus himalayensis,TETHIM,Galliformes,Phasianidae,Phasianinae
+HICR,Hispaniolan Crossbill,Loxia megaplaga,LOXMEG,Passeriformes,Fringillidae,Carduelinae
+HIEM,Hispaniolan Emerald,Chlorostilbon swainsonii,CHLSWA,Apodiformes,Trochilidae,Trochilinae
+HILC,Hispaniolan Lizard-Cuckoo,Coccyzus longirostris,COCLON,Cuculiformes,Cuculidae,Cuculinae
+HIOR,Hispaniolan Oriole,Icterus dominicensis,ICTDOM,Passeriformes,Icteridae,
+HPAK,Hispaniolan Parakeet,Aratinga chloroptera,ARACHA,Psittaciformes,Psittacidae,Arinae
+HPAT,Hispaniolan Parrot,Amazona ventralis,AMAVEN,Psittaciformes,Psittacidae,Arinae
+HIPE,Hispaniolan Pewee,Contopus hispaniolensis,CONHIS,Passeriformes,Tyrannidae,Fluvicolinae
+HISP,Hispaniolan Spindalis,Spindalis dominicensis,SPDDOM,Passeriformes,Thraupidae,
+HITR,Hispaniolan Trogon,Priotelus roseigaster,PRIROS,Trogoniformes,Trogonidae,Trogoninae
+HIWO,Hispaniolan Woodpecker,Melanerpes striatus,MELSTR,Piciformes,Picidae,Picinae
+HORE,Hoary Redpoll,Acanthis hornemanni,ACAHOR,Passeriformes,Fringillidae,Carduelinae
+HOWO,Hoffmann's Woodpecker,Melanerpes hoffmannii,MELHOF,Piciformes,Picidae,Picinae
+HOEM,Honduran Emerald,Amazilia luciae,AMALUC,Apodiformes,Trochilidae,Trochilinae
+HOOG,Hooded Grosbeak,Coccothraustes abeillei,COCABE,Passeriformes,Fringillidae,Carduelinae
+HOME,Hooded Merganser,Lophodytes cucullatus,LOPCUC,Anseriformes,Anatidae,Anatinae
+HOOR,Hooded Oriole,Icterus cucullatus,ICTCUC,Passeriformes,Icteridae,
+HOWA,Hooded Warbler,Setophaga citrina,SETCIT,Passeriformes,Parulidae,
+HOYE,Hooded Yellowthroat,Geothlypis nelsoni,GEONEL,Passeriformes,Parulidae,
+HBKI,Hook-billed Kite,Chondrohierax uncinatus,CHOUNC,Accipitriformes,Accipitridae,Accipitrinae
+HOGR,Horned Grebe,Podiceps auritus,PODAUR,Podicipediformes,Podicipedidae,
+HOGU,Horned Guan,Oreophasis derbianus,OREDER,Galliformes,Cracidae,
+HOLA,Horned Lark,Eremophila alpestris,EREALP,Passeriformes,Alaudidae,
+HOPU,Horned Puffin,Fratercula corniculata,FRACOR,Charadriiformes,Alcidae,
+HOFI,House Finch,Haemorhous mexicanus,HAEMEX,Passeriformes,Fringillidae,Carduelinae
+HOSP,House Sparrow,Passer domesticus,PASDOM,Passeriformes,Passeridae,
+HOWR,House Wren,Troglodytes aedon,TROAED,Passeriformes,Troglodytidae,
+HUGO,Hudsonian Godwit,Limosa haemastica,LIMHAE,Charadriiformes,Scolopacidae,Scolopacinae
+HUSA,Humboldt's Sapphire,Hylocharis humboldtii,HYLHUM,Apodiformes,Trochilidae,Trochilinae
+HUVI,Hutton's Vireo,Vireo huttoni,VIRHUT,Passeriformes,Vireonidae,
+HWAM,Hwamei,Garrulax canorus,GARCAN,Passeriformes,Timaliidae,
+ICGU,Iceland Gull,Larus glaucoides,LARGLD,Charadriiformes,Laridae,Larinae
+IIWI,Iiwi,Vestiaria coccinea,VESCOC,Passeriformes,Fringillidae,Drepanidinae
+IMAN,Immaculate Antbird,Myrmeciza immaculata,MYRIMM,Passeriformes,Thamnophilidae,
+IMPA,Imperial Parrot,Amazona imperialis,AMAIMP,Psittaciformes,Psittacidae,Arinae
+IMWO,Imperial Woodpecker,Campephilus imperialis,CAMIMP,Piciformes,Picidae,Picinae
+INDO,Inca Dove,Columbina inca,COLINC,Columbiformes,Columbidae,
+INTE,Inca Tern,Larosterna inca,LARINC,Charadriiformes,Laridae,Sterninae
+INPE,Indian Peafowl,Pavo cristatus,PAVCRI,Galliformes,Phasianidae,Phasianinae
+INSI,Indian Silverbill,Lonchura malabarica,LONMAB,Passeriformes,Estrildidae,
+INBU,Indigo Bunting,Passerina cyanea,PASCYA,Passeriformes,Cardinalidae,
+INEG,Intermediate Egret,Mesophoyx intermedia,MESINT,Pelecaniformes,Ardeidae,
+IPSP,Ipswich Sparrow,Passerculus s. princeps,PASSPR,Passeriformes,Emberizidae,
+ISCA,Island Canary,Serinus canaria,SERCAN,Passeriformes,Fringillidae,Carduelinae
+ISSJ,Island Scrub-Jay,Aphelocoma insularis,APHINS,Passeriformes,Corvidae,
+IVGU,Ivory Gull,Pagophila eburnea,PAGEBU,Charadriiformes,Laridae,Larinae
+IBIW,Ivory-billed Woodcreeper,Xiphorhynchus flavigaster,XIPFLA,Passeriformes,Furnariidae,Dendrocolaptinae
+IBWO,Ivory-billed Woodpecker,Campephilus principalis,CAMPRI,Piciformes,Picidae,Picinae
+JABI,Jabiru,Jabiru mycteria,JABMYC,Ciconiiformes,Ciconiidae,
+JASN,Jack Snipe,Lymnocryptes minimus,LYMMIN,Charadriiformes,Scolopacidae,Scolopacinae
+JABE,Jamaican Becard,Pachyramphus niger,PACNIG,Passeriformes,Tityridae,
+JABL,Jamaican Blackbird,Nesopsar nigerrimus,NESNIG,Passeriformes,Icteridae,
+JACR,Jamaican Crow,Corvus jamaicensis,CORJAM,Passeriformes,Corvidae,
+JAEL,Jamaican Elaenia,Myiopagis cotta,MYICOT,Passeriformes,Tyrannidae,Elaeniinae
+JAEU,Jamaican Euphonia,Euphonia jamaica,EUPJAM,Passeriformes,Fringillidae,Euphoniinae
+JALC,Jamaican Lizard-Cuckoo,Coccyzus vetula,COCVET,Cuculiformes,Cuculidae,Cuculinae
+JAMA,Jamaican Mango,Anthracothorax mango,ANTMAN,Apodiformes,Trochilidae,Trochilinae
+JAOR,Jamaican Oriole,Icterus leucopteryx,ICTLEU,Passeriformes,Icteridae,
+JAOW,Jamaican Owl,Pseudoscops grammicus,PSEGRA,Strigiformes,Strigidae,
+JAPA,Jamaican Pauraque,Siphonorhis americana,SIPAME,Caprimulgiformes,Caprimulgidae,Caprimulginae
+JAPE,Jamaican Pewee,Contopus pallidus,CONPAL,Passeriformes,Tyrannidae,Fluvicolinae
+JAMS,Jamaican Spindalis,Spindalis nigricephala,SPINIG,Passeriformes,Thraupidae,
+JATO,Jamaican Tody,Todus todus,TODTOD,Coraciiformes,Todidae,
+JAVI,Jamaican Vireo,Vireo modestus,VIRMOD,Passeriformes,Vireonidae,
+JAWO,Jamaican Woodpecker,Melanerpes radiolatus,MELRAD,Piciformes,Picidae,Picinae
+JABW,Japanese Bush-Warbler,Cettia diphone,CETDIP,Passeriformes,Cettiidae,
+JAQU,Japanese Quail,Coturnix japonica,COTJAP,Galliformes,Phasianidae,Phasianinae
+JAWE,Japanese White-eye,Zosterops japonicus,ZOSJAP,Passeriformes,Zosteropidae,
+JASP,Java Sparrow,Padda oryzivora,PADORY,Passeriformes,Estrildidae,
+JEAN,Jet Antbird,Cercomacra nigricans,CERNIG,Passeriformes,Thamnophilidae,
+JOPE,Jouanin's Petrel,Bulweria fallax,BULFAL,Procellariiformes,Procellariidae,
+JFPE,Juan Fernandez Petrel,Pterodroma externa,PTEEXT,Procellariiformes,Procellariidae,
+JUTI,Juniper Titmouse,Baeolophus ridgwayi,BAERID,Passeriformes,Paridae,
+KAKA,Kakawahie,Paroreomyza flammea,PARFLA,Passeriformes,Fringillidae,Drepanidinae
+KAPH,Kalij Pheasant,Lophura leucomelanos,LOPLEU,Galliformes,Phasianidae,Phasianinae
+KAMA,Kamao,Myadestes myadestinus,MYAMYA,Passeriformes,Turdidae,
+KAAM,Kauai Amakihi,Hemignathus kauaiensis,HEMKAU,Passeriformes,Fringillidae,Drepanidinae
+KAEL,Kauai Elepaio,Chasiempis sclateri,CHASCL,Passeriformes,Monarchidae,
+KAOO,Kauai Oo,Moho braccatus,MOHBRA,Passeriformes,Mohoidae,
+KBMO,Keel-billed Motmot,Electron carinatum,ELECAR,Coraciiformes,Momotidae,
+KBTO,Keel-billed Toucan,Ramphastos sulfuratus,RAMSUL,Piciformes,Ramphastidae,Ramphastinae
+KEGU,Kelp Gull,Larus dominicanus,LARDOM,Charadriiformes,Laridae,Larinae
+KEWA,Kentucky Warbler,Geothlypis formosa,GEOFOR,Passeriformes,Parulidae,
+KEPE,Kermadec Petrel,Pterodroma neglecta,PTENEG,Procellariiformes,Procellariidae,
+KWQD,Key West Quail-Dove,Geotrygon chrysia,GEOCHR,Columbiformes,Columbidae,
+KILL,Killdeer,Charadrius vociferus,CHAVOC,Charadriiformes,Charadriidae,Charadriinae
+KIEI,King Eider,Somateria spectabilis,SOMSPE,Anseriformes,Anatidae,Anatinae
+KIRA,King Rail,Rallus elegans,RALELE,Gruiformes,Rallidae,
+KIVU,King Vulture,Sarcoramphus papa,SARPAP,Accipitriformes,Cathartidae,
+KIOE,Kioea,Chaetoptila angustipluma,CHAANG,Passeriformes,Mohoidae,
+KIWA,Kirtland's Warbler,Setophaga kirtlandii,SETKIR,Passeriformes,Parulidae,
+KIMU,Kittlitz's Murrelet,Brachyramphus brevirostris,BRABRE,Charadriiformes,Alcidae,
+KOGR,Kona Grosbeak,Chloridops kona,CHLKON,Passeriformes,Fringillidae,Drepanidinae
+LSFL,La Sagra's Flycatcher,Myiarchus sagrae,MYISAG,Passeriformes,Tyrannidae,Tyranninae
+LSTH,La Selle Thrush,Turdus swalesi,TURSWA,Passeriformes,Turdidae,
+LABD,Labrador Duck,Camptorhynchus labradorius,CAMLAB,Anseriformes,Anatidae,Anatinae
+LBWO,Ladder-backed Woodpecker,Picoides scalaris,PICSCA,Piciformes,Picidae,Picinae
+LAHO,Lanai Hookbill,Dysmorodrepanis munroi,DYSMUN,Passeriformes,Fringillidae,Drepanidinae
+LAMO,Lanceolated Monklet,Micromonacha lanceolata,MICLAN,Piciformes,Bucconidae,
+LANW,Lanceolated Warbler,Locustella lanceolata,LOCLAN,Passeriformes,Megaluridae,
+LATM,Lance-tailed Manakin,Chiroxiphia lanceolata,CHILAN,Passeriformes,Pipridae,
+LALO,Lapland Longspur,Calcarius lapponicus,CALLAP,Passeriformes,Calcariidae,
+LCGO,Large Canada Goose,Branta c. moffitti,BRACMO,Anseriformes,Anatidae,Anserinae
+LBSF,Large-billed Seed-Finch,Oryzoborus crassirostris,ORYCRA,Passeriformes,Emberizidae,
+LBSP,Large-billed Sparrow,Passerculus s. rostratus,PASSRO,Passeriformes,Emberizidae,
+LBTE,Large-billed Tern,Phaetusa simplex,PHASIM,Charadriiformes,Laridae,Sterninae
+LFFI,Large-footed Finch,Pezopetes capitalis,PEZCAP,Passeriformes,Emberizidae,
+LARB,Lark Bunting,Calamospiza melanocorys,CALMEC,Passeriformes,Emberizidae,
+LASP,Lark Sparrow,Chondestes grammacus,CHOGRA,Passeriformes,Emberizidae,
+LTTR,Lattice-tailed Trogon,Trogon clathratus,TROCLA,Trogoniformes,Trogonidae,Trogoninae
+LAFA,Laughing Falcon,Herpetotheres cachinnans,HERCAC,Falconiformes,Falconidae,Falconinae
+LAGU,Laughing Gull,Leucophaeus atricilla,LEUATC,Charadriiformes,Laridae,Larinae
+LAVW,Lavender Waxbill,Estrilda caerulescens,ESTCAE,Passeriformes,Estrildidae,
+LAGO,Lawrence's Goldfinch,Spinus lawrencei,SPILAW,Passeriformes,Fringillidae,Carduelinae
+LAWA,Lawrence's Warbler,Vermivora cyanoptera x chrysoptera,VERCCH,Passeriformes,Parulidae,
+LAAL,Laysan Albatross,Phoebastria immutabilis,PHOIMM,Procellariiformes,Diomedeidae,
+LAYD,Laysan Duck,Anas laysanensis,ANALAY,Anseriformes,Anatidae,Anatinae
+LAFI,Laysan Finch,Telespiza cantans,TELCAN,Passeriformes,Fringillidae,Drepanidinae
+LARA,Laysan Rail,Porzana palmeri,PORPAL,Gruiformes,Rallidae,
+LBFH,Laysan X Black-foot. Albatross Hybrid,Phoebastria immut. X nigripes,PHOIMN,Procellariiformes,Diomedeidae,
+LAZB,Lazuli Bunting,Passerina amoena,PASAMO,Passeriformes,Cardinalidae,
+LIBH,Lazuli x Indigo Bunting Hybrid,Passerina amoena x cyanea,PASAMC,Passeriformes,Cardinalidae,
+LCSP,Le Conte's Sparrow,Ammodramus leconteii,AMMLEC,Passeriformes,Emberizidae,
+LCTH,Le Conte's Thrasher,Toxostoma lecontei,TOXLEC,Passeriformes,Mimidae,
+LESP,Leach's Storm-Petrel,Oceanodroma leucorhoa,OCELEU,Procellariiformes,Hydrobatidae,
+LEAU,Least Auklet,Aethia pusilla,AETPUS,Charadriiformes,Alcidae,
+LBVI,Least Bell's Vireo,Vireo b. pusillus,VIRBPU,Passeriformes,Vireonidae,
+LEBI,Least Bittern,Ixobrychus exilis,IXOEXI,Pelecaniformes,Ardeidae,
+LEFL,Least Flycatcher,Empidonax minimus,EMPMIN,Passeriformes,Tyrannidae,Fluvicolinae
+LEGR,Least Grebe,Tachybaptus dominicus,TACDOM,Podicipediformes,Podicipedidae,
+LEPA,Least Pauraque,Siphonorhis brewsteri,SIPBRE,Caprimulgiformes,Caprimulgidae,Caprimulginae
+LESA,Least Sandpiper,Calidris minutilla,CALMIL,Charadriiformes,Scolopacidae,Scolopacinae
+LSTP,Least Storm-Petrel,Oceanodroma microsoma,OCEMIC,Procellariiformes,Hydrobatidae,
+LETE,Least Tern,Sternula antillarum,STEANT,Charadriiformes,Laridae,Sterninae
+LSTA,Lemon-spectacled Tanager,Chlorothraupis olivacea,CHLOLI,Passeriformes,Cardinalidae,
+LEAK,Lesser Akialoa,Hemignathus obscurus,HEMOBS,Passeriformes,Fringillidae,Drepanidinae
+LANB,Lesser Antillean Bullfinch,Loxigilla noctis,LOXNOC,Passeriformes,Emberizidae,
+LAFL,Lesser Antillean Flycatcher,Myiarchus oberi,MYIOBE,Passeriformes,Tyrannidae,Tyranninae
+LAPE,Lesser Antillean Pewee,Contopus latirostris,CONLAT,Passeriformes,Tyrannidae,Fluvicolinae
+LASA,Lesser Antillean Saltator,Saltator albicollis,SALALB,Passeriformes,,
+LASW,Lesser Antillean Swift,Chaetura martinica,CHAMAR,Apodiformes,Apodidae,Chaeturinae
+LATA,Lesser Antillean Tanager,Tangara cucullata,TANCUC,Passeriformes,Thraupidae,
+LBBG,Lesser Black-backed Gull,Larus fuscus,LARFUS,Charadriiformes,Laridae,Larinae
+LEEL,Lesser Elaenia,Elaenia chiriquensis,ELACHI,Passeriformes,Tyrannidae,Elaeniinae
+LEFR,Lesser Frigatebird,Fregata ariel,FREARI,Suliformes,Fregatidae,
+LEGP,Lesser Golden-Plover,Pluvialis dominica/fulva,PLUDOF,Charadriiformes,Charadriidae,
+LEGO,Lesser Goldfinch,Spinus psaltria,SPIPSA,Passeriformes,Fringillidae,Carduelinae
+LESG,Lesser Greenlet,Hylophilus decurtatus,HYLDEC,Passeriformes,Vireonidae,
+LEGC,Lesser Ground-Cuckoo,Morococcyx erythropygus,MORERY,Cuculiformes,Cuculidae,Neomorphinae
+LEKI,Lesser Kiskadee,Pitangus lictor,PITLIC,Passeriformes,Tyrannidae,Tyranninae
+LEKF,Lesser Koa-Finch,Rhodacanthis flaviceps,RHOFLA,Passeriformes,Fringillidae,Drepanidinae
+LENI,Lesser Nighthawk,Chordeiles acutipennis,CHOACU,Caprimulgiformes,Caprimulgidae,Chordeilinae
+LEPC,Lesser Prairie-Chicken,Tympanuchus pallidicinctus,TYMPAL,Galliformes,Phasianidae,Tetraoninae
+LERO,Lesser Roadrunner,Geococcyx velox,GEOVEL,Cuculiformes,Cuculidae,Neomorphinae
+LSAP,Lesser Sand-Plover,Charadrius mongolus,CHAMOG,Charadriiformes,Charadriidae,Charadriinae
+LESC,Lesser Scaup,Aythya affinis,AYTAFF,Anseriformes,Anatidae,Anatinae
+LSGB,Lesser Snow Goose Blue-morph,Chen c. caerulescens,CHECCA,Anseriformes,Anatidae,Anserinae
+LSGI,Lesser Snow Goose Intermediate-morph,Chen c. caerulescens,CHECCA,Anseriformes,Anatidae,Anserinae
+LSGW,Lesser Snow Goose White-morph,Chen c. caerulescens,CHECCA,Anseriformes,Anatidae,Anserinae
+LSTS,Lesser Swallow-tailed Swift,Panyptila cayennensis,PANCAY,Apodiformes,Apodidae,Apodinae
+LWFG,Lesser White-fronted Goose,Anser erythropus,ANSERY,Anseriformes,Anatidae,Anserinae
+LEWH,Lesser Whitethroat,Sylvia curruca,SYLCUR,Passeriformes,Sylviidae,
+LYHV,Lesser Yellow-headed Vulture,Cathartes burrovianus,CATBUR,Accipitriformes,Cathartidae,
+LEYE,Lesser Yellowlegs,Tringa flavipes,TRIFLA,Charadriiformes,Scolopacidae,Scolopacinae
+LEWO,Lewis's Woodpecker,Melanerpes lewis,MELLEW,Piciformes,Picidae,Picinae
+LMAL,Light-mantled Albatross,Phoebetria palpebrata,PHOPAL,Procellariiformes,Diomedeidae,
+LCPA,Lilac-crowned Parrot,Amazona finschi,AMAFIN,Psittaciformes,Psittacidae,Arinae
+LIMP,Limpkin,Aramus guarauna,ARAGUA,Gruiformes,Aramidae,
+LISP,Lincoln's Sparrow,Melospiza lincolnii,MELLIN,Passeriformes,Emberizidae,
+LIFG,Lineated Foliage-gleaner,Syndactyla subalaris,SYNSUB,Passeriformes,Furnariidae,Furnariinae
+LIWO,Lineated Woodpecker,Dryocopus lineatus,DRYLIN,Piciformes,Picidae,Picinae
+LIBI,Little Bittern,Ixobrychus minutus,IXOMIN,Pelecaniformes,Ardeidae,
+LBHE,Little Blue Heron,Egretta caerulea,EGRCAE,Pelecaniformes,Ardeidae,
+LIBU,Little Bunting,Emberiza pusilla,EMBPUS,Passeriformes,Emberizidae,
+LITC,Little Cuckoo,Coccycua minuta,COCMIT,Cuculiformes,Cuculidae,Cuculinae
+LICU,Little Curlew,Numenius minutus,NUMMIN,Charadriiformes,Scolopacidae,Scolopacinae
+LIEG,Little Egret,Egretta garzetta,EGRGAR,Pelecaniformes,Ardeidae,
+LIGU,Little Gull,Hydrocoloeus minutus,HYDMIN,Charadriiformes,Laridae,Larinae
+LRPL,Little Ringed Plover,Charadrius dubius,CHADUB,Charadriiformes,Charadriidae,Charadriinae
+LISH,Little Shearwater,Puffinus assimilis,PUFASS,Procellariiformes,Procellariidae,
+LIST,Little Stint,Calidris minuta,CALMIA,Charadriiformes,Scolopacidae,Scolopacinae
+LITE,Little Tern,Sternula albifrons,STEALB,Charadriiformes,Laridae,Sterninae
+LITI,Little Tinamou,Crypturellus soui,CRYSOU,Tinamiformes,Tinamidae,
+LOKI,Loggerhead Kingbird,Tyrannus caudifasciatus,TYRCAU,Passeriformes,Tyrannidae,Tyranninae
+LOSH,Loggerhead Shrike,Lanius ludovicianus,LANLUD,Passeriformes,Laniidae,
+LBCU,Long-billed Curlew,Numenius americanus,NUMAME,Charadriiformes,Scolopacidae,Scolopacinae
+LBDO,Long-billed Dowitcher,Limnodromus scolopaceus,LIMSCO,Charadriiformes,Scolopacidae,Scolopacinae
+LBGN,Long-billed Gnatwren,Ramphocaenus melanurus,RAMMEL,Passeriformes,Polioptilidae,
+LBIH,Long-billed Hermit,Phaethornis longirostris,PHALON,Apodiformes,Trochilidae,Phaethornithinae
+LBMU,Long-billed Murrelet,Brachyramphus perdix,BRAPER,Charadriiformes,Alcidae,
+LBST,Long-billed Starthroat,Heliomaster longirostris,HELLON,Apodiformes,Trochilidae,Trochilinae
+LBTH,Long-billed Thrasher,Toxostoma longirostre,TOXLON,Passeriformes,Mimidae,
+LEOW,Long-eared Owl,Asio otus,ASIOTU,Strigiformes,Strigidae,
+LTDU,Long-tailed Duck,Clangula hyemalis,CLAHYE,Anseriformes,Anatidae,Anatinae
+LTJA,Long-tailed Jaeger,Stercorarius longicaudus,STELON,Charadriiformes,Stercorariidae,
+LOTM,Long-tailed Manakin,Chiroxiphia linearis,CHILIN,Passeriformes,Pipridae,
+LTSA,Long-tailed Sabrewing,Campylopterus excellens,CAMEXC,Apodiformes,Trochilidae,Trochilinae
+LTSF,Long-tailed Silky-flycatcher,Ptilogonys caudatus,PTICAU,Passeriformes,Ptilogonatidae,
+LTTY,Long-tailed Tyrant,Colonia colonus,COLCOL,Passeriformes,Tyrannidae,Fluvicolinae
+LTWO,Long-tailed Woodcreeper,Deconychura longicauda,DECLON,Passeriformes,Furnariidae,Dendrocolaptinae
+LTWP,Long-tailed Wood-Partridge,Dendrortyx macroura,DENMAC,Galliformes,Odontophoridae,
+LTST,Long-toed Stint,Calidris subminuta,CALSUB,Charadriiformes,Scolopacidae,Scolopacinae
+LWHA,Long-winged Harrier,Circus buffoni,CIRBUF,Accipitriformes,Accipitridae,Accipitrinae
+LOWA,Louisiana Waterthrush,Parkesia motacilla,PARMOT,Passeriformes,Parulidae,
+LOCO,Lovely Cotinga,Cotinga amabilis,COTAMA,Passeriformes,Cotingidae,
+LUHU,Lucifer Hummingbird,Calothorax lucifer,CALLUC,Apodiformes,Trochilidae,Trochilinae
+LUWA,Lucy's Warbler,Oreothlypis luciae,ORELUC,Passeriformes,Parulidae,
+MGWA,MacGillivray's Warbler,Geothlypis tolmiei,GEOTOL,Passeriformes,Parulidae,
+MTWO,Magenta-throated Woodstar,Calliphlox bryantae,CALBRY,Apodiformes,Trochilidae,Trochilinae
+MAFR,Magnificent Frigatebird,Fregata magnificens,FREMAG,Suliformes,Fregatidae,
+MAHU,Magnificent Hummingbird,Eugenes fulgens,EUGFUL,Apodiformes,Trochilidae,Trochilinae
+MAWA,Magnolia Warbler,Setophaga magnolia,SETMAG,Passeriformes,Parulidae,
+MALL,Mallard,Anas platyrhynchos,ANAPLA,Anseriformes,Anatidae,Anatinae
+MACU,Mangrove Cuckoo,Coccyzus minor,COCMIR,Cuculiformes,Cuculidae,Cuculinae
+MANH,Mangrove Hummingbird,Amazilia boucardi,AMABOU,Apodiformes,Trochilidae,Trochilinae
+MANS,Mangrove Swallow,Tachycineta albilinea,TACALB,Passeriformes,Hirundinidae,Hirundininae
+MAVI,Mangrove Vireo,Vireo pallens,VIRPAL,Passeriformes,Vireonidae,
+MANW,Mangrove Warbler,Setophaga petechia erithachorides,SETPER,Passeriformes,Parulidae,
+MASH,Manx Shearwater,Puffinus puffinus,PUFPUF,Procellariiformes,Procellariidae,
+MAGO,Marbled Godwit,Limosa fedoa,LIMFED,Charadriiformes,Scolopacidae,Scolopacinae
+MAMU,Marbled Murrelet,Brachyramphus marmoratus,BRAMAR,Charadriiformes,Alcidae,
+MAWQ,Marbled Wood-Quail,Odontophorus gujanensis,ODOGUJ,Galliformes,Odontophoridae,
+MASW,Mariana Swiftlet,Aerodramus bartschi,AERBAR,Apodiformes,Apodidae,Chaeturinae
+MASP,Markham's Storm-Petrel,Oceanodroma markhami,OCEMAR,Procellariiformes,Hydrobatidae,
+MCGD,Maroon-chested Ground-Dove,Claravis mondetoura,CLAMON,Columbiformes,Columbidae,
+MFPA,Maroon-fronted Parrot,Rhynchopsitta terrisi,RHYTER,Psittaciformes,Psittacidae,Arinae
+MASA,Marsh Sandpiper,Tringa stagnatilis,TRISTA,Charadriiformes,Scolopacidae,Scolopacinae
+MAWR,Marsh Wren,Cistothorus palustris,CISPAL,Passeriformes,Troglodytidae,
+MAOR,Martinique Oriole,Icterus bonana,ICTBON,Passeriformes,Icteridae,
+MABO,Masked Booby,Sula dactylatra,SULDAC,Suliformes,Sulidae,
+MADU,Masked Duck,Nomonyx dominicus,NOMDOM,Anseriformes,Anatidae,Anatinae
+MATI,Masked Tityra,Tityra semifasciata,TITSEM,Passeriformes,Tityridae,
+MAYE,Masked Yellowthroat,Geothlypis aequinoctialis,GEOAEQ,Passeriformes,Parulidae,
+MAAL,Maui Alauahio,Paroreomyza montana,PARMON,Passeriformes,Fringillidae,Drepanidinae
+MAPA,Maui Parrotbill,Pseudonestor xanthophrys,PSEXAN,Passeriformes,Fringillidae,Drepanidinae
+MCLO,McCown's Longspur,Rhynchophanes mccownii,RHYMCC,Passeriformes,Calcariidae,
+MKBU,McKay's Bunting,Plectrophenax hyperboreus,PLEHYP,Passeriformes,Calcariidae,
+MEAP,Mealy Parrot,Amazona farinosa,AMAFAR,Psittaciformes,Psittacidae,Arinae
+MEBL,Melodious Blackbird,Dives dives,DIVDIV,Passeriformes,Icteridae,
+MERL,Merlin,Falco columbarius,FALCOL,Falconiformes,Falconidae,Falconinae
+MEGU,Mew Gull,Larus canus,LARCAN,Charadriiformes,Laridae,Larinae
+MECH,Mexican Chickadee,Poecile sclateri,POESCL,Passeriformes,Paridae,
+MEDU,Mexican Duck,Anas p. diazi,ANAPDI,Anseriformes,Anatidae,Anatinae
+MEJA,Mexican Jay,Aphelocoma wollweberi,APHWOL,Passeriformes,Corvidae,
+MEXP,Mexican Parrotlet,Forpus cyanopygius,FORCYA,Psittaciformes,Psittacidae,Arinae
+MESH,Mexican Sheartail,Doricha eliza,DORELI,Apodiformes,Trochilidae,Trochilinae
+MWPW,Mexican Whip-poor-will,Antrostomus arizonae,ANTARI,Caprimulgiformes,Caprimulgidae,Caprimulginae
+MEWO,Mexican Woodnymph,Thalurania ridgwayi,THARID,Apodiformes,Trochilidae,Trochilinae
+MIGW,Middendorff's Grasshopper-Warbler,Locustella ochotensis,LOCOCH,Passeriformes,Megaluridae,
+MIMA,Military Macaw,Ara militaris,ARAMIL,Psittaciformes,Psittacidae,Arinae
+MILL,Millerbird,Acrocephalus familiaris,ACRFAM,Passeriformes,Acrocephalidae,
+MCGO,Minima Cackling Goose,Branta h. minima,BRAHMI,Anseriformes,Anatidae,Anserinae
+MIKI,Mississippi Kite,Ictinia mississippiensis,ICTMIS,Accipitriformes,Accipitridae,Accipitrinae
+MIPA,Mitred Parakeet,Aratinga mitrata,ARAMIT,Psittaciformes,Psittacidae,Arinae
+MOPA,Monk Parakeet,Myiopsitta monachus,MYIMON,Psittaciformes,Psittacidae,Arinae
+MORO,Montezuma Oropendola,Psarocolius montezuma,PSAMON,Passeriformes,Icteridae,
+MONQ,Montezuma Quail,Cyrtonyx montezumae,CYRMON,Galliformes,Odontophoridae,
+MORI,Montserrat Oriole,Icterus oberi,ICTOBE,Passeriformes,Icteridae,
+MODU,Mottled Duck,Anas fulvigula,ANAFUL,Anseriformes,Anatidae,Anatinae
+MOOW,Mottled Owl,Ciccaba virgata,CICVIR,Strigiformes,Strigidae,
+MOPE,Mottled Petrel,Pterodroma inexpectata,PTEINE,Procellariiformes,Procellariidae,
+MOBL,Mountain Bluebird,Sialia currucoides,SIACUR,Passeriformes,Turdidae,
+MOCH,Mountain Chickadee,Poecile gambeli,POEGAM,Passeriformes,Paridae,
+MOEL,Mountain Elaenia,Elaenia frantzii,ELAFRA,Passeriformes,Tyrannidae,Elaeniinae
+MOPL,Mountain Plover,Charadrius montanus,CHAMOT,Charadriiformes,Charadriidae,Charadriinae
+MOUQ,Mountain Quail,Oreortyx pictus,OREPIC,Galliformes,Odontophoridae,
+MOTH,Mountain Thrush,Turdus plebejus,TURPLE,Passeriformes,Turdidae,
+MOTR,Mountain Trogon,Trogon mexicanus,TROMEX,Trogoniformes,Trogonidae,Trogoninae
+MWCS,Mountain White-crowned Sparrow,Zonotrichia l. oriantha,ZONLOR,Passeriformes,Emberizidae,
+MODO,Mourning Dove,Zenaida macroura,ZENMAC,Columbiformes,Columbidae,
+MOWA,Mourning Warbler,Geothlypis philadelphia,GEOPHI,Passeriformes,Parulidae,
+MCTY,Mouse-colored Tyrannulet,Phaeomyias murina,PHAMUR,Passeriformes,Tyrannidae,Elaeniinae
+MOAN,Moustached Antwren,Myrmotherula ignota,MYRIGN,Passeriformes,Thamnophilidae,
+MUFL,Mugimaki Flycatcher,Ficedula mugimaki,FICMUG,Passeriformes,Muscicapidae,
+MUPE,Murphy's Petrel,Pterodroma ultima,PTEULT,Procellariiformes,Procellariidae,
+MUDU,Muscovy Duck,Cairina moschata,CAIMOS,Anseriformes,Anatidae,Anatinae
+MUSW,Mute Swan,Cygnus olor,CYGOLO,Anseriformes,Anatidae,Anserinae
+MYWA,Myrtle Warbler,Setophaga coronata coronata,SETCCO,Passeriformes,Parulidae,
+NAFL,Narcissus Flycatcher,Ficedula narcissina,FICNAR,Passeriformes,Muscicapidae,
+NBTO,Narrow-billed Tody,Todus angustirostris,TODANG,Coraciiformes,Todidae,
+NAWA,Nashville Warbler,Oreothlypis ruficapilla,ORERUF,Passeriformes,Parulidae,
+NAWR,Nava's Wren,Hylorchilus navai,HYLNAV,Passeriformes,Troglodytidae,
+NABO,Nazca Booby,Sula granti,SULGRA,Suliformes,Sulidae,
+NESP,Nelson's Sparrow,Ammodramus nelsoni,AMMNEL,Passeriformes,Emberizidae,
+NECO,Neotropic Cormorant,Phalacrocorax brasilianus,PHABRA,Suliformes,Phalacrocoracidae,
+NESH,Newell's Shearwater,Puffinus a. newelli,PUFANE,Procellariiformes,Procellariidae,
+NIGR,Nicaraguan Grackle,Quiscalus nicaraguensis,QUINIC,Passeriformes,Icteridae,
+NISF,Nicaraguan Seed-Finch,Oryzoborus nuttingi,ORYNUT,Passeriformes,Emberizidae,
+NIWR,Nightingale Wren,Microcerculus philomela,MICPHI,Passeriformes,Troglodytidae,
+NIFI,Nihoa Finch,Telespiza ultima,TELULT,Passeriformes,Fringillidae,Drepanidinae
+NOBW,Northern Barred-Woodcreeper,Dendrocolaptes sanctithomae,DENSAN,Passeriformes,Furnariidae,Dendrocolaptinae
+NOBT,Northern Beardless-Tyrannulet,Camptostoma imberbe,CAMIMB,Passeriformes,Tyrannidae,Elaeniinae
+NOBE,Northern Bentbill,Oncostoma cinereigulare,ONCCIN,Passeriformes,Tyrannidae,Platyrinchinae
+NOBO,Northern Bobwhite,Colinus virginianus,COLVIR,Galliformes,Odontophoridae,
+NOCA,Northern Cardinal,Cardinalis cardinalis,CARCAI,Passeriformes,Cardinalidae,
+NOFL,Northern Flicker,Colaptes auratus,COLAUT,Piciformes,Picidae,Picinae
+NFIN,Northern Flicker Intergrade,Colaptes a.auratus x cafer,COLAAC,Piciformes,Picidae,Picinae
+NOFU,Northern Fulmar,Fulmarus glacialis,FULGLA,Procellariiformes,Procellariidae,
+NOGA,Northern Gannet,Morus bassanus,MORBAS,Suliformes,Sulidae,
+NOGO,Northern Goshawk,Accipiter gentilis,ACCGEN,Accipitriformes,Accipitridae,Accipitrinae
+NOHA,Northern Harrier,Circus cyaneus,CIRCYA,Accipitriformes,Accipitridae,Accipitrinae
+NHOW,Northern Hawk Owl,Surnia ulula,SURULU,Strigiformes,Strigidae,
+NOJA,Northern Jacana,Jacana spinosa,JACSPI,Charadriiformes,Jacanidae,
+NOLA,Northern Lapwing,Vanellus vanellus,VANVAN,Charadriiformes,Charadriidae,Vanellinae
+NOMO,Northern Mockingbird,Mimus polyglottos,MIMPOL,Passeriformes,Mimidae,
+NOPA,Northern Parula,Setophaga americana,SETAME,Passeriformes,Parulidae,
+NOPI,Northern Pintail,Anas acuta,ANAACU,Anseriformes,Anatidae,Anatinae
+NORP,Northern Potoo,Nyctibius jamaicensis,NYCJAM,Caprimulgiformes,Nyctibiidae,
+NOPO,Northern Pygmy-Owl,Glaucidium gnoma,GLAGNO,Strigiformes,Strigidae,
+NRWS,Northern Rough-winged Swallow,Stelgidopteryx serripennis,STESER,Passeriformes,Hirundinidae,Hirundininae
+NSWO,Northern Saw-whet Owl,Aegolius acadicus,AEGACA,Strigiformes,Strigidae,
+NOSF,Northern Scrub-Flycatcher,Sublegatus arenarum,SUBARE,Passeriformes,Tyrannidae,Elaeniinae
+NSHO,Northern Shoveler,Anas clypeata,ANACLY,Anseriformes,Anatidae,Anatinae
+NSHR,Northern Shrike,Lanius excubitor,LANEXC,Passeriformes,Laniidae,
+NOWA,Northern Waterthrush,Parkesia noveboracensis,PARNOV,Passeriformes,Parulidae,
+NOWH,Northern Wheatear,Oenanthe oenanthe,OENOEN,Passeriformes,Muscicapidae,
+NOCR,Northwestern Crow,Corvus caurinus,CORCAU,Passeriformes,Corvidae,
+NUKU,Nukupuu,Hemignathus lucidus,HEMLUC,Passeriformes,Fringillidae,Drepanidinae
+NUMA,Nutmeg Mannikin,Lonchura punctulata,LONPUN,Passeriformes,Estrildidae,
+NWCS,Nuttall's White-crowned Sparrow,Zonotrichia l. nuttalli,ZONLNU,Passeriformes,Emberizidae,
+NUWO,Nuttall's Woodpecker,Picoides nuttallii,PIDNUT,Piciformes,Picidae,Picinae
+NUFL,Nutting's Flycatcher,Myiarchus nuttingi,MYINUT,Passeriformes,Tyrannidae,Tyranninae
+OAAL,Oahu Alauahio,Paroreomyza maculata,PARMAA,Passeriformes,Fringillidae,Drepanidinae
+OAAM,Oahu Amakihi,Hemignathus flavus,HEMFLS,Passeriformes,Fringillidae,Drepanidinae
+OAEL,Oahu Elepaio,Chasiempis ibidis,CHAIBI,Passeriformes,Monarchidae,
+OAOO,Oahu Oo,Moho apicalis,MOHAPI,Passeriformes,Mohoidae,
+OATI,Oak Titmouse,Baeolophus inornatus,BAEINO,Passeriformes,Paridae,
+OASP,Oaxaca Sparrow,Aimophila notosticta,AIMNOT,Passeriformes,Emberizidae,
+OCAN,Ocellated Antbird,Phaenostictus mcleannani,PHAMCL,Passeriformes,Thamnophilidae,
+OCCR,Ocellated Crake,Micropygia schomburgkii,MICSCH,Gruiformes,Rallidae,
+OCPO,Ocellated Poorwill,Nyctiphrynus ocellatus,NYCOCE,Caprimulgiformes,Caprimulgidae,Caprimulginae
+OCQU,Ocellated Quail,Cyrtonyx ocellatus,CYROCE,Galliformes,Odontophoridae,
+OCTH,Ocellated Thrasher,Toxostoma ocellatum,TOXOCE,Passeriformes,Mimidae,
+OCTU,Ocellated Turkey,Meleagris ocellata,MELOCE,Galliformes,Phasianidae,Meleagridinae
+OCPE,Ochraceous Pewee,Contopus ochraceus,CONOCH,Passeriformes,Tyrannidae,Fluvicolinae
+OCWR,Ochraceous Wren,Troglodytes ochraceus,TROOCH,Passeriformes,Troglodytidae,
+OBFL,Ochre-bellied Flycatcher,Mionectes oleagineus,MIOOLE,Passeriformes,Tyrannidae,Elaeniinae
+OBAN,Ochre-breasted Antpitta,Grallaricula flavirostris,GRAFLA,Passeriformes,Grallariidae,
+OILB,Oilbird,Steatornis caripensis,STECAR,Caprimulgiformes,Steatornithidae,
+OLFL,Olivaceous Flatbill,Rhynchocyclus olivaceus,RHYOLI,Passeriformes,Tyrannidae,Platyrinchinae
+OLPI,Olivaceous Piculet,Picumnus olivaceus,PICOLI,Piciformes,Picidae,Picumninae
+OLWO,Olivaceous Woodcreeper,Sittasomus griseicapillus,SITGRI,Passeriformes,Furnariidae,Dendrocolaptinae
+OLSP,Olive Sparrow,Arremonops rufivirgatus,ARRRUF,Passeriformes,Emberizidae,
+OLWA,Olive Warbler,Peucedramus taeniatus,PEUTAE,Passeriformes,Peucedramidae,
+OBAE,Olive-backed Euphonia,Euphonia gouldi,EUPGOU,Passeriformes,Fringillidae,Euphoniinae
+OBPI,Olive-backed Pipit,Anthus hodgsoni,ANTHOD,Passeriformes,Motacillidae,
+OBQD,Olive-backed Quail-Dove,Geotrygon veraguensis,GEOVEG,Columbiformes,Columbidae,
+OCAW,Olive-capped Warbler,Setophaga pityophila,SETPIP,Passeriformes,Parulidae,
+OCYE,Olive-crowned Yellowthroat,Geothlypis semiflava,GEOSEM,Passeriformes,Parulidae,
+OSFL,Olive-sided Flycatcher,Contopus cooperi,CONCOO,Passeriformes,Tyrannidae,Fluvicolinae
+OSTF,Olive-striped Flycatcher,Mionectes olivaceus,MIOOLI,Passeriformes,Tyrannidae,Elaeniinae
+OTPA,Olive-throated Parakeet,Aratinga nana,ARANAN,Psittaciformes,Psittacidae,Arinae
+OLOM,Olomao,Myadestes lanaiensis,MYALAN,Passeriformes,Turdidae,
+OMAO,Omao,Myadestes obscurus,MYAOBS,Passeriformes,Turdidae,
+OCBE,One-colored Becard,Pachyramphus homochrous,PACHOM,Passeriformes,Tityridae,
+ORBI,Orange Bishop,Euplectes franciscanus,EUPFRA,Passeriformes,Ploceidae,Ploceinae
+ORAO,Orange Oriole,Icterus auratus,ICTAUT,Passeriformes,Icteridae,
+OBEE,Orange-bellied Euphonia,Euphonia xanthogaster,EUPXAN,Passeriformes,Fringillidae,Euphoniinae
+OBTR,Orange-bellied Trogon,Trogon aurantiiventris,TROAUR,Trogoniformes,Trogonidae,Trogoninae
+OBNT,Orange-billed Nightingale-Thrush,Catharus aurantiirostris,CATAUN,Passeriformes,Turdidae,
+OBSP,Orange-billed Sparrow,Arremon aurantiirostris,ARRAUR,Passeriformes,Emberizidae,
+OBBU,Orange-breasted Bunting,Passerina leclancherii,PASLEC,Passeriformes,Cardinalidae,
+OBFA,Orange-breasted Falcon,Falco deiroleucus,FALDEI,Falconiformes,Falconidae,Falconinae
+OCHW,Orange-cheeked Waxbill,Estrilda melpoda,ESTMEL,Passeriformes,Estrildidae,
+OCPA,Orange-chinned Parakeet,Brotogeris jugularis,BROJUG,Psittaciformes,Psittacidae,Arinae
+OCMA,Orange-collared Manakin,Manacus aurantiacus,MANAUR,Passeriformes,Pipridae,
+OCOR,Orange-crowned Oriole,Icterus auricapillus,ICTAUC,Passeriformes,Icteridae,
+OCWA,Orange-crowned Warbler,Oreothlypis celata,ORECEL,Passeriformes,Parulidae,
+OFPA,Orange-fronted Parakeet,Aratinga canicularis,ARACAN,Psittaciformes,Psittacidae,Arinae
+ORAN,Orangequit,Euneornis campestris,EUNCAM,Passeriformes,Emberizidae,
+OROR,Orchard Oriole,Icterus spurius,ICTSPU,Passeriformes,Icteridae,
+ORJU,Oregon Junco,Junco h. oregonus,JUNHOR,Passeriformes,Emberizidae,
+ORCU,Oriental Cuckoo,Cuculus optatus,CUCOPT,Cuculiformes,Cuculidae,Cuculinae
+ORGR,Oriental Greenfinch,Chloris sinica,CHLSIN,Passeriformes,Fringillidae,Carduelinae
+ORPR,Oriental Pratincole,Glareola maldivarum,GLAMAL,Charadriiformes,Glareolidae,Glareolinae
+ORSO,Oriental Scops-Owl,Otus sunia,OTUSUN,Strigiformes,Strigidae,
+ORTD,Oriental Turtle-Dove,Streptopelia orientalis,STRORI,Columbiformes,Columbidae,
+ORWA,Oriente Warbler,Teretistris fornsi,TERFOR,Passeriformes,Parulidae,
+ORGO,Orinoco Goose,Neochen jubata,NEOJUB,Anseriformes,Anatidae,Tadorninae
+ORHE,Ornate Hawk-Eagle,Spizaetus ornatus,SPIORN,Accipitriformes,Accipitridae,Accipitrinae
+OSPR,Osprey,Pandion haliaetus,PANHAL,Accipitriformes,Pandionidae,
+OU,Ou,Psittirostra psittacea,PSIPSI,Passeriformes,Fringillidae,Drepanidinae
+OVEN,Ovenbird,Seiurus aurocapilla,SEIAUR,Passeriformes,Parulidae,
+PAAN,Pacific Antwren,Myrmotherula pacifica,MYRPAC,Passeriformes,Thamnophilidae,
+PAGP,Pacific Golden-Plover,Pluvialis fulva,PLUFUL,Charadriiformes,Charadriidae,Charadriinae
+PALO,Pacific Loon,Gavia pacifica,GAVPAC,Gaviiformes,Gaviidae,
+PACP,Pacific Parakeet,Aratinga strenua,ARASTR,Psittaciformes,Psittacidae,Arinae
+PASO,Pacific Screech-Owl,Megascops cooperi,MEGCOO,Strigiformes,Strigidae,
+PAWR,Pacific Wren,Troglodytes pacificus,TROPAC,Passeriformes,Troglodytidae,
+PSFL,Pacific-slope Flycatcher,Empidonax difficilis,EMPDIF,Passeriformes,Tyrannidae,Fluvicolinae
+PBCR,Paint-billed Crake,Neocrex erythrops,NEOERY,Gruiformes,Rallidae,
+PABU,Painted Bunting,Passerina ciris,PASCIR,Passeriformes,Cardinalidae,
+PAIP,Painted Parakeet,Pyrrhura picta,PYRPIC,Psittaciformes,Psittacidae,Arinae
+PARE,Painted Redstart,Myioborus pictus,MYIPIC,Passeriformes,Parulidae,
+PBHE,Pale-bellied Hermit,Phaethornis anthophilus,PHAANT,Apodiformes,Trochilidae,Phaethornithinae
+PBIW,Pale-billed Woodpecker,Campephilus guatemalensis,CAMGUA,Piciformes,Picidae,Picinae
+PBSP,Pale-breasted Spinetail,Synallaxis albescens,SYNALB,Passeriformes,Furnariidae,Furnariinae
+PEPT,Pale-eyed Pygmy-Tyrant,Lophotriccus pilaris,LOPPIR,Passeriformes,Tyrannidae,Platyrinchinae
+PVPI,Pale-vented Pigeon,Patagioenas cayennensis,PATCAY,Columbiformes,Columbidae,
+PVTH,Pale-vented Thrush,Turdus obsoletus,TUROBL,Passeriformes,Turdidae,
+PALI,Palila,Loxioides bailleui,LOXBAI,Passeriformes,Fringillidae,Drepanidinae
+PALB,Pallas's Bunting,Emberiza pallasi,EMBPAL,Passeriformes,Emberizidae,
+PALW,Pallas's Leaf-Warbler,Phylloscopus proregulus,PHYPRO,Passeriformes,Phylloscopidae,
+PACR,Palm Crow,Corvus palmarum,CORPAL,Passeriformes,Corvidae,
+PALT,Palm Tanager,Thraupis palmarum,THRPAL,Passeriformes,Thraupidae,
+PAWA,Palm Warbler,Setophaga palmarum,SETPAL,Passeriformes,Parulidae,
+PALM,Palmchat,Dulus dominicus,DULDOM,Passeriformes,Dulidae,
+PATY,Paltry Tyrannulet,Zimmerius vilissimus,ZIMVIL,Passeriformes,Tyrannidae,Elaeniinae
+PAFL,Panama Flycatcher,Myiarchus panamensis,MYIPAN,Passeriformes,Tyrannidae,Tyranninae
+PAAU,Parakeet Auklet,Aethia psittacula,AETPSI,Charadriiformes,Alcidae,
+PAJA,Parasitic Jaeger,Stercorarius parasiticus,STEPAS,Charadriiformes,Stercorariidae,
+PAPE,Parkinson's Petrel,Procellaria parkinsoni,PROPAR,Procellariiformes,Procellariidae,
+PAPI,Passenger Pigeon,Ectopistes migratorius,ECTMIG,Columbiformes,Columbidae,
+PAST,Passerini's Tanager,Ramphocelus passerinii,RAMPAS,Passeriformes,Thraupidae,
+PEKI,Pearl Kite,Gampsonyx swainsonii,GAMSWA,Accipitriformes,Accipitridae,Accipitrinae
+PBCU,Pearly-breasted Cuckoo,Coccyzus euleri,COCEUL,Cuculiformes,Cuculidae,Cuculinae
+PETH,Pearly-eyed Thrasher,Margarops fuscatus,MARFUS,Passeriformes,Mimidae,
+PEPI,Pechora Pipit,Anthus gustavi,ANTGUS,Passeriformes,Motacillidae,
+PESA,Pectoral Sandpiper,Calidris melanotos,CALMET,Charadriiformes,Scolopacidae,Scolopacinae
+PBFI,Peg-billed Finch,Acanthidops bairdi,ACABAI,Passeriformes,Emberizidae,
+PECO,Pelagic Cormorant,Phalacrocorax pelagicus,PHAPEL,Suliformes,Phalacrocoracidae,
+PEFA,Peregrine Falcon,Falco peregrinus,FALPER,Falconiformes,Falconidae,Falconinae
+PEBO,Peruvian Booby,Sula variegata,SULVAR,Suliformes,Sulidae,
+PHAI,Phainopepla,Phainopepla nitens,PHANIT,Passeriformes,Ptilogonatidae,
+PHCU,Pheasant Cuckoo,Dromococcyx phasianellus,DROPHA,Cuculiformes,Cuculidae,Neomorphinae
+PHVI,Philadelphia Vireo,Vireo philadelphicus,VIRPHI,Passeriformes,Vireonidae,
+PIPU,Pied Puffbird,Notharchus tectus,NOTTEC,Piciformes,Bucconidae,
+PIWT,Pied Water-Tyrant,Fluvicola pica,FLUPIC,Passeriformes,Tyrannidae,Fluvicolinae
+PBGR,Pied-billed Grebe,Podilymbus podiceps,PODPOD,Podicipediformes,Podicipedidae,
+PIGU,Pigeon Guillemot,Cepphus columba,CEPCOL,Charadriiformes,Alcidae,
+PILF,Pileated Flycatcher,Xenotriccus mexicanus,XENMEX,Passeriformes,Tyrannidae,Fluvicolinae
+PIWO,Pileated Woodpecker,Dryocopus pileatus,DRYPIL,Piciformes,Picidae,Picinae
+PIBU,Pine Bunting,Emberiza leucocephalos,EMBLEU,Passeriformes,Emberizidae,
+PINF,Pine Flycatcher,Empidonax affinis,EMPAFF,Passeriformes,Tyrannidae,Fluvicolinae
+PIGR,Pine Grosbeak,Pinicola enucleator,PINENU,Passeriformes,Fringillidae,Carduelinae
+PISI,Pine Siskin,Spinus pinus,SPIPIN,Passeriformes,Fringillidae,Carduelinae
+PIWA,Pine Warbler,Setophaga pinus,SETPIN,Passeriformes,Parulidae,
+PFGO,Pink-footed Goose,Anser brachyrhynchus,ANSBRA,Anseriformes,Anatidae,Anserinae
+PFSH,Pink-footed Shearwater,Puffinus creatopus,PUFCRE,Procellariiformes,Procellariidae,
+PHWA,Pink-headed Warbler,Cardellina versicolor,CARVER,Passeriformes,Parulidae,
+PIBI,Pinnated Bittern,Botaurus pinnatus,BOTPIN,Pelecaniformes,Ardeidae,
+PTSN,Pin-tailed Snipe,Gallinago stenura,GALSTE,Charadriiformes,Scolopacidae,Scolopacinae
+PTWH,Pin-tailed Whydah,Vidua macroura,VIDMAC,Passeriformes,Viduidae,
+PIJA,Pinyon Jay,Gymnorhinus cyanocephalus,GYMCYA,Passeriformes,Corvidae,
+PIPL,Piping Plover,Charadrius melodus,CHAMEL,Charadriiformes,Charadriidae,Charadriinae
+PIFL,Piratic Flycatcher,Legatus leucophaius,LEGLEU,Passeriformes,Tyrannidae,Tyranninae
+PIBT,Pirre Bush-Tanager,Chlorospingus inornatus,CHLINO,Passeriformes,Emberizidae,
+PIHU,Pirre Hummingbird,Goethalsia bella,GOEBEL,Apodiformes,Trochilidae,Trochilinae
+PIRW,Pirre Warbler,Basileuterus ignotus,BASIGN,Passeriformes,Parulidae,
+PLAN,Plain Antvireo,Dysithamnus mentalis,DYSMEN,Passeriformes,Thamnophilidae,
+PLCH,Plain Chachalaca,Ortalis vetula,ORTVET,Galliformes,Cracidae,
+PLAP,Plain Pigeon,Patagioenas inornata,PATINO,Columbiformes,Columbidae,
+PLWR,Plain Wren,Cantorchilus modestus,CANMOD,Passeriformes,Troglodytidae,
+PLXE,Plain Xenops,Xenops minutus,XENMIT,Passeriformes,Furnariidae,Furnariinae
+PBGD,Plain-breasted Ground-Dove,Columbina minuta,COLMIN,Columbiformes,Columbidae,
+PBRW,Plain-brown Woodcreeper,Dendrocincla fuliginosa,DECFUL,Passeriformes,Furnariidae,Dendrocolaptinae
+PCST,Plain-capped Starthroat,Heliomaster constantii,HELCON,Apodiformes,Trochilidae,Trochilinae
+PCTA,Plain-colored Tanager,Tangara inornata,TANINO,Passeriformes,Thraupidae,
+PLHA,Plumbeous Hawk,Cryptoleucopteryx plumbea,CRYPLU,Accipitriformes,Accipitridae,Accipitrinae
+PLKI,Plumbeous Kite,Ictinia plumbea,ICTPLU,Accipitriformes,Accipitridae,Accipitrinae
+PLUP,Plumbeous Pigeon,Patagioenas plumbea,PATPLU,Columbiformes,Columbidae,
+PLVI,Plumbeous Vireo,Vireo plumbeus,VIRPLU,Passeriformes,Vireonidae,
+PLWA,Plumbeous Warbler,Setophaga plumbea,SETPLU,Passeriformes,Parulidae,
+POJA,Pomarine Jaeger,Stercorarius pomarinus,STEPOM,Charadriiformes,Stercorariidae,
+POUL,Poo-uli,Melamprosops phaeosoma,MELPHA,Passeriformes,Fringillidae,Drepanidinae
+PRFA,Prairie Falcon,Falco mexicanus,FALMEX,Falconiformes,Falconidae,Falconinae
+PRAW,Prairie Warbler,Setophaga discolor,SETDIS,Passeriformes,Parulidae,
+PRGS,Prevost's Ground-Sparrow,Melozone biarcuata,MELBIA,Passeriformes,Emberizidae,
+PBBA,Prong-billed Barbet,Semnornis frantzii,SEMFRA,Piciformes,Semnornithidae,
+PROW,Prothonotary Warbler,Protonotaria citrea,PROCIT,Passeriformes,Parulidae,
+PUAI,Puaiohi,Myadestes palmeri,MYAPAL,Passeriformes,Turdidae,
+PRBU,Puerto Rican Bullfinch,Loxigilla portoricensis,LOXPOR,Passeriformes,Emberizidae,
+PREM,Puerto Rican Emerald,Chlorostilbon maugaeus,CHLMAU,Apodiformes,Trochilidae,Trochilinae
+PRFL,Puerto Rican Flycatcher,Myiarchus antillarum,MYIANT,Passeriformes,Tyrannidae,Tyranninae
+PRLC,Puerto Rican Lizard-Cuckoo,Coccyzus vieilloti,COCVIE,Cuculiformes,Cuculidae,Cuculinae
+PRNI,Puerto Rican Nightjar,Antrostomus noctitherus,ANTNOC,Caprimulgiformes,Caprimulgidae,Caprimulginae
+PROR,Puerto Rican Oriole,Icterus portoricensis,ICTPOR,Passeriformes,Icteridae,
+PRPA,Puerto Rican Parrot,Amazona vittata,AMAVIT,Psittaciformes,Psittacidae,Arinae
+PRSO,Puerto Rican Screech-Owl,Megascops nudipes,MEGNUD,Strigiformes,Strigidae,
+PRSP,Puerto Rican Spindalis,Spindalis portoricensis,SPIPOR,Passeriformes,Thraupidae,
+PRTA,Puerto Rican Tanager,Nesospingus speculiferus,NESSPE,Passeriformes,Thraupidae,
+PRTO,Puerto Rican Tody,Todus mexicanus,TODMEX,Coraciiformes,Todidae,
+PRVI,Puerto Rican Vireo,Vireo latimeri,VIRLAT,Passeriformes,Vireonidae,
+PRWO,Puerto Rican Woodpecker,Melanerpes portoricensis,MELPOR,Piciformes,Picidae,Picinae
+PSWS,Puget Sound White-crowned Sparrow,Zonotrichia l. pugetensis,ZONLPU,Passeriformes,Emberizidae,
+PUFI,Purple Finch,Haemorhous purpureus,HAEPUR,Passeriformes,Fringillidae,Carduelinae
+PUGA,Purple Gallinule,Porphyrio martinicus,PORMAR,Gruiformes,Rallidae,
+PUHE,Purple Heron,Ardea purpurea,ARDPUR,Pelecaniformes,Ardeidae,
+PUHO,Purple Honeycreeper,Cyanerpes caeruleus,CYACAE,Passeriformes,Thraupidae,
+PUMA,Purple Martin,Progne subis,PROSUB,Passeriformes,Hirundinidae,Hirundininae
+PUSA,Purple Sandpiper,Calidris maritima,CALMAR,Charadriiformes,Scolopacidae,Scolopacinae
+PCFA,Purple-crowned Fairy,Heliothryx barroti,HELBAR,Apodiformes,Trochilidae,Trochilinae
+PTCA,Purple-throated Carib,Eulampis jugularis,EULJUG,Apodiformes,Trochilidae,Trochilinae
+PTFR,Purple-throated Fruitcrow,Querula purpurata,QUEPUR,Passeriformes,Cotingidae,
+PTMG,Purple-throated Mountain-gem,Lampornis calolaemus,LAMCAL,Apodiformes,Trochilidae,Trochilinae
+PTWO,Purple-throated Woodstar,Calliphlox mitchellii,CALMIT,Apodiformes,Trochilidae,Trochilinae
+PBJA,Purplish-backed Jay,Cyanocorax beecheii,CYABEE,Passeriformes,Corvidae,
+PBQD,Purplish-backed Quail-Dove,Geotrygon lawrencii,GEOLAW,Columbiformes,Columbidae,
+PYNU,Pygmy Nuthatch,Sitta pygmaea,SITPYG,Passeriformes,Sittidae,Sittinae
+PYRR,Pyrrhuloxia,Cardinalis sinuatus,CARSIN,Passeriformes,Cardinalidae,
+RAZO,Razorbill,Alca torda,ALCTOR,Charadriiformes,Alcidae,
+REAV,Red Avadavat,Amandava amandava,AMAAMN,Passeriformes,Estrildidae,
+RECR,Red Crossbill,Loxia curvirostra,LOXCUR,Passeriformes,Fringillidae,Carduelinae
+REJU,Red Junglefowl,Gallus gallus,GALGAS,Galliformes,Phasianidae,Phasianinae
+REKN,Red Knot,Calidris canutus,CALCAN,Charadriiformes,Scolopacidae,Scolopacinae
+REPH,Red Phalarope,Phalaropus fulicarius,PHAFUL,Charadriiformes,Scolopacidae,Phalaropodinae
+RESI,Red Siskin,Spinus cucullatus,SPICUC,Passeriformes,Fringillidae,Carduelinae
+REWA,Red Warbler,Cardellina rubra,CARRUA,Passeriformes,Parulidae,
+RAGM,Red-and-green Macaw,Ara chloropterus,ARACHS,Psittaciformes,Psittacidae,Arinae
+RBWO,Red-bellied Woodpecker,Melanerpes carolinus,MELCAR,Piciformes,Picidae,Picinae
+RBLE,Red-billed Leiothrix,Leiothrix lutea,LEILUT,Passeriformes,Timaliidae,
+RBPI,Red-billed Pigeon,Patagioenas flavirostris,PATFLA,Columbiformes,Columbidae,
+RBSC,Red-billed Scythebill,Campylorhamphus trochilirostris,CAMTRO,Passeriformes,Furnariidae,Dendrocolaptinae
+RBTR,Red-billed Tropicbird,Phaethon aethereus,PHAAET,Phaethontiformes,Phaethontidae,
+RBBL,Red-breasted Blackbird,Sturnella militaris,STUMIL,Passeriformes,Icteridae,
+RBRC,Red-breasted Chat,Granatellus venustus,GRAVEN,Passeriformes,Cardinalidae,
+RBME,Red-breasted Merganser,Mergus serrator,MERSER,Anseriformes,Anatidae,Anatinae
+RBNU,Red-breasted Nuthatch,Sitta canadensis,SITCAN,Passeriformes,Sittidae,Sittinae
+RBSA,Red-breasted Sapsucker,Sphyrapicus ruber,SPHRUB,Piciformes,Picidae,Picinae
+RCMA,Red-capped Manakin,Pipra mentalis,PIPMEN,Passeriformes,Pipridae,
+RCCO,Red-cheeked Cordonbleu,Uraeginthus bengalus,URABEN,Passeriformes,Estrildidae,
+RCWO,Red-cockaded Woodpecker,Picoides borealis,PICBOR,Piciformes,Picidae,Picinae
+RCCA,Red-crested Cardinal,Paroaria coronata,PARCOR,Passeriformes,Thraupidae,
+RCAT,Red-crowned Ant-Tanager,Habia rubica,HABRUB,Passeriformes,Cardinalidae,
+RCPA,Red-crowned Parrot,Amazona viridigenalis,AMAVIG,Psittaciformes,Psittacidae,Arinae
+RCRW,Red-crowned Woodpecker,Melanerpes rubricapillus,MELRUB,Piciformes,Picidae,Picinae
+REEG,Reddish Egret,Egretta rufescens,EGRRUF,Pelecaniformes,Ardeidae,
+REVI,Red-eyed Vireo,Vireo olivaceus,VIROLI,Passeriformes,Vireonidae,
+RFCO,Red-faced Cormorant,Phalacrocorax urile,PHAURI,Suliformes,Phalacrocoracidae,
+RFSP,Red-faced Spinetail,Cranioleuca erythrops,CRAERY,Passeriformes,Furnariidae,Furnariinae
+RFWA,Red-faced Warbler,Cardellina rubrifrons,CARRUF,Passeriformes,Parulidae,
+RFBL,Red-flanked Bluetail,Tarsiger cyanurus,TARCYA,Passeriformes,Muscicapidae,
+RFBO,Red-footed Booby,Sula sula,SULSUL,Suliformes,Sulidae,
+RFFA,Red-footed Falcon,Falco vespertinus,FALVES,Falconiformes,Falconidae,Falconinae
+RFPA,Red-fronted Parrotlet,Touit costaricensis,TOUCOS,Psittaciformes,Psittacidae,Arinae
+REDH,Redhead,Aythya americana,AYTAME,Anseriformes,Anatidae,Anatinae
+RHBA,Red-headed Barbet,Eubucco bourcierii,EUBBOU,Piciformes,Capitonidae,
+RHTA,Red-headed Tanager,Piranga erythrocephala,PIRERY,Passeriformes,Cardinalidae,
+RHWO,Red-headed Woodpecker,Melanerpes erythrocephalus,MELERY,Piciformes,Picidae,Picinae
+RLHO,Red-legged Honeycreeper,Cyanerpes cyaneus,CYACYU,Passeriformes,Thraupidae,
+RLKI,Red-legged Kittiwake,Rissa brevirostris,RISBRE,Charadriiformes,Laridae,Larinae
+RLTH,Red-legged Thrush,Turdus plumbeus,TURPLU,Passeriformes,Turdidae,
+RLPA,Red-lored Parrot,Amazona autumnalis,AMAAUT,Psittaciformes,Psittacidae,Arinae
+RNSA,Red-naped Sapsucker,Sphyrapicus nuchalis,SPHNUC,Piciformes,Picidae,Picinae
+RRSH,Red-naped X Red-breasted Saps. Hybrid,Sphyrapicus nuchalis x ruber,SPHNUR,Piciformes,Picidae,Picinae
+RNGR,Red-necked Grebe,Podiceps grisegena,PODGRI,Podicipediformes,Podicipedidae,
+RNPA,Red-necked Parrot,Amazona arausiaca,AMAARA,Psittaciformes,Psittacidae,Arinae
+RNPH,Red-necked Phalarope,Phalaropus lobatus,PHALOB,Charadriiformes,Scolopacidae,Phalaropodinae
+RNST,Red-necked Stint,Calidris ruficollis,CALRUF,Charadriiformes,Scolopacidae,Scolopacinae
+RRWO,Red-rumped Woodpecker,Veniliornis kirkii,VENKIR,Piciformes,Picidae,Picinae
+RSFL,Red-shafted Flicker,Colaptes a. cafer,COLACA,Piciformes,Picidae,Picinae
+RSBL,Red-shouldered Blackbird,Agelaius assimilis,AGEASS,Passeriformes,Icteridae,
+RSHA,Red-shouldered Hawk,Buteo lineatus,BUTLIN,Accipitriformes,Accipitridae,Accipitrinae
+RTHA,Red-tailed Hawk,Buteo jamaicensis,BUTJAM,Accipitriformes,Accipitridae,Accipitrinae
+RTTR,Red-tailed Tropicbird,Phaethon rubricauda,PHARUB,Phaethontiformes,Phaethontidae,
+RTAT,Red-throated Ant-Tanager,Habia fuscicauda,HABFUS,Passeriformes,Cardinalidae,
+RTCA,Red-throated Caracara,Ibycter americanus,IBYAME,Falconiformes,Falconidae,Caracarinae
+RTLO,Red-throated Loon,Gavia stellata,GAVSTE,Gaviiformes,Gaviidae,
+RTPI,Red-throated Pipit,Anthus cervinus,ANTCER,Passeriformes,Motacillidae,
+RVBU,Red-vented Bulbul,Pycnonotus cafer,PYCCAF,Passeriformes,Pycnonotidae,
+RWBU,Red-whiskered Bulbul,Pycnonotus jocosus,PYCJOC,Passeriformes,Pycnonotidae,
+REDW,Redwing,Turdus iliacus,TURILI,Passeriformes,Turdidae,
+RWBL,Red-winged Blackbird,Agelaius phoeniceus,AGEPHO,Passeriformes,Icteridae,
+REBU,Reed Bunting,Emberiza schoeniclus,EMBSCH,Passeriformes,Emberizidae,
+REQU,Resplendent Quetzal,Pharomachrus mocinno,PHAMOC,Trogoniformes,Trogonidae,Trogoninae
+RHAU,Rhinoceros Auklet,Cerorhinca monocerata,CERMON,Charadriiformes,Alcidae,
+RIHA,Ridgway's Hawk,Buteo ridgwayi,BUTRID,Accipitriformes,Accipitridae,Accipitrinae
+RBGU,Ring-billed Gull,Larus delawarensis,LARDEL,Charadriiformes,Laridae,Larinae
+RIKI,Ringed Kingfisher,Megaceryle torquata,MEGTOR,Coraciiformes,Alcedinidae,Cerylinae
+RISP,Ringed Storm-Petrel,Oceanodroma hornbyi,OCEHOR,Procellariiformes,Hydrobatidae,
+RNDU,Ring-necked Duck,Aythya collaris,AYTCOL,Anseriformes,Anatidae,Anatinae
+RNEP,Ring-necked Pheasant,Phasianus colchicus,PHACOL,Galliformes,Phasianidae,Phasianinae
+RTAP,Ring-tailed Pigeon,Patagioenas caribaea,PATCAR,Columbiformes,Columbidae,
+RIWR,Riverside Wren,Cantorchilus semibadius,CANSEM,Passeriformes,Troglodytidae,
+ROHA,Roadside Hawk,Buteo magnirostris,BUTMAG,Accipitriformes,Accipitridae,Accipitrinae
+ROPI,Rock Pigeon,Columba livia,COLLIV,Columbiformes,Columbidae,
+ROPT,Rock Ptarmigan,Lagopus muta,LAGMUT,Galliformes,Phasianidae,Tetraoninae
+ROSA,Rock Sandpiper,Calidris ptilocnemis,CALPTI,Charadriiformes,Scolopacidae,Scolopacinae
+ROWR,Rock Wren,Salpinctes obsoletus,SALOBS,Passeriformes,Troglodytidae,
+ROSP,Roseate Spoonbill,Platalea ajaja,PLAAJA,Pelecaniformes,Threskiornithidae,Plataleinae
+ROST,Roseate Tern,Sterna dougallii,STEDOU,Charadriiformes,Laridae,Sterninae
+RBBU,Rose-bellied Bunting,Passerina rositae,PASROS,Passeriformes,Cardinalidae,
+RBGR,Rose-breasted Grosbeak,Pheucticus ludovicianus,PHELUD,Passeriformes,Cardinalidae,
+RRPA,Rose-ringed Parakeet,Psittacula krameri,PSIKRA,Psittaciformes,Psittacidae,Psittacinae
+RTBE,Rose-throated Becard,Pachyramphus aglaiae,PACAGL,Passeriformes,Tityridae,
+RTTA,Rose-throated Tanager,Piranga roseogularis,PIRROS,Passeriformes,Cardinalidae,
+ROGO,Ross's Goose,Chen rossii,CHEROS,Anseriformes,Anatidae,Anserinae
+ROGU,Ross's Gull,Rhodostethia rosea,RHSROS,Charadriiformes,Laridae,Larinae
+ROTT,Rosy Thrush-Tanager,Rhodinocichla rosea,RHNROS,Passeriformes,Thraupidae,
+RLHA,Rough-legged Hawk,Buteo lagopus,BUTLAG,Accipitriformes,Accipitridae,Accipitrinae
+RLTY,Rough-legged Tyrannulet,Phyllomyias burmeisteri,PHYBUR,Passeriformes,Tyrannidae,Elaeniinae
+ROFL,Royal Flycatcher,Onychorhynchus coronatus,ONYCOR,Passeriformes,Tyrannidae,Fluvicolinae
+ROYT,Royal Tern,Thalasseus maximus,THAMAX,Charadriiformes,Laridae,Sterninae
+RCKI,Ruby-crowned Kinglet,Regulus calendula,REGCAL,Passeriformes,Regulidae,
+RTHU,Ruby-throated Hummingbird,Archilochus colubris,ARCCOL,Apodiformes,Trochilidae,Trochilinae
+RTOH,Ruby-topaz Hummingbird,Chrysolampis mosquitus,CHRMOS,Apodiformes,Trochilidae,Trochilinae
+RUCR,Ruddy Crake,Laterallus ruber,LATRUB,Gruiformes,Rallidae,
+RUDU,Ruddy Duck,Oxyura jamaicensis,OXYJAM,Anseriformes,Anatidae,Anatinae
+RUFG,Ruddy Foliage-gleaner,Automolus rubiginosus,AUTRUB,Passeriformes,Furnariidae,Furnariinae
+RUGD,Ruddy Ground-Dove,Columbina talpacoti,COLTAL,Columbiformes,Columbidae,
+RUDP,Ruddy Pigeon,Patagioenas subvinacea,PATSUB,Columbiformes,Columbidae,
+RUQD,Ruddy Quail-Dove,Geotrygon montana,GEOMON,Columbiformes,Columbidae,
+RUTR,Ruddy Treerunner,Margarornis rubiginosus,MARRUB,Passeriformes,Furnariidae,Furnariinae
+RUTU,Ruddy Turnstone,Arenaria interpres,AREINT,Charadriiformes,Scolopacidae,Scolopacinae
+RUWO,Ruddy Woodcreeper,Dendrocincla homochroa,DENHOM,Passeriformes,Furnariidae,Dendrocolaptinae
+RBSE,Ruddy-breasted Seedeater,Sporophila minuta,SPOMIN,Passeriformes,Emberizidae,
+RCNT,Ruddy-capped Nightingale-Thrush,Catharus frantzii,CATFRA,Passeriformes,Turdidae,
+RDTF,Ruddy-tailed Flycatcher,Terenotriccus erythrurus,TERERY,Passeriformes,Tyrannidae,Fluvicolinae
+RTHE,Rufescent Tiger-Heron,Tigrisoma lineatum,TIGLIN,Pelecaniformes,Ardeidae,
+RUFF,Ruff,Philomachus pugnax,PHIPUG,Charadriiformes,Scolopacidae,Scolopacinae
+RUGR,Ruffed Grouse,Bonasa umbellus,BONUMB,Galliformes,Phasianidae,Tetraoninae
+RUHU,Rufous Hummingbird,Selasphorus rufus,SELRUF,Apodiformes,Trochilidae,Trochilinae
+RMOT,Rufous Motmot,Baryphthengus martii,BARMAR,Coraciiformes,Momotidae,
+RMOU,Rufous Mourner,Rhytipterna holerythra,RHYHOL,Passeriformes,Tyrannidae,Tyranninae
+RUNI,Rufous Nightjar,Antrostomus rufus,ANTRUF,Caprimulgiformes,Caprimulgidae,Caprimulginae
+RUFP,Rufous Piha,Lipaugus unirufus,LIPUNI,Passeriformes,Cotingidae,
+RUSA,Rufous Sabrewing,Campylopterus rufus,CAMRUS,Apodiformes,Trochilidae,Trochilinae
+RAWW,Rufous-and-white Wren,Thryophilus rufalbus,THRRUL,Passeriformes,Troglodytidae,
+RBRO,Rufous-backed Robin,Turdus rufopalliatus,TURRUP,Passeriformes,Turdidae,
+RBEC,Rufous-bellied Chachalaca,Ortalis wagleri,ORTWAG,Galliformes,Cracidae,
+RBAN,Rufous-breasted Antthrush,Formicarius rufipectus,FORRUF,Passeriformes,Formicariidae,
+RBHE,Rufous-breasted Hermit,Glaucis hirsutus,GLAHIR,Apodiformes,Trochilidae,Phaethornithinae
+RBRS,Rufous-breasted Spinetail,Synallaxis erythrothorax,SYNERY,Passeriformes,Furnariidae,Furnariinae
+RBSW,Rufous-breasted Wren,Pheugopedius rutilus,PHERUT,Passeriformes,Troglodytidae,
+RBPE,Rufous-browed Peppershrike,Cyclarhis gujanensis,CYCGUJ,Passeriformes,Vireonidae,
+RBTY,Rufous-browed Tyrannulet,Phylloscartes superciliaris,PHYSUP,Passeriformes,Tyrannidae,Elaeniinae
+RBWW,Rufous-browed Wren,Troglodytes rufociliatus,TRORUC,Passeriformes,Troglodytidae,
+RCBF,Rufous-capped Brush-Finch,Atlapetes pileatus,ATLPIL,Passeriformes,Emberizidae,
+RCWA,Rufous-capped Warbler,Basileuterus rufifrons,BASRUF,Passeriformes,Parulidae,
+RCRO,Rufous-collared Robin,Turdus rufitorques,TURRUT,Passeriformes,Turdidae,
+RCOS,Rufous-collared Sparrow,Zonotrichia capensis,ZONCAP,Passeriformes,Emberizidae,
+RCRC,Rufous-crested Coquette,Lophornis delattrei,LOPDEL,Apodiformes,Trochilidae,Trochilinae
+RCSP,Rufous-crowned Sparrow,Aimophila ruficeps,AIMRUP,Passeriformes,Emberizidae,
+RNAW,Rufous-naped Wren,Campylorhynchus rufinucha,CAMRUN,Passeriformes,Troglodytidae,
+RUWR,Rufous-necked Wood-Rail,Aramides axillaris,ARAAXI,Gruiformes,Rallidae,
+RRAN,Rufous-rumped Antwren,Terenura callinota,TERCAL,Passeriformes,Thamnophilidae,
+RSTO,Rufous-sided Towhee,Pipilo maculatus/erythr.,PIPMAE,Passeriformes,Emberizidae,
+RFTF,Rufous-tailed Flycatcher,Myiarchus validus,MYIVAL,Passeriformes,Tyrannidae,Tyranninae
+RTAH,Rufous-tailed Hummingbird,Amazilia tzacatl,AMATZA,Apodiformes,Trochilidae,Trochilinae
+RTJA,Rufous-tailed Jacamar,Galbula ruficauda,GALRUF,Piciformes,Galbulidae,
+RTRO,Rufous-tailed Robin,Luscinia sibilans,LUSSIB,Passeriformes,Muscicapidae,
+RTSO,Rufous-throated Solitaire,Myadestes genibarbis,MYAGEN,Passeriformes,Turdidae,
+RVCH,Rufous-vented Chachalaca,Ortalis ruficauda,ORTRUF,Galliformes,Cracidae,
+RVGC,Rufous-vented Ground-Cuckoo,Neomorphus geoffroyi,NEOGEO,Cuculiformes,Cuculidae,Neomorphinae
+RWAN,Rufous-winged Antwren,Herpsilochmus rufimarginatus,HERRUF,Passeriformes,Thamnophilidae,
+RWSP,Rufous-winged Sparrow,Peucaea carpalis,PEUCAR,Passeriformes,Emberizidae,
+RWTA,Rufous-winged Tanager,Tangara lavinia,TANLAV,Passeriformes,Thraupidae,
+RWWO,Rufous-winged Woodpecker,Piculus simplex,PICSIM,Piciformes,Picidae,Picinae
+RUAN,Russet Antshrike,Thamnistes anabatinus,THAANA,Passeriformes,Thamnophilidae,
+RUNT,Russet Nightingale-Thrush,Catharus occidentalis,CATOCC,Passeriformes,Turdidae,
+RCMO,Russet-crowned Motmot,Momotus mexicanus,MOMMEX,Coraciiformes,Momotidae,
+RCQD,Russet-crowned Quail-Dove,Geotrygon goldmani,GEOGOL,Columbiformes,Columbidae,
+RUBU,Rustic Bunting,Emberiza rustica,EMBRUS,Passeriformes,Emberizidae,
+RUBL,Rusty Blackbird,Euphagus carolinus,EUPCAR,Passeriformes,Icteridae,
+RUSP,Rusty Sparrow,Aimophila rufescens,AIMRUS,Passeriformes,Emberizidae,
+RBAS,Rusty-backed Spinetail,Cranioleuca vulpina,CRAVUL,Passeriformes,Furnariidae,Furnariinae
+RCGS,Rusty-crowned Ground-Sparrow,Melozone kieneri,MELKIE,Passeriformes,Emberizidae,
+RMFL,Rusty-margined Flycatcher,Myiozetetes cayanensis,MYICAY,Passeriformes,Tyrannidae,Tyranninae
+SAGU,Sabine's Gull,Xema sabini,XEMSAB,Charadriiformes,Laridae,Larinae
+SAFL,Sad Flycatcher,Myiarchus barbirostris,MYIBAR,Passeriformes,Tyrannidae,Tyranninae
+SAFI,Saffron Finch,Sicalis flaveola,SICFLA,Passeriformes,Emberizidae,
+SHPA,Saffron-headed Parrot,Pyrilia pyrilia,PYRPYL,Psittaciformes,Psittacidae,Arinae
+SAGS,Sage Sparrow,Artemisiospiza belli,ARTBEL,Passeriformes,Emberizidae,
+SATH,Sage Thrasher,Oreoscoptes montanus,OREMON,Passeriformes,Mimidae,
+SALS,Saltmarsh Sparrow,Ammodramus caudacutus,AMMCAU,Passeriformes,Emberizidae,
+SAVI,San Andres Vireo,Vireo caribaeus,VIRCAB,Passeriformes,Vireonidae,
+SBJA,San Blas Jay,Cyanocorax sanblasianus,CYASAN,Passeriformes,Corvidae,
+SAND,Sanderling,Calidris alba,CALALB,Charadriiformes,Scolopacidae,Scolopacinae
+SACR,Sandhill Crane,Grus canadensis,GRUCAN,Gruiformes,Gruidae,Gruinae
+SATE,Sandwich Tern,Thalasseus sandvicensis,THASAN,Charadriiformes,Laridae,Sterninae
+SAPA,Sapayoa,Sapayoa aenigma,SAPAEN,Passeriformes,Sapayoidae,
+SHTH,Sapphire-throated Hummingbird,Lepidopyga coeruleogularis,LEPCOE,Apodiformes,Trochilidae,Trochilinae
+SAHA,Savanna Hawk,Buteogallus meridionalis,BUTMER,Accipitriformes,Accipitridae,Accipitrinae
+SAVS,Savannah Sparrow,Passerculus sandwichensis,PASSAN,Passeriformes,Emberizidae,
+SAPH,Say's Phoebe,Sayornis saya,SAYSAY,Passeriformes,Tyrannidae,Fluvicolinae
+SCPT,Scale-crested Pygmy-Tyrant,Lophotriccus pileatus,LOPPIT,Passeriformes,Tyrannidae,Platyrinchinae
+SCAA,Scaled Antpitta,Grallaria guatimalensis,GRAGUA,Passeriformes,Grallariidae,
+SCPI,Scaled Pigeon,Patagioenas speciosa,PATSPE,Columbiformes,Columbidae,
+SCQU,Scaled Quail,Callipepla squamata,CALSQU,Galliformes,Odontophoridae,
+SBRH,Scaly-breasted Hummingbird,Phaeochroa cuvierii,PHACUV,Apodiformes,Trochilidae,Trochilinae
+SBTH,Scaly-breasted Thrasher,Allenia fusca,ALLFUC,Passeriformes,Mimidae,
+SCBW,Scaly-breasted Wren,Microcerculus marginatus,MICMAR,Passeriformes,Troglodytidae,
+SNPI,Scaly-naped Pigeon,Patagioenas squamosa,PATSQU,Columbiformes,Columbidae,
+STFG,Scaly-throated Foliage-gleaner,Anabacerthia variegaticeps,ANAVAR,Passeriformes,Furnariidae,Furnariinae
+STLE,Scaly-throated Leaftosser,Sclerurus guatemalensis,SCLGUA,Passeriformes,Furnariidae,Sclerurinae
+SCIB,Scarlet Ibis,Eudocimus ruber,EUDRUB,Pelecaniformes,Threskiornithidae,Threskiornithinae
+SCMA,Scarlet Macaw,Ara macao,ARAMAC,Psittaciformes,Psittacidae,Arinae
+SCTA,Scarlet Tanager,Piranga olivacea,PIROLI,Passeriformes,Cardinalidae,
+SBTA,Scarlet-browed Tanager,Heterospingus xanthopygius,HETXAN,Passeriformes,Thraupidae,
+SRCA,Scarlet-rumped Cacique,Cacicus uropygialis,CACURO,Passeriformes,Icteridae,
+STDA,Scarlet-thighed Dacnis,Dacnis venusta,DACVEN,Passeriformes,Thraupidae,
+SCHU,Scintillant Hummingbird,Selasphorus scintilla,SELSCI,Apodiformes,Trochilidae,Trochilinae
+STFL,Scissor-tailed Flycatcher,Tyrannus forficatus,TYRFOR,Passeriformes,Tyrannidae,Tyranninae
+SCOR,Scott's Oriole,Icterus parisorum,ICTPAR,Passeriformes,Icteridae,
+SCMU,Scripps's Murrelet,Synthliboramphus scrippsi,SYNSCR,Charadriiformes,Alcidae,
+SEUP,Scrub Euphonia,Euphonia affinis,EUPAFF,Passeriformes,Fringillidae,Euphoniinae
+SCRG,Scrub Greenlet,Hylophilus flavipes,HYLFLA,Passeriformes,Vireonidae,
+SESP,Seaside Sparrow,Ammodramus maritimus,AMMMAR,Passeriformes,Emberizidae,
+SEWA,Sedge Warbler,Acrocephalus schoenobaenus,ACRSCH,Passeriformes,Acrocephalidae,
+SEWR,Sedge Wren,Cistothorus platensis,CISPLA,Passeriformes,Troglodytidae,
+SEPL,Semipalmated Plover,Charadrius semipalmatus,CHASEM,Charadriiformes,Charadriidae,Charadriinae
+SESA,Semipalmated Sandpiper,Calidris pusilla,CALPUS,Charadriiformes,Scolopacidae,Scolopacinae
+SEHA,Semiplumbeous Hawk,Leucopternis semiplumbeus,LEUSEL,Accipitriformes,Accipitridae,Accipitrinae
+SEMW,Semper's Warbler,Leucopeza semperi,LEUSER,Passeriformes,Parulidae,
+SECF,Sepia-capped Flycatcher,Leptopogon amaurocephalus,LEPAMA,Passeriformes,Tyrannidae,Elaeniinae
+SHAR,Sharpbill,Oxyruncus cristatus,OXYCRI,Passeriformes,Oxyruncidae,
+SSHA,Sharp-shinned Hawk,Accipiter striatus,ACCSTR,Accipitriformes,Accipitridae,Accipitrinae
+STGR,Sharp-tailed Grouse,Tympanuchus phasianellus,TYMPHA,Galliformes,Phasianidae,Tetraoninae
+SPTS,Sharp-tailed Sandpiper,Calidris acuminata,CALACU,Charadriiformes,Scolopacidae,Scolopacinae
+STSP,Sharp-tailed Sparrow,Ammodramus nelsoni/caudacut.,AMMNEC,Passeriformes,Emberizidae,
+STST,Sharp-tailed Streamcreeper,Lochmias nematura,LOCNEM,Passeriformes,Furnariidae,Furnariinae
+SHHO,Shining Honeycreeper,Cyanerpes lucidus,CYALUC,Passeriformes,Thraupidae,
+SHCO,Shiny Cowbird,Molothrus bonariensis,MOLBON,Passeriformes,Icteridae,
+SBDO,Short-billed Dowitcher,Limnodromus griseus,LIMGRI,Charadriiformes,Scolopacidae,Scolopacinae
+SBPI,Short-billed Pigeon,Patagioenas nigrirostris,PATNIG,Columbiformes,Columbidae,
+SCCO,Short-crested Coquette,Lophornis brachylophus,LOPBRA,Apodiformes,Trochilidae,Trochilinae
+SEOW,Short-eared Owl,Asio flammeus,ASIFLA,Strigiformes,Strigidae,
+STAL,Short-tailed Albatross,Phoebastria albatrus,PHOALB,Procellariiformes,Diomedeidae,
+STHA,Short-tailed Hawk,Buteo brachyurus,BUTBRA,Accipitriformes,Accipitridae,Accipitrinae
+SHTN,Short-tailed Nighthawk,Lurocalis semitorquatus,LURSEM,Caprimulgiformes,Caprimulgidae,Chordeilinae
+SRTS,Short-tailed Shearwater,Puffinus tenuirostris,PUFTEN,Procellariiformes,Procellariidae,
+STSW,Short-tailed Swift,Chaetura brachyura,CHABRA,Apodiformes,Apodidae,Chaeturinae
+SHAL,Shy Albatross,Thalassarche cauta,THACAU,Procellariiformes,Diomedeidae,
+SIAC,Siberian Accentor,Prunella montanella,PRUMON,Passeriformes,Prunellidae,
+SBRO,Siberian Blue Robin,Luscinia cyane,LUSCYA,Passeriformes,Muscicapidae,
+SIRU,Siberian Rubythroat,Luscinia calliope,LUSCAL,Passeriformes,Muscicapidae,
+SISW,Sick's Swift,Chaetura meridionalis,CHAMER,Apodiformes,Apodidae,Chaeturinae
+SMSP,Sierra Madre Sparrow,Xenospiza baileyi,XENBAI,Passeriformes,Emberizidae,
+STTA,Silver-throated Tanager,Tangara icterocephala,TANICT,Passeriformes,Thraupidae,
+SFTA,Silvery-fronted Tapaculo,Scytalopus argentifrons,SCYARG,Passeriformes,Rhinocryptidae,
+STHJ,Silvery-throated Jay,Cyanolyca argentigula,CYAARG,Passeriformes,Corvidae,
+SICR,Sinaloa Crow,Corvus sinaloae,CORSIN,Passeriformes,Corvidae,
+SIMA,Sinaloa Martin,Progne sinaloae,PROSIN,Passeriformes,Hirundinidae,Hirundininae
+SIWR,Sinaloa Wren,Thryophilus sinaloa,THRSIN,Passeriformes,Troglodytidae,
+SIQU,Singing Quail,Dactylortyx thoracicus,DACTHO,Galliformes,Odontophoridae,
+SIRY,Sirystes,Sirystes sibilator,SIRSIB,Passeriformes,Tyrannidae,Tyranninae
+SKLA,Sky Lark,Alauda arvensis,ALAARV,Passeriformes,Alaudidae,
+SCOG,Slate-colored Grosbeak,Saltator grossus,SALGRO,Passeriformes,,
+SCJU,Slate-colored Junco,Junco h. hyemalis,JUNHHY,Passeriformes,Emberizidae,
+SCSE,Slate-colored Seedeater,Sporophila schistacea,SPOSCH,Passeriformes,Emberizidae,
+SCSO,Slate-colored Solitaire,Myadestes unicolor,MYAUNI,Passeriformes,Turdidae,
+SHTF,Slate-headed Tody-Flycatcher,Poecilotriccus sylvia,POESYL,Passeriformes,Tyrannidae,Platyrinchinae
+STGN,Slate-throated Gnatcatcher,Polioptila schistaceigula,POLSCH,Passeriformes,Polioptilidae,
+STRE,Slate-throated Redstart,Myioborus miniatus,MYIMIN,Passeriformes,Parulidae,
+SLAN,Slaty Antwren,Myrmotherula schisticolor,MYRSCH,Passeriformes,Thamnophilidae,
+SLFI,Slaty Finch,Haplospiza rustica,HAPRUS,Passeriformes,Emberizidae,
+SLFL,Slaty Flowerpiercer,Diglossa plumbea,DIGPLU,Passeriformes,Emberizidae,
+SLSP,Slaty Spinetail,Synallaxis brachyura,SYNBRA,Passeriformes,Furnariidae,Furnariinae
+SLVI,Slaty Vireo,Vireo brevipennis,VIRBRE,Passeriformes,Vireonidae,
+SBFF,Slaty-backed Forest-Falcon,Micrastur mirandollei,MICMIR,Falconiformes,Falconidae,Micrasturinae
+SBGU,Slaty-backed Gull,Larus schistisagus,LARSCH,Charadriiformes,Laridae,Larinae
+SBNT,Slaty-backed Nightingale-Thrush,Catharus fuscater,CATFUT,Passeriformes,Turdidae,
+SBTI,Slaty-breasted Tinamou,Crypturellus boucardi,CRYBOU,Tinamiformes,Tinamidae,
+SLCF,Slaty-capped Flycatcher,Leptopogon superciliaris,LEPSUP,Passeriformes,Tyrannidae,Elaeniinae
+STTR,Slaty-tailed Trogon,Trogon massena,TROMAS,Trogoniformes,Trogonidae,Trogoninae
+SWFG,Slaty-winged Foliage-gleaner,Philydor fuscipenne,PHIFUS,Passeriformes,Furnariidae,Furnariinae
+SLSH,Slender Sheartail,Doricha enicura,DORENI,Apodiformes,Trochilidae,Trochilinae
+SBCU,Slender-billed Curlew,Numenius tenuirostris,NUMTEN,Charadriiformes,Scolopacidae,Scolopacinae
+SBGR,Slender-billed Grackle,Quiscalus palustris,QUIPAL,Passeriformes,Icteridae,
+SBKI,Slender-billed Kite,Helicolestes hamatus,HELHAM,Accipitriformes,Accipitridae,Accipitrinae
+SCGO,Small Canada Goose,Branta c. parvipes,BRACPA,Anseriformes,Anatidae,Anserinae
+SMEW,Smew,Mergellus albellus,MERALB,Anseriformes,Anatidae,Anatinae
+SMLO,Smith's Longspur,Calcarius pictus,CALPIC,Passeriformes,Calcariidae,
+SMBW,Smoky-brown Woodpecker,Picoides fumigatus,PICFUM,Piciformes,Picidae,Picinae
+SBAN,Smooth-billed Ani,Crotophaga ani,CROANI,Cuculiformes,Cuculidae,Crotophaginae
+SNKI,Snail Kite,Rostrhamus sociabilis,ROSSOC,Accipitriformes,Accipitridae,Accipitrinae
+SNBU,Snow Bunting,Plectrophenax nivalis,PLENIV,Passeriformes,Calcariidae,
+SNGO,Snow Goose,Chen caerulescens,CHECAE,Anseriformes,Anatidae,Anserinae
+SRGH,Snow X Ross's Goose Hybrid,Chen caerul. x rossii,CHECAR,Anseriformes,Anatidae,Anserinae
+SNOC,Snowcap,Microchera albocoronata,MICALB,Apodiformes,Trochilidae,Trochilinae
+SNCO,Snowy Cotinga,Carpodectes nitidus,CARNIT,Passeriformes,Cotingidae,
+SNEG,Snowy Egret,Egretta thula,EGRTHU,Pelecaniformes,Ardeidae,
+SNOW,Snowy Owl,Bubo scandiacus,BUBSCA,Strigiformes,Strigidae,
+SNPL,Snowy Plover,Charadrius nivosus,CHANIV,Charadriiformes,Charadriidae,Charadriinae
+SBEH,Snowy-bellied Hummingbird,Amazilia edward,AMAEDW,Apodiformes,Trochilidae,Trochilinae
+SOFL,Social Flycatcher,Myiozetetes similis,MYISIM,Passeriformes,Tyrannidae,Tyranninae
+SODO,Socorro Dove,Zenaida graysoni,ZENGRA,Columbiformes,Columbidae,
+SOMO,Socorro Mockingbird,Mimus graysoni,MIMGRA,Passeriformes,Mimidae,
+SOCW,Socorro Wren,Troglodytes sissonii,TROSIS,Passeriformes,Troglodytidae,
+SOEA,Solitary Eagle,Buteogallus solitarius,BUGSOL,Accipitriformes,Accipitridae,Accipitrinae
+SOSA,Solitary Sandpiper,Tringa solitaria,TRISOL,Charadriiformes,Scolopacidae,Scolopacinae
+SOSN,Solitary Snipe,Gallinago solitaria,GALSOL,Charadriiformes,Scolopacidae,Scolopacinae
+SOVI,Solitary Vireo,Vireo (sp),VIRSPE,Passeriformes,Vireonidae,
+SOSP,Song Sparrow,Melospiza melodia,MELMEL,Passeriformes,Emberizidae,
+SOTH,Song Thrush,Turdus philomelos,TURPHI,Passeriformes,Turdidae,
+SONW,Song Wren,Cyphorhinus phaeocephalus,CYPPHA,Passeriformes,Troglodytidae,
+SOGR,Sooty Grouse,Dendragapus fuliginosus,DEGFUL,Galliformes,Phasianidae,Tetraoninae
+SOSH,Sooty Shearwater,Puffinus griseus,PUFGRI,Procellariiformes,Procellariidae,
+SOTE,Sooty Tern,Onychoprion fuscatus,ONYFUS,Charadriiformes,Laridae,Sterninae
+SOOT,Sooty Thrush,Turdus nigrescens,TURNIG,Passeriformes,Turdidae,
+SCBT,Sooty-capped Bush-Tanager,Chlorospingus pileatus,CHLPIL,Passeriformes,Emberizidae,
+SFFI,Sooty-faced Finch,Arremon crassirostris,ARRCRA,Passeriformes,Emberizidae,
+SHTY,Sooty-headed Tyrannulet,Phyllomyias griseiceps,PHYGRI,Passeriformes,Tyrannidae,Elaeniinae
+SHWR,Sooty-headed Wren,Pheugopedius spadix,PHESPA,Passeriformes,Troglodytidae,
+SORA,Sora,Porzana carolina,PORCAR,Gruiformes,Rallidae,
+SPSK,South Polar Skua,Stercorarius maccormicki,STEMAC,Charadriiformes,Stercorariidae,
+SOBT,Southern Beardless-Tyrannulet,Camptostoma obsoletum,CAMOBS,Passeriformes,Tyrannidae,Elaeniinae
+SOBE,Southern Bentbill,Oncostoma olivaceum,ONCOLI,Passeriformes,Tyrannidae,Platyrinchinae
+SOHW,Southern House-Wren,Troglodytes a. musculus,TROAMU,Passeriformes,Troglodytidae,
+SOLA,Southern Lapwing,Vanellus chilensis,VANCHI,Charadriiformes,Charadriidae,Vanellinae
+SOMA,Southern Martin,Progne elegans,PROELE,Passeriformes,Hirundinidae,Hirundininae
+SRWS,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,STERUF,Passeriformes,Hirundinidae,Hirundininae
+SWFL,Southwestern Willow Flycatcher,Empidonax t. extimus,EMPTEX,Passeriformes,Tyrannidae,Fluvicolinae
+SCHT,Spangle-cheeked Tanager,Tangara dowii,TANDOW,Passeriformes,Thraupidae,
+SKTH,Sparkling-tailed Hummingbird,Tilmatura dupontii,TILDUP,Apodiformes,Trochilidae,Trochilinae
+SPMO,Speckled Mourner,Laniocera rufescens,LANRUF,Passeriformes,Tityridae,
+SPTA,Speckled Tanager,Tangara guttata,TANGUT,Passeriformes,Thraupidae,
+SPEI,Spectacled Eider,Somateria fischeri,SOMFIS,Anseriformes,Anatidae,Anatinae
+SPEO,Spectacled Owl,Pulsatrix perspicillata,PULPER,Strigiformes,Strigidae,
+SPPA,Spectacled Parrotlet,Forpus conspicillatus,FORCON,Psittaciformes,Psittacidae,Arinae
+SPTH,Spectacled Thrush,Turdus nudigenis,TURNUD,Passeriformes,Turdidae,
+SFAN,Spiny-faced Antshrike,Xenornis setifrons,XENSET,Passeriformes,Thamnophilidae,
+SBSA,Spoon-billed Sandpiper,Eurynorhynchus pygmeus,EURPYG,Charadriiformes,Scolopacidae,Scolopacinae
+SBOR,Spot-breasted Oriole,Icterus pectoralis,ICTPEC,Passeriformes,Icteridae,
+SBWP,Spot-breasted Woodpecker,Colaptes punctigula,COLPUN,Piciformes,Picidae,Picinae
+SBSW,Spot-breasted Wren,Pheugopedius maculipectus,PHEMAC,Passeriformes,Troglodytidae,
+SPCA,Spot-crowned Antvireo,Dysithamnus puncticeps,DYSPUN,Passeriformes,Thamnophilidae,
+SCBA,Spot-crowned Barbet,Capito maculicoronatus,CAPMAR,Piciformes,Capitonidae,
+SPCE,Spot-crowned Euphonia,Euphonia imitans,EUPIMI,Passeriformes,Fringillidae,Euphoniinae
+SCRW,Spot-crowned Woodcreeper,Lepidocolaptes affinis,LEPAFF,Passeriformes,Furnariidae,Dendrocolaptinae
+SFSW,Spot-fronted Swift,Cypseloides cherriei,CYPCHE,Apodiformes,Apodidae,Cypseloidinae
+SPTN,Spot-tailed Nightjar,Hydropsalis maculicaudus,HYDMAD,Caprimulgiformes,Caprimulgidae,Caprimulginae
+SPAN,Spotted Antbird,Hylophylax naevioides,HYLNAE,Passeriformes,Thamnophilidae,
+SPBA,Spotted Barbtail,Premnoplex brunnescens,PREBRU,Passeriformes,Furnariidae,Furnariinae
+SPCR,Spotted Crake,Porzana porzana,PORPOR,Gruiformes,Rallidae,
+SPDO,Spotted Dove,Streptopelia chinensis,STRCHI,Columbiformes,Columbidae,
+SPFL,Spotted Flycatcher,Muscicapa striata,MUSSTR,Passeriformes,Muscicapidae,
+SPNT,Spotted Nightingale-Thrush,Catharus dryas,CATDRY,Passeriformes,Turdidae,
+SPOW,Spotted Owl,Strix occidentalis,STROCC,Strigiformes,Strigidae,
+SPRA,Spotted Rail,Pardirallus maculatus,PARMAS,Gruiformes,Rallidae,
+SPRE,Spotted Redshank,Tringa erythropus,TRIERY,Charadriiformes,Scolopacidae,Scolopacinae
+SPSA,Spotted Sandpiper,Actitis macularius,ACTMAC,Charadriiformes,Scolopacidae,Scolopacinae
+SPTO,Spotted Towhee,Pipilo maculatus,PIPMAC,Passeriformes,Emberizidae,
+SPWO,Spotted Woodcreeper,Xiphorhynchus erythropygius,XIPERY,Passeriformes,Furnariidae,Dendrocolaptinae
+SPWQ,Spotted Wood-Quail,Odontophorus guttatus,ODOGUT,Galliformes,Odontophoridae,
+SPWR,Spotted Wren,Campylorhynchus gularis,CAMGUL,Passeriformes,Troglodytidae,
+SBOH,Spotted x Barred Owl Hybrid,Strix occiden. x varia,STROCV,Strigiformes,Strigidae,
+SPPI,Sprague's Pipit,Anthus spragueii,ANTSPR,Passeriformes,Motacillidae,
+SPGR,Spruce Grouse,Falcipennis canadensis,FALCAN,Galliformes,Phasianidae,Tetraoninae
+SQCU,Squirrel Cuckoo,Piaya cayana,PIACAY,Cuculiformes,Cuculidae,Cuculinae
+SLBF,St. Lucia Black Finch,Melanospiza richardsoni,MELRIC,Passeriformes,Emberizidae,
+SLOR,St. Lucia Oriole,Icterus laudabilis,ICTLAU,Passeriformes,Icteridae,
+SLPA,St. Lucia Parrot,Amazona versicolor,AMAVER,Psittaciformes,Psittacidae,Arinae
+SLWA,St. Lucia Warbler,Setophaga delicata,SETDEL,Passeriformes,Parulidae,
+SVPA,St. Vincent Parrot,Amazona guildingii,AMAGUI,Psittaciformes,Psittacidae,Arinae
+SVHU,Steely-vented Hummingbird,Amazilia saucerrottei,AMASAU,Apodiformes,Trochilidae,Trochilinae
+STPE,Stejneger's Petrel,Pterodroma longirostris,PTELON,Procellariiformes,Procellariidae,
+STEI,Steller's Eider,Polysticta stelleri,POLSTE,Anseriformes,Anatidae,Anatinae
+STJA,Steller's Jay,Cyanocitta stelleri,CYASTE,Passeriformes,Corvidae,
+STSE,Steller's Sea-Eagle,Haliaeetus pelagicus,HALPEL,Accipitriformes,Accipitridae,Accipitrinae
+STSA,Stilt Sandpiper,Calidris himantopus,CALHIM,Charadriiformes,Scolopacidae,Scolopacinae
+STOF,Stolid Flycatcher,Myiarchus stolidus,MYISTO,Passeriformes,Tyrannidae,Tyranninae
+STON,Stonechat,Saxicola torquatus,SAXTOR,Passeriformes,Muscicapidae,
+SGBW,Straight-billed Woodcreeper,Dendroplex picus,DENPIS,Passeriformes,Furnariidae,Dendrocolaptinae
+SBAO,Streak-backed Oriole,Icterus pustulatus,ICTPUS,Passeriformes,Icteridae,
+SBTR,Streak-breasted Treehunter,Thripadectes rufobrunneus,THRRUB,Passeriformes,Furnariidae,Furnariinae
+SCHA,Streak-chested Antpitta,Hylopezus perspicillatus,HYLPER,Passeriformes,Grallariidae,
+STCA,Streak-crowned Antvireo,Dysithamnus striaticeps,DYSSTR,Passeriformes,Thamnophilidae,
+STRF,Streaked Flycatcher,Myiodynastes maculatus,MYIMAC,Passeriformes,Tyrannidae,Tyranninae
+SSAL,Streaked Saltator,Saltator striatipectus,SALSTR,Passeriformes,,
+STRS,Streaked Shearwater,Calonectris leucomelas,CALLEU,Procellariiformes,Procellariidae,
+STXE,Streaked Xenops,Xenops rutilans,XENRUT,Passeriformes,Furnariidae,Furnariinae
+SHWO,Streak-headed Woodcreeper,Lepidocolaptes souleyetii,LEPSOU,Passeriformes,Furnariidae,Dendrocolaptinae
+STRM,Streamertail,Trochilus polytmus,TROPOL,Apodiformes,Trochilidae,Trochilinae
+STRH,Striated Heron,Butorides striata,BUTSTR,Pelecaniformes,Ardeidae,
+STCW,Strickland's Woodpecker,Picoides stricklandi,PICSTR,Piciformes,Picidae,Picinae
+SIBW,Stripe-breasted Wren,Cantorchilus thoracicus,CANTHO,Passeriformes,Troglodytidae,
+SCHW,Stripe-cheeked Woodpecker,Piculus callopterus,PICCAL,Piciformes,Picidae,Picinae
+STCU,Striped Cuckoo,Tapera naevia,TAPNAE,Cuculiformes,Cuculidae,Neomorphinae
+STRO,Striped Owl,Pseudoscops clamator,PSECLA,Strigiformes,Strigidae,
+SSPA,Striped Sparrow,Oriturus superciliosus,ORISUP,Passeriformes,Emberizidae,
+STPW,Striped Woodhaunter,Hyloctistes subulatus,HYLSUB,Passeriformes,Furnariidae,Furnariinae
+SHSP,Stripe-headed Sparrow,Peucaea ruficauda,PEURUF,Passeriformes,Emberizidae,
+STHM,Stripe-tailed Hummingbird,Eupherusa eximia,EUPEXI,Apodiformes,Trochilidae,Trochilinae
+STHR,Stripe-throated Hermit,Phaethornis striigularis,PHASTR,Apodiformes,Trochilidae,Phaethornithinae
+STWR,Stripe-throated Wren,Cantorchilus leucopogon,CANLEP,Passeriformes,Troglodytidae,
+SNBW,Strong-billed Woodcreeper,Xiphocolaptes promeropirhynchus,XIPPRO,Passeriformes,Furnariidae,Dendrocolaptinae
+STTS,Stub-tailed Spadebill,Platyrinchus cancrominus,PLACAN,Passeriformes,Tyrannidae,Platyrinchinae
+STOW,Stygian Owl,Asio stygius,ASISTY,Strigiformes,Strigidae,
+SBFL,Sulphur-bellied Flycatcher,Myiodynastes luteiventris,MYILUT,Passeriformes,Tyrannidae,Tyranninae
+SRFL,Sulphur-rumped Flycatcher,Myiobius sulphureipygius,MYISUL,Passeriformes,Tyrannidae,Fluvicolinae
+SRTA,Sulphur-rumped Tanager,Heterospingus rubrifrons,HETRUB,Passeriformes,Thraupidae,
+SWPA,Sulphur-winged Parakeet,Pyrrhura hoffmanni,PYRHOF,Psittaciformes,Psittacidae,Arinae
+SUWR,Sumichrast's Wren,Hylorchilus sumichrasti,HYLSUM,Passeriformes,Troglodytidae,
+SUTA,Summer Tanager,Piranga rubra,PIRRUB,Passeriformes,Cardinalidae,
+SUNB,Sunbittern,Eurypyga helias,EURHEL,Eurypygiformes,Eurypygidae,
+SUNG,Sungrebe,Heliornis fulica,HELFUL,Gruiformes,Heliornithidae,
+SUSC,Surf Scoter,Melanitta perspicillata,MELPER,Anseriformes,Anatidae,Anatinae
+SURF,Surfbird,Aphriza virgata,APHVIR,Charadriiformes,Scolopacidae,Scolopacinae
+SUWA,Sutton's Warbler,Setophaga americana x dominica,SETAMD,Passeriformes,Parulidae,
+SWHA,Swainson's Hawk,Buteo swainsoni,BUTSWA,Accipitriformes,Accipitridae,Accipitrinae
+SWTH,Swainson's Thrush,Catharus ustulatus,CATUST,Passeriformes,Turdidae,
+SWWA,Swainson's Warbler,Limnothlypis swainsonii,LIMSWA,Passeriformes,Parulidae,
+SWTA,Swallow Tanager,Tersina viridis,TERVIR,Passeriformes,Thraupidae,
+STGU,Swallow-tailed Gull,Creagrus furcatus,CREFUR,Charadriiformes,Laridae,Larinae
+STKI,Swallow-tailed Kite,Elanoides forficatus,ELAFOR,Accipitriformes,Accipitridae,Accipitrinae
+SWSP,Swamp Sparrow,Melospiza georgiana,MELGEO,Passeriformes,Emberizidae,
+SSTP,Swinhoe's Storm-Petrel,Oceanodroma monorhis,OCEMON,Procellariiformes,Hydrobatidae,
+TABT,Tacarcuna Bush-Tanager,Chlorospingus tacarcunae,CHLTAC,Passeriformes,Emberizidae,
+TATA,Tacarcuna Tapaculo,Scytalopus panamensis,SCYPAN,Passeriformes,Rhinocryptidae,
+TAWQ,Tacarcuna Wood-Quail,Odontophorus dialeucos,ODODIA,Galliformes,Odontophoridae,
+TAPE,Tahiti Petrel,Pterodroma rostrata,PTEROS,Procellariiformes,Procellariidae,
+TABG,Taiga Bean-Goose,Anser fabalis,ANSFAB,Anseriformes,Anatidae,Anserinae
+TAFL,Taiga Flycatcher,Ficedula albicilla,FICALB,Passeriformes,Muscicapidae,
+TACR,Tamaulipas Crow,Corvus imparatus,CORIMP,Passeriformes,Corvidae,
+TAPO,Tamaulipas Pygmy-Owl,Glaucidium sanchezi,GLASAN,Strigiformes,Strigidae,
+TBFL,Tawny-breasted Flycatcher,Myiobius villosus,MYIVIL,Passeriformes,Tyrannidae,Fluvicolinae
+TCEU,Tawny-capped Euphonia,Euphonia anneae,EUPANN,Passeriformes,Fringillidae,Euphoniinae
+TCFL,Tawny-chested Flycatcher,Aphanotriccus capitalis,APHCAP,Passeriformes,Tyrannidae,Fluvicolinae
+TCNI,Tawny-collared Nightjar,Antrostomus salvini,ANTSAL,Caprimulgiformes,Caprimulgidae,Caprimulginae
+TCTA,Tawny-crested Tanager,Tachyphonus delatrii,TACDEL,Passeriformes,Thraupidae,
+TCGR,Tawny-crowned Greenlet,Hylophilus ochraceiceps,HYLOCH,Passeriformes,Vireonidae,
+TFGN,Tawny-faced Gnatwren,Microbates cinereiventris,MICCIN,Passeriformes,Polioptilidae,
+TFQU,Tawny-faced Quail,Rhynchortyx cinctus,RHYCIN,Galliformes,Odontophoridae,
+TSBL,Tawny-shouldered Blackbird,Agelaius humeralis,AGEHUM,Passeriformes,Icteridae,
+TTLE,Tawny-throated Leaftosser,Sclerurus mexicanus,SCLMEX,Passeriformes,Furnariidae,Sclerurinae
+TWWO,Tawny-winged Woodcreeper,Dendrocincla anabatina,DENANA,Passeriformes,Furnariidae,Dendrocolaptinae
+TEST,Temminck's Stint,Calidris temminckii,CALTEM,Charadriiformes,Scolopacidae,Scolopacinae
+TEWA,Tennessee Warbler,Oreothlypis peregrina,OREPER,Passeriformes,Parulidae,
+TESA,Terek Sandpiper,Xenus cinereus,XENCIN,Charadriiformes,Scolopacidae,Scolopacinae
+THGU,Thayer's Gull,Larus thayeri,LARTHA,Charadriiformes,Laridae,Larinae
+TBEU,Thick-billed Euphonia,Euphonia laniirostris,EUPLAN,Passeriformes,Fringillidae,Euphoniinae
+TBKI,Thick-billed Kingbird,Tyrannus crassirostris,TYRCRA,Passeriformes,Tyrannidae,Tyranninae
+TBMU,Thick-billed Murre,Uria lomvia,URILOM,Charadriiformes,Alcidae,
+TBPA,Thick-billed Parrot,Rhynchopsitta pachyrhyncha,RHYPAC,Psittaciformes,Psittacidae,Arinae
+TBSF,Thick-billed Seed-Finch,Oryzoborus funereus,ORYFUN,Passeriformes,Emberizidae,
+TBVI,Thick-billed Vireo,Vireo crassirostris,VIRCRA,Passeriformes,Vireonidae,
+THAN,Thicket Antpitta,Hylopezus dives,HYLDIV,Passeriformes,Grallariidae,
+THTI,Thicket Tinamou,Crypturellus cinnamomeus,CRYCIN,Tinamiformes,Tinamidae,
+TSWA,Three-striped Warbler,Basileuterus tristriatus,BASTRI,Passeriformes,Parulidae,
+TWBE,Three-wattled Bellbird,Procnias tricarunculatus,PROTRI,Passeriformes,Cotingidae,
+TLSC,Thrush-like Schiffornis,Schiffornis turdina,SCHTUR,Passeriformes,Tityridae,
+TIWR,Timberline Wren,Thryorchilus browni,THRBRO,Passeriformes,Troglodytidae,
+TIHA,Tiny Hawk,Accipiter superciliosus,ACCSUP,Accipitriformes,Accipitridae,Accipitrinae
+TOMO,Tody Motmot,Hylomanes momotula,HYLMOM,Coraciiformes,Momotidae,
+TBHU,Tooth-billed Hummingbird,Androdon aequatorialis,ANDAEQ,Apodiformes,Trochilidae,Trochilinae
+TOTY,Torrent Tyrannulet,Serpophaga cinerea,SERCIN,Passeriformes,Tyrannidae,Elaeniinae
+TOSH,Townsend's Shearwater,Puffinus auricularis,PUFAUR,Procellariiformes,Procellariidae,
+TOSO,Townsend's Solitaire,Myadestes townsendi,MYATOW,Passeriformes,Turdidae,
+TOWA,Townsend's Warbler,Setophaga townsendi,SETTOW,Passeriformes,Parulidae,
+THWH,Townsend's x Hermit Warbler Hybrid,Setophaga townsendi x occidentalis,SETTOO,Passeriformes,Parulidae,
+TRFL,Traill's Flycatcher,Empidonax alnorum/traillii,EMPALT,Passeriformes,Tyrannidae,Fluvicolinae
+TRJA,Transvolcanic Jay,Aphelocoma ultramarina,APHULT,Passeriformes,Corvidae,
+TRPI,Tree Pipit,Anthus trivialis,ANTTRI,Passeriformes,Motacillidae,
+TRES,Tree Swallow,Tachycineta bicolor,TACBIC,Passeriformes,Hirundinidae,Hirundininae
+TRBL,Tricolored Blackbird,Agelaius tricolor,AGETRI,Passeriformes,Icteridae,
+TRHE,Tricolored Heron,Egretta tricolor,EGRTRI,Pelecaniformes,Ardeidae,
+TRMU,Tricolored Munia,Lonchura malacca,LONMAC,Passeriformes,Estrildidae,
+TRSP,Tristram's Storm-Petrel,Oceanodroma tristrami,OCETRI,Procellariiformes,Hydrobatidae,
+TRGN,Tropical Gnatcatcher,Polioptila plumbea,POLPLU,Passeriformes,Polioptilidae,
+TRKI,Tropical Kingbird,Tyrannus melancholicus,TYRMEL,Passeriformes,Tyrannidae,Tyranninae
+TRMO,Tropical Mockingbird,Mimus gilvus,MIMGIL,Passeriformes,Mimidae,
+TRPA,Tropical Parula,Setophaga pitiayumi,SETPIY,Passeriformes,Parulidae,
+TRPE,Tropical Pewee,Contopus cinereus,CONCIN,Passeriformes,Tyrannidae,Fluvicolinae
+TRSO,Tropical Screech-Owl,Megascops choliba,MEGCHO,Strigiformes,Strigidae,
+TRUS,Trumpeter Swan,Cygnus buccinator,CYGBUC,Anseriformes,Anatidae,Anserinae
+TUDU,Tufted Duck,Aythya fuligula,AYTFUL,Anseriformes,Anatidae,Anatinae
+TUFL,Tufted Flycatcher,Mitrephanes phaeocercus,MITPHA,Passeriformes,Tyrannidae,Fluvicolinae
+TUJA,Tufted Jay,Cyanocorax dickeyi,CYADIC,Passeriformes,Corvidae,
+TUPU,Tufted Puffin,Fratercula cirrhata,FRACIR,Charadriiformes,Alcidae,
+TUTI,Tufted Titmouse,Baeolophus bicolor,BAEBIC,Passeriformes,Paridae,
+TUBG,Tundra Bean-Goose,Anser serrirostris,ANSSER,Anseriformes,Anatidae,Anserinae
+TUSW,Tundra Swan,Cygnus columbianus,CYGCOL,Anseriformes,Anatidae,Anserinae
+TUVU,Turkey Vulture,Cathartes aura,CATAUA,Accipitriformes,Cathartidae,
+TUCO,Turquoise Cotinga,Cotinga ridgwayi,COTRID,Passeriformes,Cotingidae,
+TBMO,Turquoise-browed Motmot,Eumomota superciliosa,EUMSUP,Coraciiformes,Momotidae,
+TUQD,Tuxtla Quail-Dove,Geotrygon carrikeri,GEOCAR,Columbiformes,Columbidae,
+UAIH,Ula-ai-hawane,Ciridops anna,CIRANN,Passeriformes,Fringillidae,Drepanidinae
+UNJA,Unicolored Jay,Aphelocoma unicolor,APHUNI,Passeriformes,Corvidae,
+UAHA,Unidentified Accipiter Hawk,Accipiter (sp),ACCSPE,Accipitriformes,Accipitridae,Accipitrinae
+UNBI,Unidentified Bird,"Aves (gen, sp)",AVEGSP,#N/A,#N/A,
+UNBL,Unidentified Blackbird,"Icteridae (gen, sp)",ICTGSP,Passeriformes,Icteridae,
+UCFI,Unidentified Carpodacus Finch,Haemorhous (sp),HAESPE,Passeriformes,Fringillidae,Carduelinae
+UNCR,Unidentified Crow,Corvus (sp),CORSPE,Passeriformes,Corvidae,
+UNDO,Unidentified Dowitcher,Limnodromus sp.,LIMSPE,Charadriiformes,Scolopacidae,
+UNDU,Unidentified Duck,"Anatinae (gen, sp)",ANAGSP,Anseriformes,Anatidae,
+UEFL,Unidentified Empidonax Flycatcher,Empidonax (sp),EMPSPE,Passeriformes,Tyrannidae,Fluvicolinae
+UNFL,Unidentified Flycatcher,"Tyrannidae (gen, sp)",TYRGEN,Passeriformes,Tyrannidae,
+UNHA,Unidentified Hawk,"Accipitridae (gen, sp)",ACCGSP,Accipitriformes,Accipitridae,
+UNHU,Unidentified Hummingbird,"Trochilidae (gen, sp)",TRCGSP,Apodiformes,Trochilidae,
+UNLG,Unidentified Larus Gull,Larus (sp),LARSPE,Charadriiformes,Laridae,
+UNOW,Unidentified Owl,"Strigidae (gen, sp)",STRGSP,Strigiformes,Strigidae,
+UPTA,Unidentified Piranga Tanager,Piranga (sp),PIRSPE,Passeriformes,Cardinalidae,
+UPCH,Unidentified Poecile Chickadee,Poecile (sp),POESPE,Passeriformes,Paridae,
+UNSA,Unidentified Sapsucker,Sphyrapicus (sp),SPHSPE,Piciformes,Picidae,Picinae
+USHU,Unidentified Selasphorus Hummingbird,Selaphorus (sp),SELSPS,Apodiformes,Trochilidae,
+UNSP,Unidentified Sparrow,"Emberizidae (gen, sp)",EMBGSP,Passeriformes,Emberizidae,
+UNSW,Unidentified Swallow,"Hirundidae (gen, sp)",HIRGSP,Passeriformes,Hirundinidae,
+UNTE,Unidentified Teal,Anas (sp),ANASPE,Anseriformes,Anatidae,Anatinae
+UNTH,Unidentified Thrush,"Turdidae (gen, sp)",TURGSP,Passeriformes,Turdidae,
+UNWA,Unidentified Warbler,"Parulidae (gen, sp)",PARGSP,Passeriformes,Parulidae,
+UNWO,Unidentified Woodpecker,"Picadae (gen, sp)",PICGSP,Falconiformes,Falconidae,Micrasturinae
+UNWR,Unidentified Wren,"Troglodytidae (gen, sp)",TRGGSP,Passeriformes,Troglodytidae,
+UNIC,Uniform Crake,Amaurolimnas concolor,AMLCON,Gruiformes,Rallidae,
+USWO,Unspotted Saw-whet Owl,Aegolius ridgwayi,AEGRID,Strigiformes,Strigidae,
+UPSA,Upland Sandpiper,Bartramia longicauda,BARLON,Charadriiformes,Scolopacidae,Scolopacinae
+VASE,Variable Seedeater,Sporophila americana,SPOAME,Passeriformes,Emberizidae,
+VABU,Varied Bunting,Passerina versicolor,PASVER,Passeriformes,Cardinalidae,
+VASO,Varied Solitaire,Myadestes coloratus,MYACOL,Passeriformes,Turdidae,
+VATH,Varied Thrush,Ixoreus naevius,IXONAE,Passeriformes,Turdidae,
+VAFL,Variegated Flycatcher,Empidonomus varius,EMPVAR,Passeriformes,Tyrannidae,Tyranninae
+VASW,Vaux's Swift,Chaetura vauxi,CHAVAU,Apodiformes,Apodidae,Chaeturinae
+VEER,Veery,Catharus fuscescens,CATFUN,Passeriformes,Turdidae,
+VETR,Venezuelan Troupial,Icterus icterus,ICTICT,Passeriformes,Icteridae,
+VEMA,Veraguan Mango,Anthracothorax veraguensis,ANTVER,Apodiformes,Trochilidae,Trochilinae
+VERD,Verdin,Auriparus flaviceps,AURFLA,Passeriformes,Remizidae,
+VESO,Vermiculated Screech-Owl,Megascops guatemalae,MEGGUA,Strigiformes,Strigidae,
+VEFL,Vermilion Flycatcher,Pyrocephalus rubinus,PYRRUB,Passeriformes,Tyrannidae,Fluvicolinae
+VEHU,Vervain Hummingbird,Mellisuga minima,MELMIN,Apodiformes,Trochilidae,Trochilinae
+VESP,Vesper Sparrow,Pooecetes gramineus,POOGRA,Passeriformes,Emberizidae,
+VIWE,Village Weaver,Ploceus cucullatus,PLOCUC,Passeriformes,Ploceidae,Ploceinae
+VIQD,Violaceous Quail-Dove,Geotrygon violacea,GEOVIO,Columbiformes,Columbidae,
+VISA,Violet Sabrewing,Campylopterus hemileucurus,CAMHEM,Apodiformes,Trochilidae,Trochilinae
+VBHU,Violet-bellied Hummingbird,Damophila julie,DAMJUL,Apodiformes,Trochilidae,Trochilinae
+VCAH,Violet-capped Hummingbird,Goldmania violiceps,GOLVIO,Apodiformes,Trochilidae,Trochilinae
+VCHU,Violet-crowned Hummingbird,Amazilia violiceps,AMAVIO,Apodiformes,Trochilidae,Trochilinae
+VCWO,Violet-crowned Woodnymph,Thalurania colombica,THACOL,Apodiformes,Trochilidae,Trochilinae
+VGSW,Violet-green Swallow,Tachycineta thalassina,TACTHA,Passeriformes,Hirundinidae,Hirundininae
+VHHU,Violet-headed Hummingbird,Klais guimeti,KLAGUI,Apodiformes,Trochilidae,Trochilinae
+VIRA,Virginia Rail,Rallus limicola,RALLIM,Gruiformes,Rallidae,
+VIWA,Virginia's Warbler,Oreothlypis virginiae,OREVIR,Passeriformes,Parulidae,
+VIDA,Viridian Dacnis,Dacnis viguieri,DACVIG,Passeriformes,Thraupidae,
+VITW,Vitelline Warbler,Setophaga vitellina,SETVIT,Passeriformes,Parulidae,
+VOHU,Volcano Hummingbird,Selasphorus flammula,SELFLA,Apodiformes,Trochilidae,Trochilinae
+VOJU,Volcano Junco,Junco vulcani,JUNVUL,Passeriformes,Emberizidae,
+WAAL,Wandering Albatross,Diomedea exulans,DIOEXU,Procellariiformes,Diomedeidae,
+WATA,Wandering Tattler,Tringa incana,TRIINC,Charadriiformes,Scolopacidae,Scolopacinae
+WAVI,Warbling Vireo,Vireo gilvus,VIRGIL,Passeriformes,Vireonidae,
+WAJA,Wattled Jacana,Jacana jacana,JACJAC,Charadriiformes,Jacanidae,
+WBWO,Wedge-billed Woodcreeper,Glyphorynchus spirurus,GLYSPI,Passeriformes,Furnariidae,Dendrocolaptinae
+WRSP,Wedge-rumped Storm-Petrel,Oceanodroma tethys,OCETET,Procellariiformes,Hydrobatidae,
+WTGF,Wedge-tailed Grass-Finch,Emberizoides herbicola,EMBHER,Passeriformes,Emberizidae,
+WTSA,Wedge-tailed Sabrewing,Campylopterus curvipennis,CAMCUR,Apodiformes,Trochilidae,Trochilinae
+WTSH,Wedge-tailed Shearwater,Puffinus pacificus,PUFPAC,Procellariiformes,Procellariidae,
+WIWD,West Indian Whistling-Duck,Dendrocygna arborea,DENARB,Anseriformes,Anatidae,Dendrocygninae
+WIWO,West Indian Woodpecker,Melanerpes superciliaris,MELSUP,Piciformes,Picidae,Picinae
+WMCH,West Mexican Chachalaca,Ortalis poliocephala,ORTPOL,Galliformes,Cracidae,
+WEBL,Western Bluebird,Sialia mexicana,SIAMEX,Passeriformes,Turdidae,
+WECT,Western Chat-Tanager,Calyptophilus tertius,CALTER,Passeriformes,Thraupidae,
+WEFL,Western Flycatcher,Empidonax difficilis/occid.,EMPDIO,Passeriformes,Tyrannidae,Fluvicolinae
+WEGR,Western Grebe,Aechmophorus occidentalis,AECOCC,Podicipediformes,Podicipedidae,
+WEGU,Western Gull,Larus occidentalis,LAROCC,Charadriiformes,Laridae,Larinae
+WEKI,Western Kingbird,Tyrannus verticalis,TYRVER,Passeriformes,Tyrannidae,Tyranninae
+WMHA,Western Marsh Harrier,Circus aeruginosus,CIRAER,Accipitriformes,Accipitridae,Accipitrinae
+WEME,Western Meadowlark,Sturnella neglecta,STUNEG,Passeriformes,Icteridae,
+WPWA,Western Palm Warbler,Setophaga palmarum palmarum,SETPPA,Passeriformes,Parulidae,
+WERH,Western Reef-Heron,Egretta gularis,EGRGUL,Pelecaniformes,Ardeidae,
+WESA,Western Sandpiper,Calidris mauri,CALMAU,Charadriiformes,Scolopacidae,Scolopacinae
+WESO,Western Screech-Owl,Megascops kennicottii,MEGKEN,Strigiformes,Strigidae,
+WESJ,Western Scrub-Jay,Aphelocoma californica,APHCAL,Passeriformes,Corvidae,
+WSLA,Western Slaty-Antshrike,Thamnophilus atrinucha,THAATR,Passeriformes,Thamnophilidae,
+WESP,Western Spindalis,Spindalis zena,SPIZEN,Passeriformes,Thraupidae,
+WETA,Western Tanager,Piranga ludoviciana,PIRLUD,Passeriformes,Cardinalidae,
+WEWP,Western Wood-Pewee,Contopus sordidulus,CONSOR,Passeriformes,Tyrannidae,Fluvicolinae
+WGWH,Western X Glaucous-winged Gull Hybrid,Larus occid. x gluaces.,LAROCG,Charadriiformes,Laridae,
+WMBH,Western X Mountain Bluebird Hybrid,Sialia mex. x currucoid.,SIAMEC,Passeriformes,Turdidae,
+WHIM,Whimbrel,Numenius phaeopus,NUMPHA,Charadriiformes,Scolopacidae,Scolopacinae
+WHAU,Whiskered Auklet,Aethia pygmaea,AETPYG,Charadriiformes,Alcidae,
+WHSO,Whiskered Screech-Owl,Megascops trichopsis,MEGTRI,Strigiformes,Strigidae,
+WHST,Whiskered Tern,Chlidonias hybrida,CHLHYB,Charadriiformes,Laridae,Sterninae
+WHSW,Whistling Swan,Cygnus c. columbianus,CYGCCO,Anseriformes,Anatidae,Anserinae
+WHIW,Whistling Warbler,Catharopeza bishopi,CATBIS,Passeriformes,Parulidae,
+WHHA,White Hawk,Pseudastur albicollis,PSEALB,Accipitriformes,Accipitridae,Accipitrinae
+WHIB,White Ibis,Eudocimus albus,EUDALB,Pelecaniformes,Threskiornithidae,Threskiornithinae
+WHTT,White Tern,Gygis alba,GYGALB,Charadriiformes,Laridae,Sterninae
+WHWA,White Wagtail,Motacilla alba,MOTALB,Passeriformes,Motacillidae,
+WBEA,White-bellied Antbird,Myrmeciza longipes,MYRLON,Passeriformes,Thamnophilidae,
+WBCH,White-bellied Chachalaca,Ortalis leucogastra,ORTLEU,Galliformes,Cracidae,
+WBEM,White-bellied Emerald,Amazilia candida,AMACAN,Apodiformes,Trochilidae,Trochilinae
+WBMG,White-bellied Mountain-gem,Lampornis hemileucus,LAMHEM,Apodiformes,Trochilidae,Trochilinae
+WBWR,White-bellied Wren,Uropsila leucogastra,UROLEU,Passeriformes,Troglodytidae,
+WBNU,White-breasted Nuthatch,Sitta carolinensis,SITCAR,Passeriformes,Sittidae,Sittinae
+WBTH,White-breasted Thrasher,Ramphocinclus brachyurus,RAMBRA,Passeriformes,Mimidae,
+WBWW,White-breasted Wood-Wren,Henicorhina leucosticta,HENLES,Passeriformes,Troglodytidae,
+WCHP,White-cheeked Pintail,Anas bahamensis,ANABAH,Anseriformes,Anatidae,Anatinae
+WCPE,White-chinned Petrel,Procellaria aequinoctialis,PROAEQ,Procellariiformes,Procellariidae,
+WCHS,White-chinned Swift,Cypseloides cryptus,CYPCRY,Apodiformes,Apodidae,Cypseloidinae
+WCTH,White-chinned Thrush,Turdus aurantius,TURAUR,Passeriformes,Turdidae,
+WCOM,White-collared Manakin,Manacus candei,MANCAN,Passeriformes,Pipridae,
+WCSE,White-collared Seedeater,Sporophila torqueola,SPOTOR,Passeriformes,Emberizidae,
+WCSW,White-collared Swift,Streptoprocne zonaris,STRZON,Apodiformes,Apodidae,Cypseloidinae
+WGSH,White-cr. X Golden-cr. Sparrow Hybrid,Zonotrichia leuc. x atricap.,ZONLEA,Passeriformes,Emberizidae,
+WCCO,White-crested Coquette,Lophornis adorabilis,LOPADO,Apodiformes,Trochilidae,Trochilinae
+WCEL,White-crested Elaenia,Elaenia albiceps,ELAALB,Passeriformes,Tyrannidae,Elaeniinae
+WCRM,White-crowned Manakin,Pipra pipra,PIPPIP,Passeriformes,Pipridae,
+WCPA,White-crowned Parrot,Pionus senilis,PIOSEN,Psittaciformes,Psittacidae,Arinae
+WCPI,White-crowned Pigeon,Patagioenas leucocephala,PATLEU,Columbiformes,Columbidae,
+WCSP,White-crowned Sparrow,Zonotrichia leucophrys,ZONLEU,Passeriformes,Emberizidae,
+WECO,White-eared Conebill,Conirostrum leucogenys,CONLEU,Passeriformes,Thraupidae,
+WEGS,White-eared Ground-Sparrow,Melozone leucotis,MELLEU,Passeriformes,Emberizidae,
+WEHU,White-eared Hummingbird,Hylocharis leucotis,HYLLEU,Apodiformes,Trochilidae,Trochilinae
+WETH,White-eyed Thrush,Turdus jamaicensis,TURJAM,Passeriformes,Turdidae,
+WEVI,White-eyed Vireo,Vireo griseus,VIRGRI,Passeriformes,Vireonidae,
+WFIB,White-faced Ibis,Plegadis chihi,PLECHI,Pelecaniformes,Threskiornithidae,Threskiornithinae
+WFAQ,White-faced Quail-Dove,Geotrygon albifacies,GEOALB,Columbiformes,Columbidae,
+WFSP,White-faced Storm-Petrel,Pelagodroma marina,PELMAR,Procellariiformes,Hydrobatidae,
+WFWD,White-faced Whistling-Duck,Dendrocygna viduata,DENVID,Anseriformes,Anatidae,Dendrocygninae
+WFLA,White-flanked Antwren,Myrmotherula axillaris,MYRAXI,Passeriformes,Thamnophilidae,
+WFRA,White-fringed Antwren,Formicivora grisea,FORGRI,Passeriformes,Thamnophilidae,
+WFNU,White-fronted Nunbird,Monasa morphoeus,MONMOR,Piciformes,Bucconidae,
+WFPA,White-fronted Parrot,Amazona albifrons,AMAALB,Psittaciformes,Psittacidae,Arinae
+WFRQ,White-fronted Quail-Dove,Geotrygon leucometopia,GEOLEU,Columbiformes,Columbidae,
+WFSW,White-fronted Swift,Cypseloides storeri,CYPSTO,Apodiformes,Apodidae,Cypseloidinae
+WHWO,White-headed Woodpecker,Picoides albolarvatus,PICALB,Piciformes,Picidae,Picinae
+WHWR,White-headed Wren,Campylorhynchus albobrunneus,CAMALB,Passeriformes,Troglodytidae,
+WLTA,White-lined Tanager,Tachyphonus rufus,TACRUF,Passeriformes,Thraupidae,
+WLGN,White-lored Gnatcatcher,Polioptila albiloris,POLALB,Passeriformes,Polioptilidae,
+WNBF,White-naped Brush-Finch,Atlapetes albinucha,ATLALB,Passeriformes,Emberizidae,
+WNSW,White-naped Swift,Streptoprocne semicollaris,STRSEM,Apodiformes,Apodidae,Cypseloidinae
+WNCR,White-necked Crow,Corvus leucognaphalus,CORLEU,Passeriformes,Corvidae,
+WNJA,White-necked Jacobin,Florisuga mellivora,FLOMEL,Apodiformes,Trochilidae,Topazinae
+WNPE,White-necked Petrel,Pterodroma cervicalis,PTECER,Procellariiformes,Procellariidae,
+WNPU,White-necked Puffbird,Notharchus hyperrhynchus,NOTHYP,Piciformes,Bucconidae,
+WRFL,White-ringed Flycatcher,Conopias albovittatus,CONALB,Passeriformes,Tyrannidae,Tyranninae
+WRMA,White-ruffed Manakin,Corapipo altera,CORALT,Passeriformes,Pipridae,
+WRSA,White-rumped Sandpiper,Calidris fuscicollis,CALFUS,Charadriiformes,Scolopacidae,Scolopacinae
+WRSH,White-rumped Shama,Copsychus malabaricus,COPMAL,Passeriformes,Muscicapidae,
+WSTA,White-shouldered Tanager,Tachyphonus luctuosus,TACLUC,Passeriformes,Thraupidae,
+WSWO,White-striped Woodcreeper,Lepidocolaptes leucogaster,LEPLEU,Passeriformes,Furnariidae,Dendrocolaptinae
+WTEA,White-tailed Eagle,Haliaeetus albicilla,HALALB,Accipitriformes,Accipitridae,Accipitrinae
+WTEM,White-tailed Emerald,Elvira chionura,ELVCHI,Apodiformes,Trochilidae,Trochilinae
+WTHA,White-tailed Hawk,Buteo albicaudatus,BUTALC,Accipitriformes,Accipitridae,Accipitrinae
+WTAH,White-tailed Hummingbird,Eupherusa poliocerca,EUPPOL,Apodiformes,Trochilidae,Trochilinae
+WTKI,White-tailed Kite,Elanus leucurus,ELALEU,Accipitriformes,Accipitridae,Accipitrinae
+WTNI,White-tailed Nightjar,Hydropsalis cayennensis,HYDCAY,Caprimulgiformes,Caprimulgidae,Caprimulginae
+WTPT,White-tailed Ptarmigan,Lagopus leucura,LAGLEU,Galliformes,Phasianidae,Tetraoninae
+WTAT,White-tailed Trogon,Trogon chionurus,TROCHI,Trogoniformes,Trogonidae,Trogoninae
+WTTR,White-tailed Tropicbird,Phaethon lepturus,PHALEP,Phaethontiformes,Phaethontidae,
+WTGS,White-thighed Swallow,Neochelidon tibialis,NEOTIB,Passeriformes,Hirundinidae,Hirundininae
+WTCR,White-throated Crake,Laterallus albigularis,LATALB,Gruiformes,Rallidae,
+WTFL,White-throated Flycatcher,Empidonax albigularis,EMPALB,Passeriformes,Tyrannidae,Fluvicolinae
+WTJA,White-throated Jay,Cyanolyca mirabilis,CYAMIR,Passeriformes,Corvidae,
+WTMJ,White-throated Magpie-Jay,Calocitta formosa,CALFOR,Passeriformes,Corvidae,
+WTMG,White-throated Mountain-gem,Lampornis castaneoventris,LAMCAS,Apodiformes,Trochilidae,Trochilinae
+WTNE,White-throated Needletail,Hirundapus caudacutus,HIRCAU,Apodiformes,Apodidae,Chaeturinae
+WTST,White-throated Shrike-Tanager,Lanio leucothorax,LANLEU,Passeriformes,Thraupidae,
+WTRS,White-throated Spadebill,Platyrinchus mystaceus,PLAMYS,Passeriformes,Tyrannidae,Platyrinchinae
+WTSP,White-throated Sparrow,Zonotrichia albicollis,ZONALB,Passeriformes,Emberizidae,
+WTSW,White-throated Swift,Aeronautes saxatalis,AERSAX,Apodiformes,Apodidae,Apodinae
+WTTH,White-throated Thrush,Turdus assimilis,TURASS,Passeriformes,Turdidae,
+WTTO,White-throated Towhee,Melozone albicollis,MELALB,Passeriformes,Emberizidae,
+WTDO,White-tipped Dove,Leptotila verreauxi,LEPVER,Columbiformes,Columbidae,
+WTSI,White-tipped Sicklebill,Eutoxeres aquila,EUTAQU,Apodiformes,Trochilidae,Phaethornithinae
+WVEU,White-vented Euphonia,Euphonia minuta,EUPMIN,Passeriformes,Fringillidae,Euphoniinae
+WVPL,White-vented Plumeleteer,Chalybura buffonii,CHABUF,Apodiformes,Trochilidae,Trochilinae
+WWPU,White-whiskered Puffbird,Malacoptila panamensis,MALPAN,Piciformes,Bucconidae,
+WWBE,White-winged Becard,Pachyramphus polychopterus,PACPOL,Passeriformes,Tityridae,
+WWCR,White-winged Crossbill,Loxia leucoptera,LOXLEU,Passeriformes,Fringillidae,Carduelinae
+WWDO,White-winged Dove,Zenaida asiatica,ZENASI,Columbiformes,Columbidae,
+WWJU,White-winged Junco,Junco h. aikeni,JUNHAI,Passeriformes,Emberizidae,
+WWPA,White-winged Parakeet,Brotogeris versicolurus,BROVER,Psittaciformes,Psittacidae,Arinae
+WWSC,White-winged Scoter,Melanitta fusca,MENFUS,Anseriformes,Anatidae,Anatinae
+WWTA,White-winged Tanager,Piranga leucoptera,PIRLEU,Passeriformes,Cardinalidae,
+WWTE,White-winged Tern,Chlidonias leucopterus,CHLLEU,Charadriiformes,Laridae,Sterninae
+WWWA,White-winged Warbler,Xenoligea montana,XENMON,Passeriformes,Parulidae,
+WHOS,Whooper Swan,Cygnus cygnus,CYGCYG,Anseriformes,Anatidae,Anserinae
+WHCR,Whooping Crane,Grus americana,GRUAME,Gruiformes,Gruidae,Gruinae
+WITU,Wild Turkey,Meleagris gallopavo,MELGAL,Galliformes,Phasianidae,Meleagridinae
+WILL,Willet,Tringa semipalmata,TRISEM,Charadriiformes,Scolopacidae,Scolopacinae
+WISA,Williamson's Sapsucker,Sphyrapicus thyroideus,SPHTHY,Piciformes,Picidae,Picinae
+WIFL,Willow Flycatcher,Empidonax traillii,EMPTRA,Passeriformes,Tyrannidae,Fluvicolinae
+WIPT,Willow Ptarmigan,Lagopus lagopus,LAGLAG,Galliformes,Phasianidae,Tetraoninae
+WILW,Willow Warbler,Phylloscopus trochilus,PHYTRO,Passeriformes,Phylloscopidae,
+WIPH,Wilson's Phalarope,Phalaropus tricolor,PHATRI,Charadriiformes,Scolopacidae,Phalaropodinae
+WIPL,Wilson's Plover,Charadrius wilsonia,CHAWIL,Charadriiformes,Charadriidae,Charadriinae
+WISN,Wilson's Snipe,Gallinago delicata,GALDEL,Charadriiformes,Scolopacidae,Scolopacinae
+WISP,Wilson's Storm-Petrel,Oceanites oceanicus,OCEOCE,Procellariiformes,Hydrobatidae,
+WIWA,Wilson's Warbler,Cardellina pusilla,CARPUS,Passeriformes,Parulidae,
+WTHH,Wine-throated Hummingbird,Atthis ellioti,ATTELL,Apodiformes,Trochilidae,Trochilinae
+WBAA,Wing-banded Antbird,Myrmornis torquata,MYRTOR,Passeriformes,Thamnophilidae,
+WIWR,Winter Wren,Troglodytes hiemalis,TROHIE,Passeriformes,Troglodytidae,
+WODU,Wood Duck,Aix sponsa,AIXSPO,Anseriformes,Anatidae,Anatinae
+WOSA,Wood Sandpiper,Tringa glareola,TRIGLA,Charadriiformes,Scolopacidae,Scolopacinae
+WOST,Wood Stork,Mycteria americana,MYCAME,Ciconiiformes,Ciconiidae,
+WOTH,Wood Thrush,Hylocichla mustelina,HYLMUS,Passeriformes,Turdidae,
+WOWA,Wood Warbler,Phylloscopus sibilatrix,PHYSIB,Passeriformes,Phylloscopidae,
+WEWA,Worm-eating Warbler,Helmitheros vermivorum,HELVER,Passeriformes,Parulidae,
+WOSP,Worthen's Sparrow,Spizella wortheni,SPIWOR,Passeriformes,Emberizidae,
+WRET,Wrenthrush,Zeledonia coronata,ZELCOR,Passeriformes,Parulidae,
+WREN,Wrentit,Chamaea fasciata,CHAFAS,Passeriformes,Sylviidae,
+XAHU,Xantus's Hummingbird,Hylocharis xantusii,HYLXAN,Apodiformes,Trochilidae,Trochilinae
+YEBI,Yellow Bittern,Ixobrychus sinensis,IXOSIN,Pelecaniformes,Ardeidae,
+YEGR,Yellow Grosbeak,Pheucticus chrysopeplus,PHECHR,Passeriformes,Cardinalidae,
+YPWA,Yellow Palm Warbler,Setophaga palmarum hypochrysea,SETPHY,Passeriformes,Parulidae,
+YERA,Yellow Rail,Coturnicops noveboracensis,COTNOV,Gruiformes,Rallidae,
+YETY,Yellow Tyrannulet,Capsiempis flaveola,CAPFLA,Passeriformes,Tyrannidae,Elaeniinae
+YEWA,Yellow Warbler,Setophaga petechia,SETPET,Passeriformes,Parulidae,
+YBOR,Yellow-backed Oriole,Icterus chrysater,ICTCHR,Passeriformes,Icteridae,
+YBTA,Yellow-backed Tanager,Hemithraupis flavicollis,HEMFLC,Passeriformes,Thraupidae,
+YBEL,Yellow-bellied Elaenia,Elaenia flavogaster,ELAFLA,Passeriformes,Tyrannidae,Elaeniinae
+YBFL,Yellow-bellied Flycatcher,Empidonax flaviventris,EMPFLN,Passeriformes,Tyrannidae,Fluvicolinae
+YBSA,Yellow-bellied Sapsucker,Sphyrapicus varius,SPHVAR,Piciformes,Picidae,Picinae
+YBSE,Yellow-bellied Seedeater,Sporophila nigricollis,SPONIG,Passeriformes,Emberizidae,
+YBSI,Yellow-bellied Siskin,Spinus xanthogastrus,SPIXAN,Passeriformes,Fringillidae,Carduelinae
+YBTY,Yellow-bellied Tyrannulet,Ornithion semiflavum,ORNSEM,Passeriformes,Tyrannidae,Elaeniinae
+YBIC,Yellow-billed Cacique,Amblycercus holosericeus,AMBHOL,Passeriformes,Icteridae,
+YBCA,Yellow-billed Cardinal,Paroaria capitata,PARCAP,Passeriformes,Thraupidae,
+YBCO,Yellow-billed Cotinga,Carpodectes antoniae,CARANT,Passeriformes,Cotingidae,
+YBCU,Yellow-billed Cuckoo,Coccyzus americanus,COCAME,Cuculiformes,Cuculidae,Cuculinae
+YBLO,Yellow-billed Loon,Gavia adamsii,GAVADA,Gaviiformes,Gaviidae,
+YBMA,Yellow-billed Magpie,Pica nuttalli,PIANUT,Passeriformes,Corvidae,
+YBPA,Yellow-billed Parrot,Amazona collaria,AMACOL,Psittaciformes,Psittacidae,Arinae
+YBTE,Yellow-billed Tern,Sternula superciliaris,STESUP,Charadriiformes,Laridae,Sterninae
+YBSB,Yellow-breasted Bunting,Emberiza aureola,EMBAUR,Passeriformes,Emberizidae,
+YBCH,Yellow-breasted Chat,Icteria virens,ICTVIR,Passeriformes,Parulidae,
+YBCR,Yellow-breasted Crake,Porzana flaviventer,PORFLN,Gruiformes,Rallidae,
+YBRF,Yellow-breasted Flycatcher,Tolmomyias flaviventris,TOLFLA,Passeriformes,Tyrannidae,Platyrinchinae
+YBWB,Yellow-browed Bunting,Emberiza chrysophrys,EMBCHR,Passeriformes,Emberizidae,
+YBSV,Yellow-browed Shrike-Vireo,Vireolanius eximius,VIREXI,Passeriformes,Vireonidae,
+YBWA,Yellow-browed Warbler,Phylloscopus inornatus,PHYINO,Passeriformes,Phylloscopidae,
+YCCH,Yellow-collared Chlorophonia,Chlorophonia flavirostris,CHLFLR,Passeriformes,Fringillidae,Euphoniinae
+YCBI,Yellow-crowned Bishop,Euplectes afer,EUPAFE,Passeriformes,Ploceidae,Ploceinae
+YCEU,Yellow-crowned Euphonia,Euphonia luteicapilla,EUPLUT,Passeriformes,Fringillidae,Euphoniinae
+YCNH,Yellow-crowned Night-Heron,Nyctanassa violacea,NYCVIO,Pelecaniformes,Ardeidae,
+YCPA,Yellow-crowned Parrot,Amazona ochrocephala,AMAOCH,Psittaciformes,Psittacidae,Arinae
+YCTY,Yellow-crowned Tyrannulet,Tyrannulus elatus,TYRELA,Passeriformes,Tyrannidae,Elaeniinae
+YETO,Yellow-eared Toucanet,Selenidera spectabilis,SELSPT,Piciformes,Ramphastidae,Ramphastinae
+YEJU,Yellow-eyed Junco,Junco phaeonotus,JUNPHA,Passeriformes,Emberizidae,
+YFGR,Yellow-faced Grassquit,Tiaris olivaceus,TIAOLI,Passeriformes,Emberizidae,
+YFGU,Yellow-footed Gull,Larus livens,LARLIV,Charadriiformes,Laridae,Larinae
+YFCA,Yellow-fronted Canary,Serinus mozambicus,SERMOZ,Passeriformes,Fringillidae,Carduelinae
+YGFI,Yellow-green Finch,Pselliophorus luteoviridis,PSELUT,Passeriformes,Emberizidae,
+YGGR,Yellow-green Grosbeak,Caryothraustes canadensis,CATCAN,Passeriformes,Cardinalidae,
+YGTY,Yellow-green Tyrannulet,Phylloscartes flavovirens,PHYFLA,Passeriformes,Tyrannidae,Elaeniinae
+YGVI,Yellow-green Vireo,Vireo flavoviridis,VIRFLD,Passeriformes,Vireonidae,
+YHBL,Yellow-headed Blackbird,Xanthocephalus xanthocephalus,XANXAN,Passeriformes,Icteridae,
+YHCA,Yellow-headed Caracara,Milvago chimachima,MILCHI,Falconiformes,Falconidae,Caracarinae
+YHPA,Yellow-headed Parrot,Amazona oratrix,AMAORA,Psittaciformes,Psittacidae,Arinae
+YHWA,Yellow-headed Warbler,Teretistris fernandinae,TERFER,Passeriformes,Parulidae,
+YHOB,Yellow-hooded Blackbird,Chrysomus icterocephalus,CHRICT,Passeriformes,Icteridae,
+YEFL,Yellowish Flycatcher,Empidonax flavescens,EMPFLS,Passeriformes,Tyrannidae,Fluvicolinae
+YEPI,Yellowish Pipit,Anthus lutescens,ANTLUT,Passeriformes,Motacillidae,
+YLGU,Yellow-legged Gull,Larus michahellis,LARMIC,Charadriiformes,Laridae,Larinae
+YLPA,Yellow-lored Parrot,Amazona xantholora,AMAXAN,Psittaciformes,Psittacidae,Arinae
+YMFL,Yellow-margined Flycatcher,Tolmomyias assimilis,TOLASS,Passeriformes,Tyrannidae,Platyrinchinae
+YNPA,Yellow-naped Parrot,Amazona auropalliata,AMAAUR,Psittaciformes,Psittacidae,Arinae
+YNAL,Yellow-nosed Albatross,Thalassarche chlororhynchos,THACHL,Procellariiformes,Diomedeidae,
+YOFL,Yellow-olive Flycatcher,Tolmomyias sulphurescens,TOLSUL,Passeriformes,Tyrannidae,Platyrinchinae
+YRCA,Yellow-rumped Cacique,Cacicus cela,CACCEL,Passeriformes,Icteridae,
+YRWA,Yellow-rumped Warbler,Setophaga coronata,SETCOR,Passeriformes,Parulidae,
+YSFL,Yellow-shafted Flicker,Colaptes a. auratus,COLAAU,Piciformes,Picidae,Picinae
+YSBL,Yellow-shouldered Blackbird,Agelaius xanthomus,AGEXAN,Passeriformes,Icteridae,
+YSGR,Yellow-shouldered Grassquit,Loxipasser anoxanthus,LOXANO,Passeriformes,Emberizidae,
+YTOR,Yellow-tailed Oriole,Icterus mesomelas,ICTMES,Passeriformes,Icteridae,
+YTFI,Yellow-thighed Finch,Pselliophorus tibialis,PSETIB,Passeriformes,Emberizidae,
+YTBU,Yellow-throated Bunting,Emberiza elegans,EMBELE,Passeriformes,Emberizidae,
+YTBT,Yellow-throated Bush-Tanager,Chlorospingus flavigularis,CHLFLG,Passeriformes,Emberizidae,
+YTEU,Yellow-throated Euphonia,Euphonia hirundinacea,EUPHIR,Passeriformes,Fringillidae,Euphoniinae
+YTVI,Yellow-throated Vireo,Vireo flavifrons,VIRFLF,Passeriformes,Vireonidae,
+YTWA,Yellow-throated Warbler,Setophaga dominica,SETDOM,Passeriformes,Parulidae,
+YWCA,Yellow-winged Cacique,Cacicus melanicterus,CACMEL,Passeriformes,Icteridae,
+YWTA,Yellow-winged Tanager,Thraupis abbas,THRABB,Passeriformes,Thraupidae,
+YWVI,Yellow-winged Vireo,Vireo carmioli,VIRCAM,Passeriformes,Vireonidae,
+YUFL,Yucatan Flycatcher,Myiarchus yucatanensis,MYIYUC,Passeriformes,Tyrannidae,Tyranninae
+YUJA,Yucatan Jay,Cyanocorax yucatanicus,CYAYUC,Passeriformes,Corvidae,
+YUNI,Yucatan Nightjar,Antrostomus badius,ANTBAD,Caprimulgiformes,Caprimulgidae,Caprimulginae
+YUPO,Yucatan Poorwill,Nyctiphrynus yucatanicus,NYCYUC,Caprimulgiformes,Caprimulgidae,Caprimulginae
+YUVI,Yucatan Vireo,Vireo magister,VIRMAG,Passeriformes,Vireonidae,
+YUWO,Yucatan Woodpecker,Melanerpes pygmaeus,MELPYG,Piciformes,Picidae,Picinae
+YUWR,Yucatan Wren,Campylorhynchus yucatanicus,CAMYUC,Passeriformes,Troglodytidae,
+ZARA,Zapata Rail,Cyanolimnas cerverai,CYACER,Gruiformes,Rallidae,
+ZASP,Zapata Sparrow,Torreornis inexpectata,TORINE,Passeriformes,Emberizidae,
+ZAWR,Zapata Wren,Ferminia cerverai,FERCER,Passeriformes,Troglodytidae,
+ZEBD,Zebra Dove,Geopelia striata,GEOSTR,Columbiformes,Columbidae,
+ZEND,Zenaida Dove,Zenaida aurita,ZENAUT,Columbiformes,Columbidae,
+ZTHA,Zone-tailed Hawk,Buteo albonotatus,BUTALN,Accipitriformes,Accipitridae,Accipitrinae
