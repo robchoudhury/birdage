@@ -27,10 +27,10 @@ birdnames=read_csv("birdnames.csv")   #this data is from http://fielddata.blogsp
 birdnameage=merge(birdage, birdnames, all=T) %>% #merge the two datasets together
 filter(., !is.na(select(., age)))
 
-gapnames=read_csv("gapnames.csv") #I manually found some on Wiki quickly, not sure theyre perfect to species
-gapnames=gapnames[!duplicated(gapnames$COMMONNAME),] #maybe if I get rid of duplicates?
+#gapnames=read_csv("gapnames.csv") #I manually found some on Wiki quickly, not sure theyre perfect to species
+#gapnames=gapnames[!duplicated(gapnames$COMMONNAME),] #maybe if I get rid of duplicates?
 
-test=merge(birdnameage, gapnames, all =T) #I have no fucking clue why this isnt working ill fix this later
+#test=merge(birdnameage, gapnames, all =T) #I have no fucking clue why this isnt working ill fix this later
 
 ```
 
@@ -46,6 +46,7 @@ ggplot(birdnameage, aes(age))+
 ```
 
 
+Okay, so it looks like most of the birds were about 10 years old, but some were a lot older.
 
 
 ```{r }
@@ -57,3 +58,7 @@ ggplot(birdnameage, aes(Order, age))+
         axis.title=element_text(size=14, face = "bold"))
 ```
 
+
+While some Orders seem to have more long-lived members (looking at you, Procellariiformes), most seem to top out around 30-40 years old.
+
+Ideally, I want to track down some phylogenetic data and some bird size data so I can see if there are any other cool connections between the data.
