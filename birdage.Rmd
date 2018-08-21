@@ -1,36 +1,39 @@
 ---
 title: "Bird Age"
 author: "Robin"
-date: "August 19, 2017"
-output: html_document
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
-library(rvest)
-
+library(viridis)
+library(ggridges)
 ```
 
 ## Bird Age
 
-I stumbled across a dataset of bird ages on a (USGS website)[https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm], and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc)
+I stumbled across a dataset of bird ages on a [USGS website](https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm), and wanted to know if there was a relationship between bird age and other variables (weight, wingspan, etc).
 
 
 ```{r load data}
-birdage=read_csv("bird age.csv") %>% #this data is from https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm
+birdage=read_csv("data_bird_age/bird age.csv") %>% #this data is from https://www.pwrc.usgs.gov/bbl/longevity/longevity_main.cfm
  separate(., "Minimum age at encounter", into=c("year","year2","month","month2"), sep=" ") %>%
   filter(complete.cases(.)) %>% #I just chucked out one row because the bird age was less than a year, I'll figure out how to keep it later. Had to do this versus using the dates because the dates are screwed up (some say '99' for the day of the month)
-  mutate(age=as.numeric(year)+(as.numeric(month)/12)) #so that we can factor in partial years
-  
-birdnames=read_csv("birdnames.csv")   #this data is from http://fielddata.blogspot.com/p/field-notes-data-tips-download-page.html
+  mutate(age=as.numeric(year)+(as.numeric(month)/12))  #so that we can factor in partial years
+gapnames=read_csv("data_bird_age/gapnames.csv") #I manually found some on Wiki quickly, not sure theyre perfect to species
+gapnames=gapnames[!duplicated(gapnames$COMMONNAME),] #maybe if I get rid of duplicates?
+
+birdnames=read_csv("data_bird_age/birdnames.csv") %>%   #this data is from http://fielddata.blogspot.com/p/field-notes-data-tips-download-page.html
+  full_join(gapnames)
+
 birdnameage=merge(birdage, birdnames, all=T) %>% #merge the two datasets together
-filter(., !is.na(select(., age)))
+filter(., !is.na(select(., age)), !is.na(select(., Order)), !is.na(select(., Family))) 
 
-#gapnames=read_csv("gapnames.csv") #I manually found some on Wiki quickly, not sure theyre perfect to species
-#gapnames=gapnames[!duplicated(gapnames$COMMONNAME),] #maybe if I get rid of duplicates?
-
-#test=merge(birdnameage, gapnames, all =T) #I have no fucking clue why this isnt working ill fix this later
 
 ```
 
@@ -39,26 +42,55 @@ filter(., !is.na(select(., age)))
 I wanted to know if there was any signal for how old birds get if theyre closely related. Ultimately, I would love to know how age is affected by size (weight, wingspan, whatever) but I cant find open datasets for that.
 
 ```{r histogram}
-ggplot(birdnameage, aes(age))+
-  geom_histogram()+
-  theme_bw()
+ggplot(birdnameage, aes(x=age, y=reorder(Order, age, FUN=median), fill=..x..))+
+  geom_density_ridges_gradient() +
+  scale_fill_viridis(name = "Age (Years)", option = "C") + 
+  guides(fill = guide_colorbar(barwidth = 2, barheight = 10))+
+  #geom_histogram()+
+  #geom_vline(xintercept = median(birdnameage$age), color = "red", linetype = "dashed")+
+  theme_ridges()+
+  ylab("Number of Birds Captured")+
+  xlab("Age of Captured Bird")
 
+ggsave(filename = "img_bird_age/joy_plot.png",width = 10, height = 7, units = "in", dpi = 300, type="cairo-png")
 ```
 
+#![](img_bird_age/joy_plot.png)
 
-Okay, so it looks like most of the birds were about 10 years old, but some were a lot older.
+Looks like some bird orders have individuals that live longer than others, but it's difficult to say for some whether thats just a sampling issue.
 
+## Mean Variance Relationship
 
-```{r }
-ggplot(birdnameage, aes(Order, age))+
-  geom_jitter()+
-  geom_boxplot(aes(alpha=0.3),outlier.shape = NA)+
-  theme(axis.text = element_text(angle=90, hjust = 1, size=10),
-        legend.position = "none",
-        axis.title=element_text(size=14, face = "bold"))
+The relationship between the mean and the variance of a dataset can tell you ... stuff (see https://en.wikipedia.org/wiki/Variance_function). Honestly I was just curious if there was a relationship, I need to revisit why this bit is important.
+
+```{r mean variance}
+bird_summary<- birdnameage %>% 
+  group_by(Family, Order) %>%
+  summarise(mean=mean(age), var=var(age), n=length(age)) %>%
+  filter(., n>1) #drop singletons
+
+ggplot(bird_summary, aes(log(mean), log(var)))+
+  geom_point(aes(color=Order, size=n))+
+  geom_smooth(method = "lm")+
+  theme(legend.position = "bottom")
+
+summary(lm(log(mean)~log(var), data=bird_summary))
+
+ggsave(filename = "img_bird_age/mean_variance.png",width = 10, height = 7, units = "in", dpi = 300, type="cairo-png")
 ```
 
+#![](img_bird_age/mean_variance.png)
 
-While some Orders seem to have more long-lived members (looking at you, Procellariiformes), most seem to top out around 30-40 years old.
+It looks like there is a pretty strong relationship between log mean and log variance, with an $R^2 of 0.3722, a slope of 0.14848. 
 
-Ideally, I want to track down some phylogenetic data and some bird size data so I can see if there are any other cool connections between the data.
+
+##Next Up?
+
+Ideally, it would be awesome to find a dataset that tied bird name with bird weight or wingspan or other variables. That way you could see if bird weight/wingspan correlated with age or phylogeny. It would also be cool to see a tree of bird orders to see if more closely related things had similar ages.
+
+##Session Info
+
+```{r}
+sessionInfo()
+```
+
